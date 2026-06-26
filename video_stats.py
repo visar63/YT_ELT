@@ -41,20 +41,52 @@ def get_video_Ids(playlist_id):
             break
     return video_ids
 
+def batch_list(video_ids, batch_size=50):
+    for i in range(0, len(video_ids), batch_size):
+        yield video_ids[i:i + batch_size]
+
+def get_video_details(video_ids):
+    extracted_data = []
+    for batch in batch_list(video_ids):
+        video_ids_str = ','.join(batch)
+
+        url = f"https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&part=snippet&part=statistics&id={video_ids_str}&key={API_KEY}"
+
+        print(f"Fetching video details for batch: {batch}")
+
+        response = requests.get(url, timeout=30)
+        response.raise_for_status()
+
+        data = response.json()
+        for item in data["items"]:
+            extracted_data.append({
+                "video_id": item["id"],
+                "publishedAt":  item["snippet"]["publishedAt"],
+                "title":        item["snippet"]["title"],
+                "duration":     item["contentDetails"]["duration"],
+                "viewCount":    item["statistics"].get("viewCount", None),
+                "likeCount":    item["statistics"].get("likeCount", None),
+                "commentCount": item["statistics"].get("commentCount", None)
+            })
+
+
+        # extracted_data.extend([item["snippet"] for item in data["items"]])
+    return extracted_data
+
 def main():
     try:
         playlist_id = get_channel_playlist_id()
-        print(f'Playlist ID: {playlist_id}')
+        # print(f'Playlist ID: {playlist_id}')
 
         video_ids = get_video_Ids(playlist_id)
-        print(f'Video IDs: {video_ids}')
+        # print(f'Video IDs: {video_ids}')
+
+        video_details = get_video_details(video_ids)
+        # print(f'Video Details: {video_details}')
         # return 0 # Success
     except requests.RequestException as exc:
         print(f"Error: {exc}", file=sys.stderr)
         # return 1 # Error
-    
-    # BASE_URL = f"https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&maxResults={MAX_RESULTS}&playlistId={playlist_id}&key={API_KEY}"
-
 
 if __name__ == "__main__":
     raise SystemExit(main())
