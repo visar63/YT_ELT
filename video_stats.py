@@ -6,8 +6,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 API_KEY = os.getenv("API_KEY")
-
 CHANNEL_HANDLE = "MrBeast"
+MAX_RESULTS = 50
+
 
 URL = f"https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle={CHANNEL_HANDLE}&key={API_KEY}"
 
@@ -18,15 +19,41 @@ def get_channel_playlist_id():
     data = response.json()
     channel_playlist_Id = data["items"][0]["contentDetails"]["relatedPlaylists"]['uploads']
     # json_data = json.dumps(data, indent=4)
+    # print(f'Channel Playlist ID: {channel_playlist_Id}')
     return channel_playlist_Id
+
+def get_video_Ids(playlist_id):
+    video_ids = []
+    page_token = None
+
+    url = f"https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&maxResults={MAX_RESULTS}&playlistId={playlist_id}&key={API_KEY}"
+    while True:
+        if page_token:
+            url += f"&pageToken={page_token}"
+        response = requests.get(url, timeout=30)
+        response.raise_for_status()
+
+        data = response.json()
+        video_ids.extend([item["contentDetails"]["videoId"] for item in data["items"]])
+        page_token = data.get("nextPageToken")
+        print(f"Next page token: {page_token}")
+        if not page_token:
+            break
+    return video_ids
 
 def main():
     try:
-        print(get_channel_playlist_id())
-        return 0 # Success
+        playlist_id = get_channel_playlist_id()
+        print(f'Playlist ID: {playlist_id}')
+
+        video_ids = get_video_Ids(playlist_id)
+        print(f'Video IDs: {video_ids}')
+        # return 0 # Success
     except requests.RequestException as exc:
         print(f"Error: {exc}", file=sys.stderr)
-        return 1 # Error
+        # return 1 # Error
+    
+    # BASE_URL = f"https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&maxResults={MAX_RESULTS}&playlistId={playlist_id}&key={API_KEY}"
 
 
 if __name__ == "__main__":
