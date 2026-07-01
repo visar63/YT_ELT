@@ -8,7 +8,7 @@ from datetime import date
 load_dotenv()
 
 API_KEY = os.getenv("API_KEY")
-CHANNEL_HANDLE = "MrBeast"
+CHANNEL_HANDLE = "ArjanCodes"
 MAX_RESULTS = 50
 
 
