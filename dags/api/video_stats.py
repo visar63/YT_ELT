@@ -5,19 +5,19 @@ import os
 from dotenv import load_dotenv
 from datetime import date
 
-# from airflow.decorators import dag, task
-# from airflow.models import Variable
+from airflow.decorators import task
+from airflow.models import Variable
 
-load_dotenv()
+# load_dotenv()
 
-API_KEY = os.getenv("API_KEY")
-CHANNEL_HANDLE = os.getenv("CHANNEL_HANDLE")
+API_KEY = Variable.get("API_KEY")
+CHANNEL_HANDLE = Variable.get("CHANNEL_HANDLE")
 MAX_RESULTS = 50
 
 
 URL = f"https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle={CHANNEL_HANDLE}&key={API_KEY}"
 
-# @task
+@task
 def get_channel_playlist_id():
     response = requests.get(URL, timeout=30)
     response.raise_for_status()
@@ -28,7 +28,7 @@ def get_channel_playlist_id():
     print(f'Channel Playlist ID: {channel_playlist_Id}')
     return channel_playlist_Id
 
-# @task
+@task
 def get_video_Ids(playlist_id):
     video_ids = []
     page_token = None
@@ -43,7 +43,7 @@ def get_video_Ids(playlist_id):
         data = response.json()
         video_ids.extend([item["contentDetails"]["videoId"] for item in data["items"]])
         page_token = data.get("nextPageToken")
-        # print(f"Next page token: {page_token}")
+        print(f"Next page token: {page_token}")
         if not page_token:
             break
     return video_ids
@@ -52,7 +52,7 @@ def batch_list(video_ids, batch_size=50):
     for i in range(0, len(video_ids), batch_size):
         yield video_ids[i:i + batch_size] # Yield batches of video IDs, each of size `batch_size`
 
-# @task
+@task
 def get_video_details(video_ids):
     extracted_data = []
     for batch in batch_list(video_ids):
@@ -78,33 +78,34 @@ def get_video_details(video_ids):
         # extracted_data.extend([item["snippet"] for item in data["items"]])
     return extracted_data
 
-# @task
-def save_to_json(data, filename):
+@task
+def save_to_json(data):
+    filename = f"video_details_{date.today()}.json"
     filepath = f"data/{filename}"
     with open(filepath, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
+    
+# def main():
 
-def main():
+#     #check if folder 'data' exists, if not create it
+#     if not os.path.exists("data"):
+#         os.makedirs("data")
 
-    #check if folder 'data' exists, if not create it
-    if not os.path.exists("data"):
-        os.makedirs("data")
+#     try:
+#         playlist_id = get_channel_playlist_id()
+#         # print(f'Playlist ID: {playlist_id}')
 
-    try:
-        playlist_id = get_channel_playlist_id()
-        # print(f'Playlist ID: {playlist_id}')
+#         video_ids = get_video_Ids(playlist_id)
+#         # print(f'Video IDs: {video_ids}')
 
-        video_ids = get_video_Ids(playlist_id)
-        # print(f'Video IDs: {video_ids}')
+#         video_details = get_video_details(video_ids)
+#         # print(f'Video Details: {video_details}')
+#         save_to_json(video_details, f"video_details_{date.today()}.json")
 
-        video_details = get_video_details(video_ids)
-        # print(f'Video Details: {video_details}')
-        save_to_json(video_details, f"video_details_{date.today()}.json")
+#     except requests.RequestException as exc:
+#         print(f"Error: {exc}", file=sys.stderr)
+#         # return 1 # Error
 
-    except requests.RequestException as exc:
-        print(f"Error: {exc}", file=sys.stderr)
-        # return 1 # Error
-
-if __name__ == "__main__":
-    raise SystemExit(main())
+# if __name__ == "__main__":
+#     raise SystemExit(main())
