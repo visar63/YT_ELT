@@ -12,10 +12,9 @@ from datetime import datetime, timedelta
     },"""
 
 
-def parse_duration(duration_str):
+def parse_duration(duration_str: str) -> timedelta:
 
     duration_str = duration_str.replace("P", "").replace("T", "")
-
     components = ['D', 'H', 'M', 'S']
     values = {'D': 0, 'H': 0, 'M': 0, 'S': 0}  # days, hours, minutes, seconds
 
@@ -28,23 +27,19 @@ def parse_duration(duration_str):
     return total_duration
 
 
-def transform_data(row):
+def transform_data(row: dict) -> dict:
     """
     Transforms the input data row by parsing the duration and converting it to a timedelta object.
-
     Args:
         row (dict): A dictionary representing a row of data.
-
     Returns:
         dict: A transformed dictionary with the duration converted to a timedelta object.
     """
-    transformed_row = row.copy()  # Create a copy of the input row to avoid modifying the original
-
+    transformed_row = row.copy()
     duration_td = parse_duration(row['duration'])  # Parse the duration string and convert it to a timedelta object
 
     # Parse the duration string and convert it to a timedelta object
     transformed_row['Duration'] = (datetime.min + duration_td).time()  # Convert the timedelta to a time object
-
     transformed_row['Video_Type'] = "Shorts" if duration_td.total_seconds() < timedelta(minutes=1).total_seconds() else "Normal"  # Determine the video type based on duration
 
     return transformed_row  # Return the transformed row

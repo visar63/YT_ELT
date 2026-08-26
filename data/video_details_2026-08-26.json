@@ -1,0 +1,5087 @@
+[
+    {
+        "video_id": "ssLO99uwPWI",
+        "publishedAt": "2026-08-14T15:00:36Z",
+        "title": "15 Python Libraries That Deserve More Attention",
+        "duration": "PT18M49S",
+        "viewCount": "39676",
+        "likeCount": "2025",
+        "commentCount": "62"
+    },
+    {
+        "video_id": "ss6je4-nDx8",
+        "publishedAt": "2026-08-07T15:00:28Z",
+        "title": "Composite: The Pattern Behind Menus, File Systems and Games",
+        "duration": "PT19M39S",
+        "viewCount": "25784",
+        "likeCount": "864",
+        "commentCount": "29"
+    },
+    {
+        "video_id": "lM7zWJRrRtg",
+        "publishedAt": "2026-07-31T15:00:34Z",
+        "title": "Better Python Code: Ditch the Dictionaries",
+        "duration": "PT20M47S",
+        "viewCount": "25641",
+        "likeCount": "1102",
+        "commentCount": "95"
+    },
+    {
+        "video_id": "UEqk0njCuQo",
+        "publishedAt": "2026-07-24T15:00:16Z",
+        "title": "Your Codebase Is Too Fragile",
+        "duration": "PT17M49S",
+        "viewCount": "16355",
+        "likeCount": "699",
+        "commentCount": "40"
+    },
+    {
+        "video_id": "h8ZwhU3PpVw",
+        "publishedAt": "2026-07-10T15:00:30Z",
+        "title": "Stop Checking for None Everywhere",
+        "duration": "PT20M32S",
+        "viewCount": "65997",
+        "likeCount": "2429",
+        "commentCount": "177"
+    },
+    {
+        "video_id": "0sbLM_rBgww",
+        "publishedAt": "2026-07-03T15:00:37Z",
+        "title": "AI Writes Code Faster Than You. Now What?",
+        "duration": "PT18M20S",
+        "viewCount": "47505",
+        "likeCount": "1743",
+        "commentCount": "233"
+    },
+    {
+        "video_id": "43sDzyanzR0",
+        "publishedAt": "2026-06-26T15:00:22Z",
+        "title": "Too Many Parameters? Use This Pattern",
+        "duration": "PT13M42S",
+        "viewCount": "146344",
+        "likeCount": "5529",
+        "commentCount": "210"
+    },
+    {
+        "video_id": "xns3InDkAiA",
+        "publishedAt": "2026-06-19T15:00:06Z",
+        "title": "You Don’t Need That Design Pattern",
+        "duration": "PT14M9S",
+        "viewCount": "20052",
+        "likeCount": "725",
+        "commentCount": "41"
+    },
+    {
+        "video_id": "095HrcWwHLI",
+        "publishedAt": "2026-06-12T15:00:09Z",
+        "title": "Nested Loops Aren’t the Problem. This Is.",
+        "duration": "PT15M23S",
+        "viewCount": "27782",
+        "likeCount": "1145",
+        "commentCount": "79"
+    },
+    {
+        "video_id": "yc-gp3PFHEI",
+        "publishedAt": "2026-05-29T15:00:15Z",
+        "title": "Your REST API Needs Webhooks",
+        "duration": "PT18M7S",
+        "viewCount": "25336",
+        "likeCount": "944",
+        "commentCount": "41"
+    },
+    {
+        "video_id": "H9KeR9i3iMk",
+        "publishedAt": "2026-05-22T15:00:19Z",
+        "title": "I’m done with the AI hype",
+        "duration": "PT8M44S",
+        "viewCount": "236381",
+        "likeCount": "9761",
+        "commentCount": "725"
+    },
+    {
+        "video_id": "F5Av5yDGSQs",
+        "publishedAt": "2026-05-15T15:00:33Z",
+        "title": "Let’s Fix Bloated Python Classes Once and For All",
+        "duration": "PT14M55S",
+        "viewCount": "25763",
+        "likeCount": "1031",
+        "commentCount": "37"
+    },
+    {
+        "video_id": "GmlZBdKhl9Y",
+        "publishedAt": "2026-05-08T15:00:27Z",
+        "title": "DRY Often Makes Your Code Worse",
+        "duration": "PT13M38S",
+        "viewCount": "17601",
+        "likeCount": "900",
+        "commentCount": "59"
+    },
+    {
+        "video_id": "rZpwFN_n2-g",
+        "publishedAt": "2026-05-01T15:01:33Z",
+        "title": "Your API Can’t Handle Real-World Integrations",
+        "duration": "PT13M",
+        "viewCount": "28401",
+        "likeCount": "1164",
+        "commentCount": "53"
+    },
+    {
+        "video_id": "wYeDGkdMi3g",
+        "publishedAt": "2026-04-24T15:01:50Z",
+        "title": "Don’t Use Boolean Flags in Python, Use Policies Instead",
+        "duration": "PT15M10S",
+        "viewCount": "162171",
+        "likeCount": "4995",
+        "commentCount": "265"
+    },
+    {
+        "video_id": "5VN-3rIUPZ8",
+        "publishedAt": "2026-04-17T15:00:09Z",
+        "title": "What Most Python Developers Miss About Generators",
+        "duration": "PT24M",
+        "viewCount": "30001",
+        "likeCount": "1173",
+        "commentCount": "58"
+    },
+    {
+        "video_id": "OeirQdzYdnc",
+        "publishedAt": "2026-04-10T15:00:47Z",
+        "title": "The State Pattern Done the Pythonic Way",
+        "duration": "PT26M23S",
+        "viewCount": "39955",
+        "likeCount": "1655",
+        "commentCount": "91"
+    },
+    {
+        "video_id": "KDnP_zbp-9Q",
+        "publishedAt": "2026-04-03T15:00:35Z",
+        "title": "Python Has Serious Problems, But I Use It Anyway",
+        "duration": "PT10M14S",
+        "viewCount": "42734",
+        "likeCount": "1932",
+        "commentCount": "343"
+    },
+    {
+        "video_id": "U4sPMwAiXco",
+        "publishedAt": "2026-03-27T16:00:27Z",
+        "title": "Why “Clean Code” Often Creates Worse Designs",
+        "duration": "PT26M27S",
+        "viewCount": "25963",
+        "likeCount": "1034",
+        "commentCount": "47"
+    },
+    {
+        "video_id": "7SUzTOkUVLY",
+        "publishedAt": "2026-03-20T16:00:16Z",
+        "title": "The Hidden Mechanism Behind Clean Python APIs (Descriptor Deep Dive)",
+        "duration": "PT16M36S",
+        "viewCount": "20557",
+        "likeCount": "870",
+        "commentCount": "34"
+    },
+    {
+        "video_id": "CWYwz3iV1g0",
+        "publishedAt": "2026-03-13T16:00:30Z",
+        "title": "Make Invalid States Impossible in Python",
+        "duration": "PT14M",
+        "viewCount": "67938",
+        "likeCount": "3009",
+        "commentCount": "250"
+    },
+    {
+        "video_id": "FXwBWS4qDAA",
+        "publishedAt": "2026-03-06T16:00:21Z",
+        "title": "Stop Mixing FastAPI with Business Logic: Fix It with Ports & Adapters",
+        "duration": "PT25M24S",
+        "viewCount": "57497",
+        "likeCount": "2119",
+        "commentCount": "155"
+    },
+    {
+        "video_id": "Y9_h7ehjhO4",
+        "publishedAt": "2026-02-27T16:00:53Z",
+        "title": "You’ve Been Underusing Dataclasses (These Tricks Are Wild)",
+        "duration": "PT27M59S",
+        "viewCount": "33908",
+        "likeCount": "1189",
+        "commentCount": "59"
+    },
+    {
+        "video_id": "wHLZ_uTrCYA",
+        "publishedAt": "2026-02-20T16:01:30Z",
+        "title": "Python Properties vs Methods: The Contract You Didn’t Know You Were Making",
+        "duration": "PT17M5S",
+        "viewCount": "64064",
+        "likeCount": "2388",
+        "commentCount": "108"
+    },
+    {
+        "video_id": "Spp-uzXzzdE",
+        "publishedAt": "2026-02-13T16:00:46Z",
+        "title": "CQRS in Python: Clean Reads, Clean Writes",
+        "duration": "PT22M25S",
+        "viewCount": "43704",
+        "likeCount": "967",
+        "commentCount": "45"
+    },
+    {
+        "video_id": "f1Nb_JV_s8Y",
+        "publishedAt": "2026-02-06T16:01:06Z",
+        "title": "Stop Building Ugly APIs: Use the Fluent Interface Pattern",
+        "duration": "PT17M36S",
+        "viewCount": "39517",
+        "likeCount": "1325",
+        "commentCount": "78"
+    },
+    {
+        "video_id": "cXl-AUXHHZY",
+        "publishedAt": "2026-01-30T16:01:02Z",
+        "title": "10 Python Features You’re Not Using (But Really Should)",
+        "duration": "PT20M45S",
+        "viewCount": "74311",
+        "likeCount": "3150",
+        "commentCount": "175"
+    },
+    {
+        "video_id": "KqfMiuL3cx4",
+        "publishedAt": "2026-01-23T16:00:35Z",
+        "title": "This Design Pattern Scares Me To Death",
+        "duration": "PT29M36S",
+        "viewCount": "79580",
+        "likeCount": "2708",
+        "commentCount": "362"
+    },
+    {
+        "video_id": "YTsJQ4ixq88",
+        "publishedAt": "2026-01-16T16:01:02Z",
+        "title": "7 Things You Didn’t Know Dataclasses Could Do",
+        "duration": "PT20M24S",
+        "viewCount": "46670",
+        "likeCount": "2200",
+        "commentCount": "66"
+    },
+    {
+        "video_id": "8Pi6vGRlp1c",
+        "publishedAt": "2026-01-09T16:00:14Z",
+        "title": "The Right Way to Use AI for Writing Maintainable Code",
+        "duration": "PT27M34S",
+        "viewCount": "48173",
+        "likeCount": "1452",
+        "commentCount": "169"
+    },
+    {
+        "video_id": "b6RnBKvQ40o",
+        "publishedAt": "2026-01-02T16:01:05Z",
+        "title": "I Made a Classic Refactoring Mistake",
+        "duration": "PT16M23S",
+        "viewCount": "24933",
+        "likeCount": "1213",
+        "commentCount": "98"
+    },
+    {
+        "video_id": "GMBiCMsEsq8",
+        "publishedAt": "2025-12-26T16:00:25Z",
+        "title": "How to Tell If Your Code Is Actually Production-Ready",
+        "duration": "PT24M40S",
+        "viewCount": "43504",
+        "likeCount": "1714",
+        "commentCount": "74"
+    },
+    {
+        "video_id": "43vH_lnM7x0",
+        "publishedAt": "2025-12-19T16:00:08Z",
+        "title": "Retry Pattern: The Secret to Resilient Python Code",
+        "duration": "PT24M2S",
+        "viewCount": "31291",
+        "likeCount": "1264",
+        "commentCount": "73"
+    },
+    {
+        "video_id": "mH7e7fs9gaE",
+        "publishedAt": "2025-12-12T16:01:25Z",
+        "title": "From Spaghetti Code to Clean Python",
+        "duration": "PT23M23S",
+        "viewCount": "124976",
+        "likeCount": "4964",
+        "commentCount": "378"
+    },
+    {
+        "video_id": "ENnDxEOAKKc",
+        "publishedAt": "2025-12-05T16:00:25Z",
+        "title": "The Lazy Loading Pattern: How to Make Python Programs Feel Instant",
+        "duration": "PT19M39S",
+        "viewCount": "45303",
+        "likeCount": "1509",
+        "commentCount": "84"
+    },
+    {
+        "video_id": "Xhzn1eAxoXk",
+        "publishedAt": "2025-11-28T16:01:02Z",
+        "title": "Stop Hardcoding Everything: Use Dependency Injection",
+        "duration": "PT32M37S",
+        "viewCount": "141891",
+        "likeCount": "4713",
+        "commentCount": "242"
+    },
+    {
+        "video_id": "t-LC1dWLpNs",
+        "publishedAt": "2025-11-21T16:01:30Z",
+        "title": "Stop Overwriting State And Use Event Sourcing Instead",
+        "duration": "PT25M12S",
+        "viewCount": "35289",
+        "likeCount": "1149",
+        "commentCount": "75"
+    },
+    {
+        "video_id": "8_Pf4y5yqCE",
+        "publishedAt": "2025-11-14T16:00:25Z",
+        "title": "Learning Python Feels Easy. Until It Isn’t.",
+        "duration": "PT25M51S",
+        "viewCount": "45985",
+        "likeCount": "1819",
+        "commentCount": "97"
+    },
+    {
+        "video_id": "bsU7AFjh4m8",
+        "publishedAt": "2025-11-07T16:00:58Z",
+        "title": "How to Write Python That Feels Like Python",
+        "duration": "PT26M39S",
+        "viewCount": "171186",
+        "likeCount": "6803",
+        "commentCount": "402"
+    },
+    {
+        "video_id": "UG5jbLReDiM",
+        "publishedAt": "2025-10-31T16:00:52Z",
+        "title": "Too Many Function Arguments? Use This Pattern",
+        "duration": "PT19M45S",
+        "viewCount": "128105",
+        "likeCount": "4204",
+        "commentCount": "211"
+    },
+    {
+        "video_id": "N_ypJwV8Q8I",
+        "publishedAt": "2025-10-24T15:00:46Z",
+        "title": "The Best Way to Share Code Between Python Apps",
+        "duration": "PT18M28S",
+        "viewCount": "47520",
+        "likeCount": "1818",
+        "commentCount": "112"
+    },
+    {
+        "video_id": "g7EGMWvJ1fI",
+        "publishedAt": "2025-10-17T15:01:30Z",
+        "title": "I Hate Long If-Elif Chains: This Design Pattern Solved It Once and For All",
+        "duration": "PT15M24S",
+        "viewCount": "410010",
+        "likeCount": "11892",
+        "commentCount": "729"
+    },
+    {
+        "video_id": "S_shhw4VV68",
+        "publishedAt": "2025-10-10T15:00:54Z",
+        "title": "My 4 Favorite Python 3.14 Features",
+        "duration": "PT12M29S",
+        "viewCount": "62574",
+        "likeCount": "2592",
+        "commentCount": "126"
+    },
+    {
+        "video_id": "Af6Zr0tNNdE",
+        "publishedAt": "2025-10-03T15:00:28Z",
+        "title": "Anatomy of a Scalable Python Project (FastAPI)",
+        "duration": "PT21M16S",
+        "viewCount": "141654",
+        "likeCount": "5763",
+        "commentCount": "232"
+    },
+    {
+        "video_id": "uxwjXLjJOoM",
+        "publishedAt": "2025-09-26T15:01:56Z",
+        "title": "I Tried SOLID Principles in Python… Here’s What Happened",
+        "duration": "PT21M56S",
+        "viewCount": "69653",
+        "likeCount": "2178",
+        "commentCount": "170"
+    },
+    {
+        "video_id": "p_UQ7tzUFLo",
+        "publishedAt": "2025-09-19T15:01:44Z",
+        "title": "The Real Reason the Singleton Pattern Exists",
+        "duration": "PT15M31S",
+        "viewCount": "45064",
+        "likeCount": "1562",
+        "commentCount": "109"
+    },
+    {
+        "video_id": "8_liatgLkLc",
+        "publishedAt": "2025-09-12T15:00:26Z",
+        "title": "Avoid Messy Code: Design Patterns for AI Agents in Python",
+        "duration": "PT18M19S",
+        "viewCount": "26039",
+        "likeCount": "802",
+        "commentCount": "40"
+    },
+    {
+        "video_id": "eZ9RqnkJxsk",
+        "publishedAt": "2025-09-05T15:01:14Z",
+        "title": "10 Powerful Python Modules You’re Probably Not Using",
+        "duration": "PT15M39S",
+        "viewCount": "121824",
+        "likeCount": "5145",
+        "commentCount": "189"
+    },
+    {
+        "video_id": "-WB0T0XmDrY",
+        "publishedAt": "2025-08-29T15:00:00Z",
+        "title": "Build Production-Ready AI Agents in Python with Pydantic AI",
+        "duration": "PT15M50S",
+        "viewCount": "123950",
+        "likeCount": "4891",
+        "commentCount": "189"
+    },
+    {
+        "video_id": "1THzmkEFQKA",
+        "publishedAt": "2025-08-22T15:00:03Z",
+        "title": "We need to talk.",
+        "duration": "PT8M12S",
+        "viewCount": "26778",
+        "likeCount": "1616",
+        "commentCount": "102"
+    },
+    {
+        "video_id": "EIV_ixKGPmc",
+        "publishedAt": "2025-08-15T15:00:32Z",
+        "title": "How to Write Great Unit Tests in Python",
+        "duration": "PT22M57S",
+        "viewCount": "47716",
+        "likeCount": "1470",
+        "commentCount": "63"
+    },
+    {
+        "video_id": "CJJzrtHeLGI",
+        "publishedAt": "2025-08-08T15:00:20Z",
+        "title": "UV Just Got A Serious Upgrade",
+        "duration": "PT9M55S",
+        "viewCount": "47231",
+        "likeCount": "2124",
+        "commentCount": "154"
+    },
+    {
+        "video_id": "F09EK4ztG34",
+        "publishedAt": "2025-08-01T15:00:26Z",
+        "title": "Beyond Pandas & NumPy: 14 Python Libraries to Try",
+        "duration": "PT24M12S",
+        "viewCount": "69598",
+        "likeCount": "2879",
+        "commentCount": "141"
+    },
+    {
+        "video_id": "2f1FkGQTarc",
+        "publishedAt": "2025-07-25T15:00:10Z",
+        "title": "The Builder Pattern in Python: Finally Explained!",
+        "duration": "PT14M19S",
+        "viewCount": "63575",
+        "likeCount": "2706",
+        "commentCount": "113"
+    },
+    {
+        "video_id": "70uORDj3Lzc",
+        "publishedAt": "2025-07-18T15:00:11Z",
+        "title": "Is SaaS Dead? Here's a Senior Engineer's Perspective",
+        "duration": "PT13M20S",
+        "viewCount": "18140",
+        "likeCount": "432",
+        "commentCount": "34"
+    },
+    {
+        "video_id": "Ov8JsEnNLCM",
+        "publishedAt": "2025-07-11T15:00:49Z",
+        "title": "I Designed a Python SDK That Relies on… Deep Inheritance?!",
+        "duration": "PT22M58S",
+        "viewCount": "18173",
+        "likeCount": "659",
+        "commentCount": "82"
+    },
+    {
+        "video_id": "SNqwNILX1Gg",
+        "publishedAt": "2025-07-04T15:00:50Z",
+        "title": "This Is Why Your Python Code Turns Into Spaghetti",
+        "duration": "PT21M10S",
+        "viewCount": "37682",
+        "likeCount": "1438",
+        "commentCount": "72"
+    },
+    {
+        "video_id": "NRIgLNzmnYY",
+        "publishedAt": "2025-06-27T15:00:51Z",
+        "title": "Why Dataclasses Disappear in Real Python Applications",
+        "duration": "PT14M30S",
+        "viewCount": "134710",
+        "likeCount": "2917",
+        "commentCount": "177"
+    },
+    {
+        "video_id": "EYYhDnPAPcw",
+        "publishedAt": "2025-06-20T15:00:23Z",
+        "title": "Serverless on Google Cloud: What You Can and Can’t Do",
+        "duration": "PT19M36S",
+        "viewCount": "11215",
+        "likeCount": "292",
+        "commentCount": "30"
+    },
+    {
+        "video_id": "r0QIuI1wpes",
+        "publishedAt": "2025-06-13T15:01:35Z",
+        "title": "MCP…. So What’s That All About?",
+        "duration": "PT13M28S",
+        "viewCount": "36414",
+        "likeCount": "2034",
+        "commentCount": "65"
+    },
+    {
+        "video_id": "OdDI-5PBpSk",
+        "publishedAt": "2025-06-06T15:00:42Z",
+        "title": "Writing Python Functions Like a Mad Scientist",
+        "duration": "PT15M51S",
+        "viewCount": "33406",
+        "likeCount": "1398",
+        "commentCount": "74"
+    },
+    {
+        "video_id": "ylzo04lU9Xs",
+        "publishedAt": "2025-05-30T15:01:49Z",
+        "title": "Stop Using map() and filter() Like This in Python",
+        "duration": "PT16M23S",
+        "viewCount": "99173",
+        "likeCount": "2355",
+        "commentCount": "232"
+    },
+    {
+        "video_id": "1g8nwmDvRhE",
+        "publishedAt": "2025-05-23T15:00:03Z",
+        "title": "If I Were Starting Today, This Would Be My Tech Stack (2025)",
+        "duration": "PT19M56S",
+        "viewCount": "23385",
+        "likeCount": "681",
+        "commentCount": "37"
+    },
+    {
+        "video_id": "ts38mSIUPSg",
+        "publishedAt": "2025-05-16T15:01:35Z",
+        "title": "10 Python Anti-Patterns That Are Breaking Your Code",
+        "duration": "PT25M16S",
+        "viewCount": "67074",
+        "likeCount": "2773",
+        "commentCount": "168"
+    },
+    {
+        "video_id": "VxiLGc5A7Ho",
+        "publishedAt": "2025-05-09T15:00:51Z",
+        "title": "I’m in prison...",
+        "duration": "PT5M39S",
+        "viewCount": "15762",
+        "likeCount": "842",
+        "commentCount": "111"
+    },
+    {
+        "video_id": "0oBLMwHdZ2Y",
+        "publishedAt": "2025-05-02T15:00:06Z",
+        "title": "The REAL Reason You Should Use Type Hints in Python",
+        "duration": "PT13M1S",
+        "viewCount": "37374",
+        "likeCount": "1911",
+        "commentCount": "125"
+    },
+    {
+        "video_id": "dVnNc9oEnF8",
+        "publishedAt": "2025-04-25T15:01:06Z",
+        "title": "The Hidden Dangers of Python Decorators",
+        "duration": "PT15M5S",
+        "viewCount": "22110",
+        "likeCount": "1033",
+        "commentCount": "85"
+    },
+    {
+        "video_id": "0U-RwnWaFIM",
+        "publishedAt": "2025-04-18T15:00:02Z",
+        "title": "10 Tips to Keep Your Software Simple",
+        "duration": "PT21M7S",
+        "viewCount": "45996",
+        "likeCount": "1359",
+        "commentCount": "92"
+    },
+    {
+        "video_id": "viAZQjs5lHk",
+        "publishedAt": "2025-04-11T15:01:36Z",
+        "title": "How to Use Git Branches Like a Pro (FastAPI Example)",
+        "duration": "PT19M",
+        "viewCount": "49248",
+        "likeCount": "1569",
+        "commentCount": "113"
+    },
+    {
+        "video_id": "MM9VQp-k0JQ",
+        "publishedAt": "2025-04-04T15:00:34Z",
+        "title": "Coupling 101: Design Choices That Make or Break Your Code",
+        "duration": "PT20M39S",
+        "viewCount": "38919",
+        "likeCount": "1513",
+        "commentCount": "77"
+    },
+    {
+        "video_id": "g-Cytq7YDCc",
+        "publishedAt": "2025-03-28T16:01:00Z",
+        "title": "Stop Writing Brittle Python Functions",
+        "duration": "PT20M56S",
+        "viewCount": "61101",
+        "likeCount": "1528",
+        "commentCount": "176"
+    },
+    {
+        "video_id": "mwlL4ZbNh1Q",
+        "publishedAt": "2025-03-24T16:01:03Z",
+        "title": "A Mindset Shift for Tech Progress",
+        "duration": "PT21S",
+        "viewCount": "13084",
+        "likeCount": "510",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "jxqGsJEhiAg",
+        "publishedAt": "2025-03-21T16:00:54Z",
+        "title": "This Is How Marie Kondo Sets up Her Pytest",
+        "duration": "PT16M2S",
+        "viewCount": "29734",
+        "likeCount": "1289",
+        "commentCount": "73"
+    },
+    {
+        "video_id": "TvF58hBz-AM",
+        "publishedAt": "2025-03-19T16:00:42Z",
+        "title": "📊 Tips for Great Streamlit Dashboards",
+        "duration": "PT27S",
+        "viewCount": "14484",
+        "likeCount": "305",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "s8PD86GEo9o",
+        "publishedAt": "2025-03-17T16:01:08Z",
+        "title": "Should Python Handle Errors Like Rust?",
+        "duration": "PT35S",
+        "viewCount": "13556",
+        "likeCount": "383",
+        "commentCount": "37"
+    },
+    {
+        "video_id": "tc713anE3UY",
+        "publishedAt": "2025-03-14T16:01:15Z",
+        "title": "This Is How You Write an Efficient Python Dockerfile",
+        "duration": "PT18M47S",
+        "viewCount": "62492",
+        "likeCount": "2298",
+        "commentCount": "171"
+    },
+    {
+        "video_id": "yZ7xcVcjTpU",
+        "publishedAt": "2025-03-12T16:01:13Z",
+        "title": "🪪 Dashboard Access Control: Tips & Tricks",
+        "duration": "PT29S",
+        "viewCount": "5292",
+        "likeCount": "161",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "J64N43ypLZQ",
+        "publishedAt": "2025-03-10T16:00:29Z",
+        "title": "⚡ Unit of Work: More than Just Databases",
+        "duration": "PT42S",
+        "viewCount": "15576",
+        "likeCount": "520",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "ho24rK_AYrQ",
+        "publishedAt": "2025-03-07T16:00:53Z",
+        "title": "These 12 Python Functions Are Built In (No Imports!)",
+        "duration": "PT22M15S",
+        "viewCount": "84673",
+        "likeCount": "2854",
+        "commentCount": "100"
+    },
+    {
+        "video_id": "8p47JVYubgY",
+        "publishedAt": "2025-03-05T16:00:15Z",
+        "title": "😣 Why Devs Feel Like Imposters",
+        "duration": "PT32S",
+        "viewCount": "9956",
+        "likeCount": "430",
+        "commentCount": "13"
+    },
+    {
+        "video_id": "xhfxNXsJXGI",
+        "publishedAt": "2025-03-03T16:01:08Z",
+        "title": "How to Build an API Backend with Docker",
+        "duration": "PT29S",
+        "viewCount": "12374",
+        "likeCount": "367",
+        "commentCount": "3"
+    },
+    {
+        "video_id": "kBVZgCrdVCw",
+        "publishedAt": "2025-02-28T16:00:56Z",
+        "title": "An Introduction to Typescript for Python Programmers",
+        "duration": "PT21M35S",
+        "viewCount": "44876",
+        "likeCount": "954",
+        "commentCount": "83"
+    },
+    {
+        "video_id": "vhE-kur_Dc4",
+        "publishedAt": "2025-02-26T16:01:09Z",
+        "title": "🤔 Choosing Between Streamlit, Dash, and Taipy",
+        "duration": "PT29S",
+        "viewCount": "57139",
+        "likeCount": "872",
+        "commentCount": "12"
+    },
+    {
+        "video_id": "-qgfkLmx0WM",
+        "publishedAt": "2025-02-24T16:00:00Z",
+        "title": "🔁 Why Async Servers Beat Sync Servers",
+        "duration": "PT34S",
+        "viewCount": "11756",
+        "likeCount": "337",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "TzpOdpdX7pE",
+        "publishedAt": "2025-02-21T16:00:37Z",
+        "title": "How Python Evolves: From PEP to Feature",
+        "duration": "PT13M56S",
+        "viewCount": "18971",
+        "likeCount": "728",
+        "commentCount": "52"
+    },
+    {
+        "video_id": "0kE0qewcIfM",
+        "publishedAt": "2025-02-19T16:00:01Z",
+        "title": "Better Dashboard Performance in 35 Seconds",
+        "duration": "PT35S",
+        "viewCount": "9145",
+        "likeCount": "330",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "q7OGeOKziUM",
+        "publishedAt": "2025-02-17T16:00:51Z",
+        "title": "📊 Dashboard UI Tips You Need to Know",
+        "duration": "PT30S",
+        "viewCount": "6848",
+        "likeCount": "204",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "bhIrmT4uf1M",
+        "publishedAt": "2025-02-14T16:00:44Z",
+        "title": "Go vs Python: What Every Developer Should Know",
+        "duration": "PT26M12S",
+        "viewCount": "128526",
+        "likeCount": "4091",
+        "commentCount": "218"
+    },
+    {
+        "video_id": "WiQL2kaaF5Q",
+        "publishedAt": "2025-02-12T16:00:36Z",
+        "title": "❌ Why Rust Doesn’t Allow Two Mutable Borrows",
+        "duration": "PT37S",
+        "viewCount": "8331",
+        "likeCount": "246",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "drBCjFeilRo",
+        "publishedAt": "2025-02-10T16:00:42Z",
+        "title": "🛡️ Why Product Shutdowns Need Security",
+        "duration": "PT26S",
+        "viewCount": "4645",
+        "likeCount": "160",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "Dbh-fM0_dUs",
+        "publishedAt": "2025-02-08T16:00:09Z",
+        "title": "Memory Management: Rust vs. C vs. Python",
+        "duration": "PT40S",
+        "viewCount": "14872",
+        "likeCount": "346",
+        "commentCount": "15"
+    },
+    {
+        "video_id": "8SYQtpSk_OI",
+        "publishedAt": "2025-02-07T16:00:08Z",
+        "title": "Stop Struggling with DataFrames – Try DuckDB for SQL on Pandas",
+        "duration": "PT19M31S",
+        "viewCount": "54551",
+        "likeCount": "1522",
+        "commentCount": "103"
+    },
+    {
+        "video_id": "x3BRSUwJnPM",
+        "publishedAt": "2025-02-05T16:00:57Z",
+        "title": "Rust’s Stack vs. Heap Memory Model",
+        "duration": "PT38S",
+        "viewCount": "8743",
+        "likeCount": "338",
+        "commentCount": "2"
+    },
+    {
+        "video_id": "ChZdeA4a6_I",
+        "publishedAt": "2025-02-03T16:00:09Z",
+        "title": "Why Overengineering Can Kill Your Project",
+        "duration": "PT38S",
+        "viewCount": "5730",
+        "likeCount": "235",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "0xA7WoCzf3s",
+        "publishedAt": "2025-02-01T16:00:00Z",
+        "title": "SQLAlchemy: Python + Databases = ❤️",
+        "duration": "PT29S",
+        "viewCount": "24967",
+        "likeCount": "568",
+        "commentCount": "11"
+    },
+    {
+        "video_id": "G9iXHhXRIs8",
+        "publishedAt": "2025-01-31T16:00:13Z",
+        "title": "DeepSeek Won't Matter for Software Engineers",
+        "duration": "PT7M25S",
+        "viewCount": "29127",
+        "likeCount": "1195",
+        "commentCount": "139"
+    },
+    {
+        "video_id": "H6SeIkCybts",
+        "publishedAt": "2025-01-29T16:00:30Z",
+        "title": "Why Pydantic Is a Must for Data Validation",
+        "duration": "PT47S",
+        "viewCount": "17842",
+        "likeCount": "551",
+        "commentCount": "11"
+    },
+    {
+        "video_id": "myhpzmeuN9Q",
+        "publishedAt": "2025-01-27T16:00:53Z",
+        "title": "😩 Why 9 Out of 10 Products Fail",
+        "duration": "PT26S",
+        "viewCount": "2890",
+        "likeCount": "124",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "2s85lLBmUfQ",
+        "publishedAt": "2025-01-25T16:00:05Z",
+        "title": "📊 The Perfect Analytics Database for Python",
+        "duration": "PT32S",
+        "viewCount": "5400",
+        "likeCount": "223",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "zml0rTMJVXg",
+        "publishedAt": "2025-01-24T16:01:07Z",
+        "title": "10 Python Tips That Separate Juniors From Seniors",
+        "duration": "PT27M39S",
+        "viewCount": "76615",
+        "likeCount": "2580",
+        "commentCount": "133"
+    },
+    {
+        "video_id": "GJDKluyoLI4",
+        "publishedAt": "2025-01-22T16:00:28Z",
+        "title": "🚀 The Mindset Shift That Changed My Life",
+        "duration": "PT22S",
+        "viewCount": "3937",
+        "likeCount": "218",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "kWwo0kgvNn4",
+        "publishedAt": "2025-01-20T16:00:46Z",
+        "title": "🪦 Why You Shouldn’t Kill Your Product Overnight",
+        "duration": "PT25S",
+        "viewCount": "2978",
+        "likeCount": "89",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "vkaYqD9IGmE",
+        "publishedAt": "2025-01-18T16:00:50Z",
+        "title": "3 Tips to Avoid Code Duplication",
+        "duration": "PT32S",
+        "viewCount": "3829",
+        "likeCount": "166",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "_M1unW6dFA0",
+        "publishedAt": "2025-01-17T16:00:43Z",
+        "title": "I Built a Version of Honey That Actually SUPPORTS Creators",
+        "duration": "PT11M15S",
+        "viewCount": "10335",
+        "likeCount": "480",
+        "commentCount": "47"
+    },
+    {
+        "video_id": "krcC58domsM",
+        "publishedAt": "2025-01-15T16:00:54Z",
+        "title": "💉 Why Use a Dependency Injection Framework?",
+        "duration": "PT41S",
+        "viewCount": "9589",
+        "likeCount": "271",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "N_xYVrnxXAQ",
+        "publishedAt": "2025-01-13T16:00:32Z",
+        "title": "Remove Emotion from Feedback",
+        "duration": "PT24S",
+        "viewCount": "3194",
+        "likeCount": "196",
+        "commentCount": "12"
+    },
+    {
+        "video_id": "jKLJFwNSv28",
+        "publishedAt": "2025-01-11T16:00:44Z",
+        "title": "👊🏻 How to “Rustify” Your Python Code",
+        "duration": "PT33S",
+        "viewCount": "11429",
+        "likeCount": "474",
+        "commentCount": "15"
+    },
+    {
+        "video_id": "E66tBbIf1nE",
+        "publishedAt": "2025-01-10T16:00:13Z",
+        "title": "nothing is going to change",
+        "duration": "PT8M46S",
+        "viewCount": "24163",
+        "likeCount": "1212",
+        "commentCount": "77"
+    },
+    {
+        "video_id": "PyXRt_nuY80",
+        "publishedAt": "2025-01-08T16:00:22Z",
+        "title": "✍🏻 The Art of Naming Functions",
+        "duration": "PT29S",
+        "viewCount": "4627",
+        "likeCount": "183",
+        "commentCount": "11"
+    },
+    {
+        "video_id": "qBbmhIs_Tgo",
+        "publishedAt": "2025-01-06T16:00:47Z",
+        "title": "📏 Use Yourself as a Yardstick",
+        "duration": "PT27S",
+        "viewCount": "4598",
+        "likeCount": "284",
+        "commentCount": "12"
+    },
+    {
+        "video_id": "QihjFTSdzqM",
+        "publishedAt": "2025-01-04T16:00:20Z",
+        "title": "🚀 Stop Wasting Time on Formatting – Try Ruff!",
+        "duration": "PT36S",
+        "viewCount": "12705",
+        "likeCount": "328",
+        "commentCount": "11"
+    },
+    {
+        "video_id": "C-bie4ZY_o0",
+        "publishedAt": "2025-01-03T16:00:08Z",
+        "title": "How to Easily Debug a FastAPI App in VSCode",
+        "duration": "PT22M59S",
+        "viewCount": "32072",
+        "likeCount": "1005",
+        "commentCount": "59"
+    },
+    {
+        "video_id": "jSQZ5u-JBVM",
+        "publishedAt": "2025-01-01T16:00:35Z",
+        "title": "💪🏻 Must-Have VSCode Extensions for Backend Dev",
+        "duration": "PT40S",
+        "viewCount": "5476",
+        "likeCount": "222",
+        "commentCount": "1"
+    },
+    {
+        "video_id": "ZBt7tMrzhP8",
+        "publishedAt": "2024-12-30T16:00:35Z",
+        "title": "Recursion: Powerful or Problematic?",
+        "duration": "PT21S",
+        "viewCount": "5584",
+        "likeCount": "158",
+        "commentCount": "13"
+    },
+    {
+        "video_id": "kYL8fpUQx94",
+        "publishedAt": "2024-12-28T16:00:40Z",
+        "title": "The Skill Every Senior Developer Needs",
+        "duration": "PT17S",
+        "viewCount": "4870",
+        "likeCount": "166",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "DMIjwpRW1Fk",
+        "publishedAt": "2024-12-25T16:00:19Z",
+        "title": "💡 Immutability Makes Life Easier",
+        "duration": "PT24S",
+        "viewCount": "5371",
+        "likeCount": "198",
+        "commentCount": "11"
+    },
+    {
+        "video_id": "ybaLf6mJ8y8",
+        "publishedAt": "2024-12-23T16:01:00Z",
+        "title": "🪄 Too Many Arguments? Use This Trick",
+        "duration": "PT30S",
+        "viewCount": "9085",
+        "likeCount": "317",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "gWS4VHUJbe0",
+        "publishedAt": "2024-12-20T23:00:35Z",
+        "title": "☝🏻 One Function, One Job!",
+        "duration": "PT16S",
+        "viewCount": "4558",
+        "likeCount": "203",
+        "commentCount": "11"
+    },
+    {
+        "video_id": "YWKd-S0m9YA",
+        "publishedAt": "2024-12-20T16:00:30Z",
+        "title": "Refactoring a Python Data Validation Interactive Shell",
+        "duration": "PT45M55S",
+        "viewCount": "20323",
+        "likeCount": "533",
+        "commentCount": "40"
+    },
+    {
+        "video_id": "8tf-9ekVD-s",
+        "publishedAt": "2024-12-18T16:00:07Z",
+        "title": "Mojo vs. Rust: Which Should You Pick?",
+        "duration": "PT33S",
+        "viewCount": "12953",
+        "likeCount": "252",
+        "commentCount": "24"
+    },
+    {
+        "video_id": "GZ3lxU6Ee-w",
+        "publishedAt": "2024-12-16T16:00:15Z",
+        "title": "Stop Using Bad Names in Your Code",
+        "duration": "PT24S",
+        "viewCount": "3976",
+        "likeCount": "154",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "CvGpqiCrdfE",
+        "publishedAt": "2024-12-14T16:00:16Z",
+        "title": "👀 Shutting Down a Product? Here’s What You Need to Know",
+        "duration": "PT33S",
+        "viewCount": "3625",
+        "likeCount": "109",
+        "commentCount": "3"
+    },
+    {
+        "video_id": "qh98qOND6MI",
+        "publishedAt": "2024-12-13T16:00:57Z",
+        "title": "This Tool Replaces pip, Poetry, pyenv, and More (It’s Fast)",
+        "duration": "PT17M35S",
+        "viewCount": "209626",
+        "likeCount": "7242",
+        "commentCount": "368"
+    },
+    {
+        "video_id": "M3lOr8216EU",
+        "publishedAt": "2024-12-11T16:00:26Z",
+        "title": "👉🏻 Follow These Standards for Better APIs",
+        "duration": "PT26S",
+        "viewCount": "4639",
+        "likeCount": "174",
+        "commentCount": "1"
+    },
+    {
+        "video_id": "unaEcKvT4lQ",
+        "publishedAt": "2024-12-09T16:00:54Z",
+        "title": "Rust’s Ownership Model Explained in 35 Seconds",
+        "duration": "PT35S",
+        "viewCount": "7357",
+        "likeCount": "215",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "V703bl-8QRc",
+        "publishedAt": "2024-12-07T16:00:24Z",
+        "title": "🏗️ Building a CLI with Python",
+        "duration": "PT30S",
+        "viewCount": "15168",
+        "likeCount": "371",
+        "commentCount": "12"
+    },
+    {
+        "video_id": "qkxf583t4Vc",
+        "publishedAt": "2024-12-06T16:00:54Z",
+        "title": "Why You Should Think Twice Before Using Returns in Python",
+        "duration": "PT21M27S",
+        "viewCount": "95730",
+        "likeCount": "2474",
+        "commentCount": "191"
+    },
+    {
+        "video_id": "wuohAHj5PG4",
+        "publishedAt": "2024-12-04T16:01:00Z",
+        "title": "Best Practices for SSH Key Usage",
+        "duration": "PT38S",
+        "viewCount": "3410",
+        "likeCount": "116",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "-FA4Hc7c4ek",
+        "publishedAt": "2024-12-04T04:02:33Z",
+        "title": "Live Code Review | FastAPI",
+        "duration": "PT58M37S",
+        "viewCount": "18432",
+        "likeCount": "374",
+        "commentCount": "18"
+    },
+    {
+        "video_id": "jSfDIQ5re8Y",
+        "publishedAt": "2024-12-02T16:00:40Z",
+        "title": "🔮 The Result Monad Demystified",
+        "duration": "PT35S",
+        "viewCount": "3795",
+        "likeCount": "116",
+        "commentCount": "2"
+    },
+    {
+        "video_id": "ttWVbQF7yfI",
+        "publishedAt": "2024-11-30T16:00:54Z",
+        "title": "🛡️ Your First Line of Defense Against Credential Leaks",
+        "duration": "PT30S",
+        "viewCount": "3841",
+        "likeCount": "144",
+        "commentCount": "2"
+    },
+    {
+        "video_id": "WpXs7e7kEoI",
+        "publishedAt": "2024-11-29T16:00:33Z",
+        "title": "gRPC vs REST: Why Isn’t Everyone Using gRPC?",
+        "duration": "PT19M11S",
+        "viewCount": "103131",
+        "likeCount": "2415",
+        "commentCount": "213"
+    },
+    {
+        "video_id": "xvsitNaBG1k",
+        "publishedAt": "2024-11-27T16:00:51Z",
+        "title": "🔐 Secrets in Code: The Least Privilege Principle",
+        "duration": "PT27S",
+        "viewCount": "3848",
+        "likeCount": "130",
+        "commentCount": "2"
+    },
+    {
+        "video_id": "sK7PCCHMaBg",
+        "publishedAt": "2024-11-25T16:00:51Z",
+        "title": "Keep It Simple, Developer❗",
+        "duration": "PT22S",
+        "viewCount": "3888",
+        "likeCount": "157",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "hbOrQ0UMq3Q",
+        "publishedAt": "2024-11-23T16:00:39Z",
+        "title": "The Self-Explanatory Code",
+        "duration": "PT22S",
+        "viewCount": "3953",
+        "likeCount": "162",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "PwGKhvqJCQM",
+        "publishedAt": "2024-11-22T16:00:20Z",
+        "title": "Fix Your Broken Python Setup in VSCode (Once and For All)",
+        "duration": "PT26M5S",
+        "viewCount": "153319",
+        "likeCount": "4953",
+        "commentCount": "256"
+    },
+    {
+        "video_id": "FcIEWBSLnJk",
+        "publishedAt": "2024-11-20T16:00:11Z",
+        "title": "💾 Data Formats in Data Science: Choose Wisely",
+        "duration": "PT30S",
+        "viewCount": "4510",
+        "likeCount": "124",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "CEaWanW-7cM",
+        "publishedAt": "2024-11-18T16:00:15Z",
+        "title": "✋🏻 Stop Using This Git Command",
+        "duration": "PT27S",
+        "viewCount": "6157",
+        "likeCount": "200",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "M8myswQlF1M",
+        "publishedAt": "2024-11-16T16:00:16Z",
+        "title": "🤔 The Real Problem with Inheritance",
+        "duration": "PT26S",
+        "viewCount": "5708",
+        "likeCount": "202",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "GONyd0CUrPc",
+        "publishedAt": "2024-11-15T16:00:14Z",
+        "title": "SQLAlchemy vs SQLModel: Which Should You Use?",
+        "duration": "PT19M50S",
+        "viewCount": "127548",
+        "likeCount": "4021",
+        "commentCount": "191"
+    },
+    {
+        "video_id": "Oq8Pp3M7CUQ",
+        "publishedAt": "2024-11-13T16:00:21Z",
+        "title": "FastAPI: Move Operations for Cleaner Code",
+        "duration": "PT18S",
+        "viewCount": "14960",
+        "likeCount": "341",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "nNOvX7Ajscs",
+        "publishedAt": "2024-11-11T16:00:44Z",
+        "title": "😣 Regex Risks: What Every Developer Should Know",
+        "duration": "PT36S",
+        "viewCount": "7858",
+        "likeCount": "196",
+        "commentCount": "12"
+    },
+    {
+        "video_id": "GMzMlDQf_6A",
+        "publishedAt": "2024-11-09T16:00:24Z",
+        "title": "🗝️ What are SSH Keys?",
+        "duration": "PT25S",
+        "viewCount": "21491",
+        "likeCount": "365",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "KrJCVqtwOMk",
+        "publishedAt": "2024-11-08T16:00:28Z",
+        "title": "Killing off a SaaS Product is Harder Than You Think",
+        "duration": "PT18M40S",
+        "viewCount": "12745",
+        "likeCount": "520",
+        "commentCount": "33"
+    },
+    {
+        "video_id": "LI_QnHRf3jU",
+        "publishedAt": "2024-11-06T16:00:17Z",
+        "title": "Dependency Inversion Principle (DIP)",
+        "duration": "PT25S",
+        "viewCount": "7910",
+        "likeCount": "182",
+        "commentCount": "3"
+    },
+    {
+        "video_id": "QANzqo1D8w8",
+        "publishedAt": "2024-11-06T04:20:40Z",
+        "title": "Live Code Review | Manim",
+        "duration": "PT1H9M15S",
+        "viewCount": "8908",
+        "likeCount": "195",
+        "commentCount": "22"
+    },
+    {
+        "video_id": "1vHR5sJPuKY",
+        "publishedAt": "2024-11-04T16:00:02Z",
+        "title": "🦺 Building a Test-Driven Safety Net",
+        "duration": "PT33S",
+        "viewCount": "5792",
+        "likeCount": "181",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "OdTLI5DV4Vw",
+        "publishedAt": "2024-11-02T16:00:20Z",
+        "title": "Celebrating Small Wins in Refactoring",
+        "duration": "PT18S",
+        "viewCount": "3159",
+        "likeCount": "150",
+        "commentCount": "3"
+    },
+    {
+        "video_id": "NMQwzI9hprg",
+        "publishedAt": "2024-11-01T16:00:31Z",
+        "title": "GitHub Actions for Python Packages: How to Automate Releases to PyPi",
+        "duration": "PT20M25S",
+        "viewCount": "31004",
+        "likeCount": "1009",
+        "commentCount": "41"
+    },
+    {
+        "video_id": "-N9O5IkQEWg",
+        "publishedAt": "2024-10-30T16:00:00Z",
+        "title": "💣 Why Failing Fast is Good",
+        "duration": "PT36S",
+        "viewCount": "2783",
+        "likeCount": "94",
+        "commentCount": "3"
+    },
+    {
+        "video_id": "hn_0mjT5zTA",
+        "publishedAt": "2024-10-28T16:00:44Z",
+        "title": "❌ Why Rushing into Legacy Code Changes is a Mistake",
+        "duration": "PT22S",
+        "viewCount": "3728",
+        "likeCount": "139",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "37fDArEgOI8",
+        "publishedAt": "2024-10-26T15:00:02Z",
+        "title": "😣 The Innovation Misstep",
+        "duration": "PT28S",
+        "viewCount": "3451",
+        "likeCount": "187",
+        "commentCount": "3"
+    },
+    {
+        "video_id": "6AGDnJ_26uw",
+        "publishedAt": "2024-10-25T15:00:06Z",
+        "title": "When You Shouldn’t Remove Code Duplication (And How to Refactor the Right Way)",
+        "duration": "PT19M42S",
+        "viewCount": "39042",
+        "likeCount": "1418",
+        "commentCount": "95"
+    },
+    {
+        "video_id": "A5I45e0CDbI",
+        "publishedAt": "2024-10-23T15:00:10Z",
+        "title": "⚡ Deploying FastAPI: Start With the End in Mind",
+        "duration": "PT27S",
+        "viewCount": "14922",
+        "likeCount": "365",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "awqWiYUJy9k",
+        "publishedAt": "2024-10-21T15:00:07Z",
+        "title": "😎 What I Learnt as a Business Owner",
+        "duration": "PT35S",
+        "viewCount": "3715",
+        "likeCount": "150",
+        "commentCount": "1"
+    },
+    {
+        "video_id": "meeA-bFOcuk",
+        "publishedAt": "2024-10-19T15:00:52Z",
+        "title": "3️⃣ Essential Testing Tips Every Developer Needs",
+        "duration": "PT36S",
+        "viewCount": "4010",
+        "likeCount": "161",
+        "commentCount": "3"
+    },
+    {
+        "video_id": "OiLgG4CabPo",
+        "publishedAt": "2024-10-18T15:00:23Z",
+        "title": "15 Cool Python Libraries You Probably Didn’t Know",
+        "duration": "PT22M31S",
+        "viewCount": "115537",
+        "likeCount": "3702",
+        "commentCount": "199"
+    },
+    {
+        "video_id": "lX_G0l9jU94",
+        "publishedAt": "2024-10-16T15:00:53Z",
+        "title": "⚡ FastAPI in 30 Seconds",
+        "duration": "PT29S",
+        "viewCount": "91850",
+        "likeCount": "1808",
+        "commentCount": "17"
+    },
+    {
+        "video_id": "J_iTz2C1c-Y",
+        "publishedAt": "2024-10-14T15:00:19Z",
+        "title": "💲 Choosing the Best Data Type for Monetary Values",
+        "duration": "PT43S",
+        "viewCount": "5698",
+        "likeCount": "242",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "kdWgmxxVDd0",
+        "publishedAt": "2024-10-12T15:00:47Z",
+        "title": "Aligning Refactoring with Business Needs",
+        "duration": "PT24S",
+        "viewCount": "4146",
+        "likeCount": "141",
+        "commentCount": "2"
+    },
+    {
+        "video_id": "eUDGlxu_-ic",
+        "publishedAt": "2024-10-11T15:00:51Z",
+        "title": "The New Python 3.13 Is FINALLY Here!",
+        "duration": "PT20M39S",
+        "viewCount": "132693",
+        "likeCount": "5724",
+        "commentCount": "130"
+    },
+    {
+        "video_id": "bgwg-dTIdMs",
+        "publishedAt": "2024-10-09T15:00:43Z",
+        "title": "⌚ Time Management Tips for Developers",
+        "duration": "PT29S",
+        "viewCount": "4138",
+        "likeCount": "184",
+        "commentCount": "3"
+    },
+    {
+        "video_id": "ul8CgHyCa9k",
+        "publishedAt": "2024-10-07T15:00:57Z",
+        "title": "3️⃣ Tips to Instantly Improve Your Code",
+        "duration": "PT29S",
+        "viewCount": "4754",
+        "likeCount": "256",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "P-N01AeMoX8",
+        "publishedAt": "2024-10-05T15:00:31Z",
+        "title": "Understanding Composition Over Inheritance",
+        "duration": "PT24S",
+        "viewCount": "16300",
+        "likeCount": "343",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "bVnsBnnW3Tw",
+        "publishedAt": "2024-10-04T15:00:47Z",
+        "title": "Level Up Your Git Game: 10 Little-Known Features You’ll Love",
+        "duration": "PT17M56S",
+        "viewCount": "36514",
+        "likeCount": "1542",
+        "commentCount": "64"
+    },
+    {
+        "video_id": "M9S0wqiTtcg",
+        "publishedAt": "2024-10-02T15:00:32Z",
+        "title": "😤 Things Senior Developers Can’t Stand",
+        "duration": "PT30S",
+        "viewCount": "6734",
+        "likeCount": "261",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "CTeydWepUUg",
+        "publishedAt": "2024-10-02T03:32:57Z",
+        "title": "Live Code Review | Boto3",
+        "duration": "PT1H17M6S",
+        "viewCount": "8583",
+        "likeCount": "186",
+        "commentCount": "21"
+    },
+    {
+        "video_id": "Cuel2RNW6pU",
+        "publishedAt": "2024-09-30T15:00:18Z",
+        "title": "💚 Design Patterns Love Composition",
+        "duration": "PT27S",
+        "viewCount": "3646",
+        "likeCount": "137",
+        "commentCount": "2"
+    },
+    {
+        "video_id": "HAv5t2Gq-yU",
+        "publishedAt": "2024-09-27T15:00:27Z",
+        "title": "7 Powerful Databases Python Developers Should Know",
+        "duration": "PT23M55S",
+        "viewCount": "53647",
+        "likeCount": "1443",
+        "commentCount": "135"
+    },
+    {
+        "video_id": "WI6CqykFbDc",
+        "publishedAt": "2024-09-20T15:00:28Z",
+        "title": "Things (Almost) No One Thinks About When Designing Functions in Python",
+        "duration": "PT28M5S",
+        "viewCount": "109344",
+        "likeCount": "3215",
+        "commentCount": "195"
+    },
+    {
+        "video_id": "eufjIfVOm8s",
+        "publishedAt": "2024-09-13T15:00:51Z",
+        "title": "13 Python Quirks That Will Surprise You",
+        "duration": "PT26M25S",
+        "viewCount": "28661",
+        "likeCount": "980",
+        "commentCount": "90"
+    },
+    {
+        "video_id": "5uqZ6jAPTnY",
+        "publishedAt": "2024-09-10T15:09:54Z",
+        "title": "Live Code Review | Poetry",
+        "duration": "PT1H2M53S",
+        "viewCount": "8443",
+        "likeCount": "196",
+        "commentCount": "12"
+    },
+    {
+        "video_id": "yFLY0SVutgM",
+        "publishedAt": "2024-09-06T15:01:06Z",
+        "title": "Stop Overusing Classes in Python",
+        "duration": "PT24M42S",
+        "viewCount": "141191",
+        "likeCount": "4413",
+        "commentCount": "240"
+    },
+    {
+        "video_id": "YA0Wq1rcs6U",
+        "publishedAt": "2024-08-30T15:00:30Z",
+        "title": "Fail Fast: The Most Misunderstood Software Principle",
+        "duration": "PT16M1S",
+        "viewCount": "72915",
+        "likeCount": "2006",
+        "commentCount": "114"
+    },
+    {
+        "video_id": "pZunzLJ1qcQ",
+        "publishedAt": "2024-08-23T15:00:59Z",
+        "title": "Quick and Easy Rate Limiting for FastAPI",
+        "duration": "PT18M15S",
+        "viewCount": "21665",
+        "likeCount": "730",
+        "commentCount": "27"
+    },
+    {
+        "video_id": "aOly5eEDXug",
+        "publishedAt": "2024-08-16T16:25:38Z",
+        "title": "Live Code Review | Requests",
+        "duration": "PT1H18M34S",
+        "viewCount": "12759",
+        "likeCount": "304",
+        "commentCount": "42"
+    },
+    {
+        "video_id": "DvdZv_DD0DY",
+        "publishedAt": "2024-08-09T15:00:13Z",
+        "title": "Refactoring Object-Oriented to AWESOME Functional Code",
+        "duration": "PT22M59S",
+        "viewCount": "63936",
+        "likeCount": "1836",
+        "commentCount": "143"
+    },
+    {
+        "video_id": "zWPe_CUR4yU",
+        "publishedAt": "2024-08-02T15:01:06Z",
+        "title": "How Much FASTER Is Python 3.13 Without the GIL?",
+        "duration": "PT10M",
+        "viewCount": "226234",
+        "likeCount": "5707",
+        "commentCount": "320"
+    },
+    {
+        "video_id": "IzU_5fT4m_M",
+        "publishedAt": "2024-07-26T15:00:29Z",
+        "title": "8 Tips to Prevent Your Software from Becoming the Next Big Disaster",
+        "duration": "PT11M56S",
+        "viewCount": "9175",
+        "likeCount": "364",
+        "commentCount": "17"
+    },
+    {
+        "video_id": "UdJr2p5RrF0",
+        "publishedAt": "2024-07-21T15:15:02Z",
+        "title": "CrowdStrike Exposes a Fundamental Problem in Software",
+        "duration": "PT5M30S",
+        "viewCount": "72655",
+        "likeCount": "2386",
+        "commentCount": "549"
+    },
+    {
+        "video_id": "SjUQLryotAk",
+        "publishedAt": "2024-07-19T15:00:33Z",
+        "title": "6 Easy Tips to Design an AWESOME REST API",
+        "duration": "PT23M32S",
+        "viewCount": "45531",
+        "likeCount": "1270",
+        "commentCount": "74"
+    },
+    {
+        "video_id": "J8et7Xoy1GU",
+        "publishedAt": "2024-07-12T15:00:16Z",
+        "title": "Don’t Turn Your Development Process Into a NIGHTMARE",
+        "duration": "PT14M25S",
+        "viewCount": "20964",
+        "likeCount": "766",
+        "commentCount": "44"
+    },
+    {
+        "video_id": "FWacanslfFM",
+        "publishedAt": "2024-07-05T15:00:12Z",
+        "title": "How to Build a Python CLI Tool People Actually Want to Use",
+        "duration": "PT25M12S",
+        "viewCount": "99191",
+        "likeCount": "1936",
+        "commentCount": "120"
+    },
+    {
+        "video_id": "6jgu9tmbrrE",
+        "publishedAt": "2024-06-28T15:00:05Z",
+        "title": "Every Developer Should Know This",
+        "duration": "PT15M38S",
+        "viewCount": "53404",
+        "likeCount": "2443",
+        "commentCount": "144"
+    },
+    {
+        "video_id": "c-TWPdL9_X4",
+        "publishedAt": "2024-06-25T14:04:56Z",
+        "title": "Live Code Review | Faker",
+        "duration": "PT59M40S",
+        "viewCount": "14342",
+        "likeCount": "417",
+        "commentCount": "57"
+    },
+    {
+        "video_id": "Rp9Ha0rVM1w",
+        "publishedAt": "2024-06-21T15:00:25Z",
+        "title": "7 Functional Programming Techniques EVERY Developer Should Know",
+        "duration": "PT21M35S",
+        "viewCount": "57750",
+        "likeCount": "1935",
+        "commentCount": "127"
+    },
+    {
+        "video_id": "vhdUyGs_f6c",
+        "publishedAt": "2024-06-14T15:01:01Z",
+        "title": "5 Tips for Writing Clean Python Code",
+        "duration": "PT25M59S",
+        "viewCount": "36884",
+        "likeCount": "914",
+        "commentCount": "51"
+    },
+    {
+        "video_id": "zjdfbeUcZTM",
+        "publishedAt": "2024-06-07T15:01:04Z",
+        "title": "Why Do So Many Software Developers Have Imposter Syndrome?",
+        "duration": "PT9M52S",
+        "viewCount": "14619",
+        "likeCount": "866",
+        "commentCount": "81"
+    },
+    {
+        "video_id": "ZUlevpurfqk",
+        "publishedAt": "2024-05-31T15:00:37Z",
+        "title": "Build, Deploy, and Host a Backend From A to Z",
+        "duration": "PT14M7S",
+        "viewCount": "28191",
+        "likeCount": "852",
+        "commentCount": "64"
+    },
+    {
+        "video_id": "c8QXUrvSSyg",
+        "publishedAt": "2024-05-24T15:00:38Z",
+        "title": "Streamlit Explained: Python Tutorial for Data Scientists",
+        "duration": "PT15M19S",
+        "viewCount": "69244",
+        "likeCount": "1198",
+        "commentCount": "48"
+    },
+    {
+        "video_id": "r_le07f_rfQ",
+        "publishedAt": "2024-05-21T15:00:46Z",
+        "title": "Git Hooks: We’re Not Using Them Enough!",
+        "duration": "PT4M6S",
+        "viewCount": "21930",
+        "likeCount": "687",
+        "commentCount": "49"
+    },
+    {
+        "video_id": "83jGr826Ow8",
+        "publishedAt": "2024-05-17T15:00:08Z",
+        "title": "The Best Keyboard for Developers With a Major Flaw",
+        "duration": "PT7M29S",
+        "viewCount": "30738",
+        "likeCount": "430",
+        "commentCount": "98"
+    },
+    {
+        "video_id": "FGgOsCAhFL4",
+        "publishedAt": "2024-05-14T15:00:16Z",
+        "title": "Invariants: How Understanding Limits Enhances Your Code",
+        "duration": "PT3M55S",
+        "viewCount": "12833",
+        "likeCount": "363",
+        "commentCount": "23"
+    },
+    {
+        "video_id": "HX6vkP-QD7U",
+        "publishedAt": "2024-05-10T15:00:25Z",
+        "title": "The Unit of Work Design Pattern Explained",
+        "duration": "PT12M37S",
+        "viewCount": "36092",
+        "likeCount": "921",
+        "commentCount": "33"
+    },
+    {
+        "video_id": "sooYV9qKLDg",
+        "publishedAt": "2024-05-07T15:00:45Z",
+        "title": "How To Do AI Prompt Templating",
+        "duration": "PT7M",
+        "viewCount": "16399",
+        "likeCount": "502",
+        "commentCount": "35"
+    },
+    {
+        "video_id": "RIVcqT2OGPA",
+        "publishedAt": "2024-05-03T15:00:22Z",
+        "title": "Asyncio Finally Explained: What the Event Loop Really Does",
+        "duration": "PT13M34S",
+        "viewCount": "101299",
+        "likeCount": "2440",
+        "commentCount": "85"
+    },
+    {
+        "video_id": "GD1eajzSApQ",
+        "publishedAt": "2024-04-30T15:00:13Z",
+        "title": "How to Avoid Dependency Hell in Programming",
+        "duration": "PT5M20S",
+        "viewCount": "11033",
+        "likeCount": "429",
+        "commentCount": "21"
+    },
+    {
+        "video_id": "xIWr5p5T_nM",
+        "publishedAt": "2024-04-26T15:00:51Z",
+        "title": "Rust Handles Errors Way Better Than Python",
+        "duration": "PT17M48S",
+        "viewCount": "19763",
+        "likeCount": "508",
+        "commentCount": "63"
+    },
+    {
+        "video_id": "axSK5FO7aOs",
+        "publishedAt": "2024-04-24T15:00:04Z",
+        "title": "Mastering Python Decorators for Advanced Coding",
+        "duration": "PT23S",
+        "viewCount": "34236",
+        "likeCount": "910",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "XmpIBsnc3xU",
+        "publishedAt": "2024-04-23T15:00:24Z",
+        "title": "Stop Using print(): Learn the VSCode Debugger",
+        "duration": "PT7M2S",
+        "viewCount": "97018",
+        "likeCount": "2225",
+        "commentCount": "119"
+    },
+    {
+        "video_id": "yK1VD6Nh_Og",
+        "publishedAt": "2024-04-20T15:00:48Z",
+        "title": "Elevating Python Code with Higher-Order Functions",
+        "duration": "PT25S",
+        "viewCount": "16937",
+        "likeCount": "556",
+        "commentCount": "13"
+    },
+    {
+        "video_id": "6xncb3aTrXk",
+        "publishedAt": "2024-04-19T15:00:05Z",
+        "title": "5 Tips for Building Powerful Data Dashboards in Python",
+        "duration": "PT19M5S",
+        "viewCount": "38759",
+        "likeCount": "906",
+        "commentCount": "94"
+    },
+    {
+        "video_id": "RC6mV2fhuDI",
+        "publishedAt": "2024-04-17T15:00:31Z",
+        "title": "Harnessing Pure Functions for Reliable Python Code",
+        "duration": "PT17S",
+        "viewCount": "11373",
+        "likeCount": "336",
+        "commentCount": "12"
+    },
+    {
+        "video_id": "7MHDDOrDx-w",
+        "publishedAt": "2024-04-16T15:00:05Z",
+        "title": "This Is How You Do PROPER Exception Handling With FastAPI",
+        "duration": "PT6M9S",
+        "viewCount": "31771",
+        "likeCount": "890",
+        "commentCount": "33"
+    },
+    {
+        "video_id": "E6ogsQV2_90",
+        "publishedAt": "2024-04-12T22:00:08Z",
+        "title": "The Power of Immutability in Python Functional Programming",
+        "duration": "PT21S",
+        "viewCount": "18941",
+        "likeCount": "508",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "SmntWT1LPNw",
+        "publishedAt": "2024-04-12T15:00:32Z",
+        "title": "Rust’s Most Unique Feature",
+        "duration": "PT13M38S",
+        "viewCount": "19623",
+        "likeCount": "678",
+        "commentCount": "73"
+    },
+    {
+        "video_id": "5JMgBgdoCrY",
+        "publishedAt": "2024-04-10T15:00:04Z",
+        "title": "The Art of Functional Programming: Simplifying Python Code",
+        "duration": "PT21S",
+        "viewCount": "17646",
+        "likeCount": "525",
+        "commentCount": "11"
+    },
+    {
+        "video_id": "wFsOjHgvUfM",
+        "publishedAt": "2024-04-09T15:00:57Z",
+        "title": "The Basics You Need to Know about AWS, Azure, and Google Cloud",
+        "duration": "PT6M50S",
+        "viewCount": "33631",
+        "likeCount": "882",
+        "commentCount": "34"
+    },
+    {
+        "video_id": "y5LCo9H_gdk",
+        "publishedAt": "2024-04-06T15:00:55Z",
+        "title": "Functional Programming: The Key to Exceptional Python Code",
+        "duration": "PT21S",
+        "viewCount": "54474",
+        "likeCount": "1219",
+        "commentCount": "31"
+    },
+    {
+        "video_id": "aAy-B6KPld8",
+        "publishedAt": "2024-04-05T15:00:00Z",
+        "title": "SQLAlchemy: The BEST SQL Database Library in Python",
+        "duration": "PT16M39S",
+        "viewCount": "188211",
+        "likeCount": "3434",
+        "commentCount": "161"
+    },
+    {
+        "video_id": "MFumqNz24ok",
+        "publishedAt": "2024-04-03T15:00:30Z",
+        "title": "The Importance of Unit Testing in Data Science",
+        "duration": "PT22S",
+        "viewCount": "15093",
+        "likeCount": "401",
+        "commentCount": "15"
+    },
+    {
+        "video_id": "TkDg3EHwC1g",
+        "publishedAt": "2024-04-02T15:00:21Z",
+        "title": "Python 3.12 Generics in a Nutshell",
+        "duration": "PT6M22S",
+        "viewCount": "62265",
+        "likeCount": "1687",
+        "commentCount": "133"
+    },
+    {
+        "video_id": "O1MJSy5hMV0",
+        "publishedAt": "2024-03-30T16:00:20Z",
+        "title": "🗝️ Why Keeping Configuration Separate is Key in Data Science",
+        "duration": "PT20S",
+        "viewCount": "10295",
+        "likeCount": "378",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "dryNwWvSd4M",
+        "publishedAt": "2024-03-29T16:00:30Z",
+        "title": "Protocols vs ABCs in Python - When to Use Which One?",
+        "duration": "PT15M31S",
+        "viewCount": "88094",
+        "likeCount": "2638",
+        "commentCount": "122"
+    },
+    {
+        "video_id": "Ftw6pi45rAQ",
+        "publishedAt": "2024-03-27T16:00:15Z",
+        "title": "☝🏻 Streamline Your Data Science Workflow with Organized Code",
+        "duration": "PT19S",
+        "viewCount": "3950",
+        "likeCount": "121",
+        "commentCount": "1"
+    },
+    {
+        "video_id": "Ji2XDxmXSOM",
+        "publishedAt": "2024-03-26T16:00:14Z",
+        "title": "Python Poetry in 8 Minutes",
+        "duration": "PT8M27S",
+        "viewCount": "155145",
+        "likeCount": "3382",
+        "commentCount": "123"
+    },
+    {
+        "video_id": "raK53sgnByI",
+        "publishedAt": "2024-03-23T16:00:42Z",
+        "title": "📊 Data Science Efficiency: Leveraging Multiple Data Formats",
+        "duration": "PT25S",
+        "viewCount": "4943",
+        "likeCount": "113",
+        "commentCount": "1"
+    },
+    {
+        "video_id": "tP2sJzeqD34",
+        "publishedAt": "2024-03-22T16:00:51Z",
+        "title": "Top Keyboards for Software Developers on a Mac",
+        "duration": "PT14M32S",
+        "viewCount": "31149",
+        "likeCount": "460",
+        "commentCount": "70"
+    },
+    {
+        "video_id": "DsqFUtA7i7k",
+        "publishedAt": "2024-03-20T16:00:09Z",
+        "title": "❗ The Importance of Logging in Data Science",
+        "duration": "PT21S",
+        "viewCount": "8565",
+        "likeCount": "287",
+        "commentCount": "3"
+    },
+    {
+        "video_id": "n1nqgMtWRwg",
+        "publishedAt": "2024-03-19T16:00:39Z",
+        "title": "How to Test Asynchronous Code in Python",
+        "duration": "PT6M46S",
+        "viewCount": "25735",
+        "likeCount": "797",
+        "commentCount": "29"
+    },
+    {
+        "video_id": "nhgpOzqL82Y",
+        "publishedAt": "2024-03-16T16:00:39Z",
+        "title": "Leverage Existing Libraries in Data Science",
+        "duration": "PT24S",
+        "viewCount": "4308",
+        "likeCount": "146",
+        "commentCount": "2"
+    },
+    {
+        "video_id": "fhwhQjY2GCY",
+        "publishedAt": "2024-03-15T16:00:35Z",
+        "title": "Should You Use Dependency Injection Frameworks?",
+        "duration": "PT14M43S",
+        "viewCount": "55148",
+        "likeCount": "1241",
+        "commentCount": "116"
+    },
+    {
+        "video_id": "lhk2n5ZbPN8",
+        "publishedAt": "2024-03-13T16:00:38Z",
+        "title": "🗂️ Data Science Project Structure",
+        "duration": "PT24S",
+        "viewCount": "6003",
+        "likeCount": "211",
+        "commentCount": "1"
+    },
+    {
+        "video_id": "ebZB8dPrrog",
+        "publishedAt": "2024-03-12T16:00:33Z",
+        "title": "Why You Need Custom Exception Classes",
+        "duration": "PT6M5S",
+        "viewCount": "27114",
+        "likeCount": "955",
+        "commentCount": "32"
+    },
+    {
+        "video_id": "0pkqET-hTBc",
+        "publishedAt": "2024-03-09T16:00:02Z",
+        "title": "🤔 Should Python Devs Use Monads?",
+        "duration": "PT27S",
+        "viewCount": "11858",
+        "likeCount": "224",
+        "commentCount": "20"
+    },
+    {
+        "video_id": "502XOB0u8OY",
+        "publishedAt": "2024-03-08T16:00:02Z",
+        "title": "Why Python Needs Pydantic for Real Applications",
+        "duration": "PT13M56S",
+        "viewCount": "121692",
+        "likeCount": "2828",
+        "commentCount": "102"
+    },
+    {
+        "video_id": "VW6a_xgbAM0",
+        "publishedAt": "2024-03-06T16:00:28Z",
+        "title": "💡 The Any Type in Python Explained",
+        "duration": "PT26S",
+        "viewCount": "4881",
+        "likeCount": "149",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "6NShYzAV1Lo",
+        "publishedAt": "2024-03-05T16:00:06Z",
+        "title": "3 Tips for Working With the OpenAI API",
+        "duration": "PT7M58S",
+        "viewCount": "19283",
+        "likeCount": "466",
+        "commentCount": "13"
+    },
+    {
+        "video_id": "OsVrOfGgt1E",
+        "publishedAt": "2024-03-02T16:00:22Z",
+        "title": "⚔️ Generic Types vs. Any Type in Python",
+        "duration": "PT31S",
+        "viewCount": "14598",
+        "likeCount": "401",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "lyG6AKzu4ew",
+        "publishedAt": "2024-03-01T16:00:35Z",
+        "title": "Combining Rust and Python: The Best of Both Worlds?",
+        "duration": "PT11M8S",
+        "viewCount": "96876",
+        "likeCount": "2320",
+        "commentCount": "94"
+    },
+    {
+        "video_id": "ojm5YEn0Zvo",
+        "publishedAt": "2024-02-28T16:00:39Z",
+        "title": "✅ Validate Your Assumptions Regularly",
+        "duration": "PT26S",
+        "viewCount": "4362",
+        "likeCount": "178",
+        "commentCount": "1"
+    },
+    {
+        "video_id": "DpMGEhwuuyA",
+        "publishedAt": "2024-02-27T16:00:14Z",
+        "title": "Dependency Injection Makes Code Easier to Change and Test",
+        "duration": "PT7M11S",
+        "viewCount": "110367",
+        "likeCount": "2490",
+        "commentCount": "122"
+    },
+    {
+        "video_id": "qfhY1PwsCzA",
+        "publishedAt": "2024-02-24T16:00:36Z",
+        "title": "💭 Dismantling Software Problems: First Principles Thinking",
+        "duration": "PT33S",
+        "viewCount": "5940",
+        "likeCount": "189",
+        "commentCount": "3"
+    },
+    {
+        "video_id": "PIBldtHaUy0",
+        "publishedAt": "2024-02-23T16:00:18Z",
+        "title": "Using A MacBook for Software Development in 2024",
+        "duration": "PT15M22S",
+        "viewCount": "66531",
+        "likeCount": "1101",
+        "commentCount": "83"
+    },
+    {
+        "video_id": "4-TTXCbh4k8",
+        "publishedAt": "2024-02-21T16:00:05Z",
+        "title": "🧐 First Principles Approach: Identifying Fundamental Truth",
+        "duration": "PT31S",
+        "viewCount": "5029",
+        "likeCount": "204",
+        "commentCount": "1"
+    },
+    {
+        "video_id": "OOvvQRBcrhI",
+        "publishedAt": "2024-02-20T16:00:13Z",
+        "title": "5 Tips to Safely Use Credentials in Your Python Project",
+        "duration": "PT5M32S",
+        "viewCount": "23354",
+        "likeCount": "829",
+        "commentCount": "34"
+    },
+    {
+        "video_id": "5UDSS2q36BU",
+        "publishedAt": "2024-02-17T16:00:03Z",
+        "title": "Editing Documents in Python Using the State Design Pattern",
+        "duration": "PT28S",
+        "viewCount": "8050",
+        "likeCount": "245",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "HM8jWW1tnqY",
+        "publishedAt": "2024-02-16T16:00:10Z",
+        "title": "Domain-Driven Design Made Me Realize Something About AI Tools",
+        "duration": "PT14M39S",
+        "viewCount": "49669",
+        "likeCount": "1262",
+        "commentCount": "91"
+    },
+    {
+        "video_id": "_BClSh2j_IA",
+        "publishedAt": "2024-02-14T16:00:21Z",
+        "title": "When to Use the State Design Pattern",
+        "duration": "PT38S",
+        "viewCount": "8864",
+        "likeCount": "310",
+        "commentCount": "1"
+    },
+    {
+        "video_id": "_SlnC4v-PK8",
+        "publishedAt": "2024-02-13T16:00:32Z",
+        "title": "The Fail Fast Principle",
+        "duration": "PT5M40S",
+        "viewCount": "14720",
+        "likeCount": "564",
+        "commentCount": "35"
+    },
+    {
+        "video_id": "uTadGvNBw7Q",
+        "publishedAt": "2024-02-10T16:00:38Z",
+        "title": "HTTPX: Simplicity and Speed in Python",
+        "duration": "PT16S",
+        "viewCount": "11633",
+        "likeCount": "344",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "FQDtw_rV9Oc",
+        "publishedAt": "2024-02-09T16:00:09Z",
+        "title": "Visual Studio Code Extensions for Backend Development",
+        "duration": "PT11M20S",
+        "viewCount": "64037",
+        "likeCount": "1165",
+        "commentCount": "64"
+    },
+    {
+        "video_id": "peUteklUsgY",
+        "publishedAt": "2024-02-07T16:00:38Z",
+        "title": "The Power of Concurrent HTTP Requests in Python",
+        "duration": "PT17S",
+        "viewCount": "7560",
+        "likeCount": "228",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "piKVBupALek",
+        "publishedAt": "2024-02-06T16:00:39Z",
+        "title": "Regex is HARD!",
+        "duration": "PT5M12S",
+        "viewCount": "12787",
+        "likeCount": "662",
+        "commentCount": "60"
+    },
+    {
+        "video_id": "v9xZ9z6DXnc",
+        "publishedAt": "2024-02-03T16:00:28Z",
+        "title": "Why Less Popular Can Be Better in Python HTTP Libraries",
+        "duration": "PT19S",
+        "viewCount": "7707",
+        "likeCount": "232",
+        "commentCount": "2"
+    },
+    {
+        "video_id": "OJUorka-XLU",
+        "publishedAt": "2024-02-02T16:00:15Z",
+        "title": "Choosing Your Language: Python or Mojo?",
+        "duration": "PT14M33S",
+        "viewCount": "125111",
+        "likeCount": "2394",
+        "commentCount": "326"
+    },
+    {
+        "video_id": "PdLSdBOS0HU",
+        "publishedAt": "2024-01-31T16:00:21Z",
+        "title": "Rust vs  Python: Error Handling Showdown",
+        "duration": "PT26S",
+        "viewCount": "5971",
+        "likeCount": "196",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "hpNI5t5URrk",
+        "publishedAt": "2024-01-27T16:00:30Z",
+        "title": "Python Classes vs. Rust Structs: What's Different?",
+        "duration": "PT27S",
+        "viewCount": "7383",
+        "likeCount": "219",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "9ymRLDfnDKg",
+        "publishedAt": "2024-01-26T16:00:07Z",
+        "title": "Deep Dive Into the Repository Design Pattern in Python",
+        "duration": "PT11M56S",
+        "viewCount": "102554",
+        "likeCount": "2278",
+        "commentCount": "117"
+    },
+    {
+        "video_id": "oxzFIqTqz0g",
+        "publishedAt": "2024-01-24T16:00:38Z",
+        "title": "🛡️ Rust: Type Safety and Memory Management",
+        "duration": "PT22S",
+        "viewCount": "5454",
+        "likeCount": "167",
+        "commentCount": "1"
+    },
+    {
+        "video_id": "0Z8wWKSapFM",
+        "publishedAt": "2024-01-20T16:00:00Z",
+        "title": "⏰ Rust Macros Explained in Under a Minute",
+        "duration": "PT24S",
+        "viewCount": "9650",
+        "likeCount": "215",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "NOcwXmXr0ho",
+        "publishedAt": "2024-01-19T16:00:16Z",
+        "title": "Refactoring Conway's Game of Life | ArjanCodes Code Roast",
+        "duration": "PT31M49S",
+        "viewCount": "30247",
+        "likeCount": "1012",
+        "commentCount": "139"
+    },
+    {
+        "video_id": "ObvfnG0sL-g",
+        "publishedAt": "2024-01-17T16:00:14Z",
+        "title": "Rust & Python: Comparing Hello World Programs",
+        "duration": "PT24S",
+        "viewCount": "9523",
+        "likeCount": "194",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "XlnmN4BfCxw",
+        "publishedAt": "2024-01-12T16:00:31Z",
+        "title": "How I Actually Build FastAPI Backends for Production",
+        "duration": "PT27M2S",
+        "viewCount": "131430",
+        "likeCount": "3631",
+        "commentCount": "169"
+    },
+    {
+        "video_id": "KK-gZqbDtuc",
+        "publishedAt": "2024-01-05T16:00:13Z",
+        "title": "ArjanCodes Channel Update 2024 | We’ve Got Big Plans",
+        "duration": "PT15M36S",
+        "viewCount": "14304",
+        "likeCount": "622",
+        "commentCount": "85"
+    },
+    {
+        "video_id": "MoqtsYLGCC4",
+        "publishedAt": "2023-12-29T16:00:21Z",
+        "title": "An Introduction to Coding In Rust for Pythonistas",
+        "duration": "PT20M42S",
+        "viewCount": "150970",
+        "likeCount": "4452",
+        "commentCount": "307"
+    },
+    {
+        "video_id": "WIxSLex_yI8",
+        "publishedAt": "2023-12-22T16:00:21Z",
+        "title": "Can You Use the Meta Quest 3 for Coding?",
+        "duration": "PT16M55S",
+        "viewCount": "181485",
+        "likeCount": "2116",
+        "commentCount": "238"
+    },
+    {
+        "video_id": "OPyoXx0yA0I",
+        "publishedAt": "2023-12-15T16:00:16Z",
+        "title": "Requests vs HTTPX vs Aiohttp",
+        "duration": "PT15M11S",
+        "viewCount": "50710",
+        "likeCount": "2473",
+        "commentCount": "125"
+    },
+    {
+        "video_id": "dfFgaTdS3rE",
+        "publishedAt": "2023-12-08T16:00:34Z",
+        "title": "ArjanCodes Q&A 2023 | Everything You Wanted to Know!",
+        "duration": "PT26M32S",
+        "viewCount": "15592",
+        "likeCount": "497",
+        "commentCount": "45"
+    },
+    {
+        "video_id": "5OzLrbk82zY",
+        "publishedAt": "2023-12-01T16:00:06Z",
+        "title": "The State Pattern in Python (Real Examples)",
+        "duration": "PT19M14S",
+        "viewCount": "93237",
+        "likeCount": "1993",
+        "commentCount": "101"
+    },
+    {
+        "video_id": "THE1ktA3G6s",
+        "publishedAt": "2023-11-24T16:00:30Z",
+        "title": "5 Ways First Principles Thinking Helps You Code Better",
+        "duration": "PT10M19S",
+        "viewCount": "31186",
+        "likeCount": "1201",
+        "commentCount": "54"
+    },
+    {
+        "video_id": "q6ujWWaRdbA",
+        "publishedAt": "2023-11-17T16:00:39Z",
+        "title": "Python 3.12 Generic Types Explained",
+        "duration": "PT18M27S",
+        "viewCount": "80532",
+        "likeCount": "2404",
+        "commentCount": "171"
+    },
+    {
+        "video_id": "jYQGQuuaeLM",
+        "publishedAt": "2023-11-15T16:00:34Z",
+        "title": "📈 How Python & JavaScript Handle Multithreading",
+        "duration": "PT56S",
+        "viewCount": "16793",
+        "likeCount": "499",
+        "commentCount": "18"
+    },
+    {
+        "video_id": "Q0aVbqim5pE",
+        "publishedAt": "2023-11-10T16:00:29Z",
+        "title": "What the Heck Are Monads?!",
+        "duration": "PT21M8S",
+        "viewCount": "90264",
+        "likeCount": "2870",
+        "commentCount": "237"
+    },
+    {
+        "video_id": "BBCbIxuBJws",
+        "publishedAt": "2023-11-08T16:00:34Z",
+        "title": "🎯 This Is Why Typescript Is Awesome",
+        "duration": "PT40S",
+        "viewCount": "13619",
+        "likeCount": "296",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "xVuqDBCQAYc",
+        "publishedAt": "2023-11-03T16:00:49Z",
+        "title": "Most Python Projects Fail Because of This Structure",
+        "duration": "PT14M49S",
+        "viewCount": "142339",
+        "likeCount": "3845",
+        "commentCount": "130"
+    },
+    {
+        "video_id": "gwaoBfWgQ0E",
+        "publishedAt": "2023-11-02T16:00:29Z",
+        "title": "🪄 JavaScript: The Magic of Dynamic Typing!",
+        "duration": "PT30S",
+        "viewCount": "5851",
+        "likeCount": "149",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "9gC3Ot0LoUQ",
+        "publishedAt": "2023-10-27T15:00:08Z",
+        "title": "Mastering API Testing with FastAPI: Databases, Dependencies, and More!",
+        "duration": "PT24M49S",
+        "viewCount": "106512",
+        "likeCount": "2917",
+        "commentCount": "125"
+    },
+    {
+        "video_id": "oeq8H1MTvAg",
+        "publishedAt": "2023-10-25T15:00:42Z",
+        "title": "😎 3 Tips to Reduce Coupling",
+        "duration": "PT27S",
+        "viewCount": "8841",
+        "likeCount": "321",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "ThlvGGOZJ_M",
+        "publishedAt": "2023-10-20T15:00:21Z",
+        "title": "What Can 1970s German Industrial Design Principles Teach Us?",
+        "duration": "PT12M9S",
+        "viewCount": "18009",
+        "likeCount": "702",
+        "commentCount": "39"
+    },
+    {
+        "video_id": "gNvEdfoxT7E",
+        "publishedAt": "2023-10-18T15:00:35Z",
+        "title": "Automated Testing Is So Important",
+        "duration": "PT31S",
+        "viewCount": "9969",
+        "likeCount": "360",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "vzTrLpxPF54",
+        "publishedAt": "2023-10-13T15:00:47Z",
+        "title": "Why Use Design Patterns When Python Has Functions?",
+        "duration": "PT23M23S",
+        "viewCount": "147295",
+        "likeCount": "3269",
+        "commentCount": "190"
+    },
+    {
+        "video_id": "oIyq0q5Q7eo",
+        "publishedAt": "2023-10-11T15:00:30Z",
+        "title": "💡 When to Use Functions and Classes",
+        "duration": "PT32S",
+        "viewCount": "16042",
+        "likeCount": "767",
+        "commentCount": "14"
+    },
+    {
+        "video_id": "fH8fJYWfJcg",
+        "publishedAt": "2023-10-06T15:00:37Z",
+        "title": "🤬 How the #@%$! Do You Use an LLM in a SaaS Platform?",
+        "duration": "PT11M54S",
+        "viewCount": "27287",
+        "likeCount": "609",
+        "commentCount": "47"
+    },
+    {
+        "video_id": "WCux65VqF20",
+        "publishedAt": "2023-10-04T15:00:33Z",
+        "title": "🔥 3 Prompt Writing Tips for ChatGPT",
+        "duration": "PT33S",
+        "viewCount": "6414",
+        "likeCount": "193",
+        "commentCount": "1"
+    },
+    {
+        "video_id": "udHmeAmOlbI",
+        "publishedAt": "2023-09-29T15:00:49Z",
+        "title": "New Features You Need To Know In Python 3.12",
+        "duration": "PT12M4S",
+        "viewCount": "187673",
+        "likeCount": "4880",
+        "commentCount": "245"
+    },
+    {
+        "video_id": "KLONKDyED68",
+        "publishedAt": "2023-09-27T15:00:15Z",
+        "title": "Refactoring Legacy Code in 5 Steps",
+        "duration": "PT35S",
+        "viewCount": "11144",
+        "likeCount": "308",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "NLgw19X8p7I",
+        "publishedAt": "2023-09-22T15:00:19Z",
+        "title": "Is GPT Engineer Actually Useful? 🤨",
+        "duration": "PT17M33S",
+        "viewCount": "34495",
+        "likeCount": "674",
+        "commentCount": "66"
+    },
+    {
+        "video_id": "KMZDLfmFq78",
+        "publishedAt": "2023-09-20T15:00:15Z",
+        "title": "🤖 Surviving in a World Dominated by AI",
+        "duration": "PT19S",
+        "viewCount": "8053",
+        "likeCount": "220",
+        "commentCount": "2"
+    },
+    {
+        "video_id": "o06MyVhYte4",
+        "publishedAt": "2023-09-15T15:00:45Z",
+        "title": "Most Python Developers Don't Know These Libraries",
+        "duration": "PT14M54S",
+        "viewCount": "465281",
+        "likeCount": "16113",
+        "commentCount": "520"
+    },
+    {
+        "video_id": "fPQgPgnujBc",
+        "publishedAt": "2023-09-13T15:00:28Z",
+        "title": "💼 3 Tips for a Senior Developer Interview",
+        "duration": "PT29S",
+        "viewCount": "17314",
+        "likeCount": "426",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "H12TrIWPIRI",
+        "publishedAt": "2023-09-08T15:00:12Z",
+        "title": "JavaScript vs Python: What's the Difference?",
+        "duration": "PT11M11S",
+        "viewCount": "37261",
+        "likeCount": "1141",
+        "commentCount": "114"
+    },
+    {
+        "video_id": "i8QtdECOyw8",
+        "publishedAt": "2023-09-06T15:00:27Z",
+        "title": "⚠️ Don’t Make This Coding Mistake",
+        "duration": "PT24S",
+        "viewCount": "13523",
+        "likeCount": "502",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "Rryo6CoKamE",
+        "publishedAt": "2023-09-01T15:00:18Z",
+        "title": "How to Avoid Refactoring Legacy Code HELL",
+        "duration": "PT35M57S",
+        "viewCount": "42338",
+        "likeCount": "1471",
+        "commentCount": "165"
+    },
+    {
+        "video_id": "LEKYF8QNHec",
+        "publishedAt": "2023-08-30T15:00:30Z",
+        "title": "Automation Is CRUCIAL for Small Teams",
+        "duration": "PT21S",
+        "viewCount": "8790",
+        "likeCount": "336",
+        "commentCount": "11"
+    },
+    {
+        "video_id": "dQrJAZq6dRU",
+        "publishedAt": "2023-08-25T15:00:36Z",
+        "title": "Here Is a SIMPLE Architecture for Your AI Tool",
+        "duration": "PT15M47S",
+        "viewCount": "11666",
+        "likeCount": "505",
+        "commentCount": "67"
+    },
+    {
+        "video_id": "2rhNRc5vq-g",
+        "publishedAt": "2023-08-23T15:00:02Z",
+        "title": "🐱‍💻 Tip for Writing Python Classes",
+        "duration": "PT11S",
+        "viewCount": "26892",
+        "likeCount": "781",
+        "commentCount": "11"
+    },
+    {
+        "video_id": "0Jw8seqai18",
+        "publishedAt": "2023-08-18T15:00:01Z",
+        "title": "Jupyter Notebooks Are Great… Until They Aren’t",
+        "duration": "PT13M7S",
+        "viewCount": "85755",
+        "likeCount": "1957",
+        "commentCount": "119"
+    },
+    {
+        "video_id": "BysHg44VjbM",
+        "publishedAt": "2023-08-16T15:00:08Z",
+        "title": "Code Documentation Made Easy",
+        "duration": "PT18S",
+        "viewCount": "23262",
+        "likeCount": "424",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "I4mFqyqFkxg",
+        "publishedAt": "2023-08-11T15:00:14Z",
+        "title": "LangChain is AMAZING | Quick Python Tutorial",
+        "duration": "PT17M42S",
+        "viewCount": "101526",
+        "likeCount": "2365",
+        "commentCount": "82"
+    },
+    {
+        "video_id": "Lr0nDWQNy48",
+        "publishedAt": "2023-08-09T15:00:12Z",
+        "title": "⌨️ VSCode Extension for Organizing Your Comments",
+        "duration": "PT19S",
+        "viewCount": "10901",
+        "likeCount": "341",
+        "commentCount": "11"
+    },
+    {
+        "video_id": "Q9mOy7JEe-I",
+        "publishedAt": "2023-08-04T15:00:16Z",
+        "title": "5 Reasons Why Parents Are Better Programmers",
+        "duration": "PT6M51S",
+        "viewCount": "7225",
+        "likeCount": "304",
+        "commentCount": "51"
+    },
+    {
+        "video_id": "W_yjJ1IYDgo",
+        "publishedAt": "2023-08-02T15:00:31Z",
+        "title": "🔥 Soft Skills Are More Important Than You Think!",
+        "duration": "PT36S",
+        "viewCount": "5511",
+        "likeCount": "207",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "3iJjBOne2sM",
+        "publishedAt": "2023-07-28T15:00:02Z",
+        "title": "When to (Not) Use Dunder Methods?",
+        "duration": "PT20M37S",
+        "viewCount": "32772",
+        "likeCount": "1052",
+        "commentCount": "80"
+    },
+    {
+        "video_id": "3ZoVF4Q6cDc",
+        "publishedAt": "2023-07-26T15:00:03Z",
+        "title": "💭 What Works Better With Python: SQL or NoSQL?",
+        "duration": "PT42S",
+        "viewCount": "14597",
+        "likeCount": "332",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "0DWx7VQHkRY",
+        "publishedAt": "2023-07-25T15:00:00Z",
+        "title": "☠️ This Is WAY More Dangerous Than AI",
+        "duration": "PT1M27S",
+        "viewCount": "12850",
+        "likeCount": "820",
+        "commentCount": "73"
+    },
+    {
+        "video_id": "CYV-yDatNqc",
+        "publishedAt": "2023-07-22T15:00:07Z",
+        "title": "🚂 Jumping on the Hype Train vs Sticking to What You Know",
+        "duration": "PT48S",
+        "viewCount": "6948",
+        "likeCount": "225",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "leSjmJGWtQw",
+        "publishedAt": "2023-07-21T15:00:41Z",
+        "title": "How to Survive the AI Era as a Software Developer",
+        "duration": "PT8M33S",
+        "viewCount": "16124",
+        "likeCount": "590",
+        "commentCount": "45"
+    },
+    {
+        "video_id": "bdt824K6FD4",
+        "publishedAt": "2023-07-19T15:00:23Z",
+        "title": "🫢 Will Python Soon Become Obsolete?",
+        "duration": "PT43S",
+        "viewCount": "19676",
+        "likeCount": "671",
+        "commentCount": "52"
+    },
+    {
+        "video_id": "Z1iljAxvJgE",
+        "publishedAt": "2023-07-15T15:00:21Z",
+        "title": "🤨 Two Drawbacks of Using Slots in Python",
+        "duration": "PT44S",
+        "viewCount": "8606",
+        "likeCount": "166",
+        "commentCount": "12"
+    },
+    {
+        "video_id": "ZZs0nsNyuqg",
+        "publishedAt": "2023-07-14T15:00:25Z",
+        "title": "3 Tips for Writing Simple and Clean Code",
+        "duration": "PT17M38S",
+        "viewCount": "48682",
+        "likeCount": "1622",
+        "commentCount": "109"
+    },
+    {
+        "video_id": "LxqWOtN8Zqg",
+        "publishedAt": "2023-07-12T15:00:14Z",
+        "title": "The Best Way to Output Logs in a Project",
+        "duration": "PT54S",
+        "viewCount": "38722",
+        "likeCount": "983",
+        "commentCount": "51"
+    },
+    {
+        "video_id": "ERhsRclHva8",
+        "publishedAt": "2023-07-08T15:00:14Z",
+        "title": "✅ This Is How You Do a GREAT Code Review",
+        "duration": "PT45S",
+        "viewCount": "25427",
+        "likeCount": "633",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "IYgxiIwKf8o",
+        "publishedAt": "2023-07-07T15:00:15Z",
+        "title": "Why Failure is Actually Success in Disguise",
+        "duration": "PT13M21S",
+        "viewCount": "12462",
+        "likeCount": "835",
+        "commentCount": "70"
+    },
+    {
+        "video_id": "Zur7JduT170",
+        "publishedAt": "2023-07-05T15:00:32Z",
+        "title": "If I Had to Start Over, This Is How I Would Approach Python",
+        "duration": "PT27S",
+        "viewCount": "10854",
+        "likeCount": "321",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "3rKhxj9snKs",
+        "publishedAt": "2023-07-01T15:00:03Z",
+        "title": "It’s Okay to Not Use Advanced Python Features",
+        "duration": "PT46S",
+        "viewCount": "20127",
+        "likeCount": "904",
+        "commentCount": "26"
+    },
+    {
+        "video_id": "FPZONhA0C60",
+        "publishedAt": "2023-06-30T15:00:12Z",
+        "title": "I Let AI Write My Code… Here’s What Went Wrong",
+        "duration": "PT10M14S",
+        "viewCount": "848399",
+        "likeCount": "13879",
+        "commentCount": "1054"
+    },
+    {
+        "video_id": "mtbibBEKylc",
+        "publishedAt": "2023-06-28T15:00:39Z",
+        "title": "How to Get People From Different Fields to Work Together",
+        "duration": "PT35S",
+        "viewCount": "4004",
+        "likeCount": "117",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "fBUAeFxSEqM",
+        "publishedAt": "2023-06-23T15:00:37Z",
+        "title": "How to Code More Efficiently: 7 Tips for Solo & Small Development Teams",
+        "duration": "PT9M46S",
+        "viewCount": "25321",
+        "likeCount": "800",
+        "commentCount": "30"
+    },
+    {
+        "video_id": "SWvNWO0-ffM",
+        "publishedAt": "2023-06-21T15:00:29Z",
+        "title": "👨🏻‍💻 How to Design Better REST APIs in Python",
+        "duration": "PT19S",
+        "viewCount": "17924",
+        "likeCount": "513",
+        "commentCount": "11"
+    },
+    {
+        "video_id": "IavOJI5OV7g",
+        "publishedAt": "2023-06-16T15:00:23Z",
+        "title": "GitHub Copilot Just Changed the Game",
+        "duration": "PT17M29S",
+        "viewCount": "108797",
+        "likeCount": "2360",
+        "commentCount": "126"
+    },
+    {
+        "video_id": "pZrWhiPNFoM",
+        "publishedAt": "2023-06-14T15:00:43Z",
+        "title": "How to Write a Developer Resume With No Work Experience",
+        "duration": "PT19S",
+        "viewCount": "12731",
+        "likeCount": "379",
+        "commentCount": "2"
+    },
+    {
+        "video_id": "8QsqG9Q14B4",
+        "publishedAt": "2023-06-09T15:00:11Z",
+        "title": "Refactoring a Command Line Shell | Code Roast Part 2",
+        "duration": "PT19M59S",
+        "viewCount": "17639",
+        "likeCount": "594",
+        "commentCount": "27"
+    },
+    {
+        "video_id": "Tluj22QWdlA",
+        "publishedAt": "2023-06-06T22:00:12Z",
+        "title": "Easy to Pick up Front End Frameworks",
+        "duration": "PT43S",
+        "viewCount": "10423",
+        "likeCount": "306",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "2afqKRZyH-M",
+        "publishedAt": "2023-06-06T20:39:33Z",
+        "title": "Become A Better Software Developer // ArjanLive Q&A",
+        "duration": "PT2H4M23S",
+        "viewCount": "5205",
+        "likeCount": "182",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "TDgouhWA13A",
+        "publishedAt": "2023-06-02T15:00:19Z",
+        "title": "Refactoring a Command Line Shell | Code Roast Part 1",
+        "duration": "PT26M21S",
+        "viewCount": "25301",
+        "likeCount": "906",
+        "commentCount": "74"
+    },
+    {
+        "video_id": "c75hUwhFAag",
+        "publishedAt": "2023-05-31T15:00:21Z",
+        "title": "💻 The Best Way to Learn Data Structures in Python",
+        "duration": "PT40S",
+        "viewCount": "39542",
+        "likeCount": "1428",
+        "commentCount": "12"
+    },
+    {
+        "video_id": "QHx_RjfcO_Y",
+        "publishedAt": "2023-05-27T15:00:28Z",
+        "title": "Data Science Workflow in Python Made Easy",
+        "duration": "PT55S",
+        "viewCount": "16870",
+        "likeCount": "546",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "0kzjD6jvfnk",
+        "publishedAt": "2023-05-26T15:00:01Z",
+        "title": "Representing Monetary Values in Python",
+        "duration": "PT13M49S",
+        "viewCount": "20345",
+        "likeCount": "791",
+        "commentCount": "60"
+    },
+    {
+        "video_id": "sNI9Je4CJwc",
+        "publishedAt": "2023-05-24T15:00:40Z",
+        "title": "Are Python’s Lambda Functions Flawed",
+        "duration": "PT46S",
+        "viewCount": "15422",
+        "likeCount": "473",
+        "commentCount": "19"
+    },
+    {
+        "video_id": "6DppEM0cSQs",
+        "publishedAt": "2023-05-20T15:00:04Z",
+        "title": "Data Structures You Should Know as Data Engineer",
+        "duration": "PT45S",
+        "viewCount": "17470",
+        "likeCount": "711",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "lX9UQp2NwTk",
+        "publishedAt": "2023-05-19T15:00:37Z",
+        "title": "The Ultimate Guide to Writing Classes in Python",
+        "duration": "PT25M39S",
+        "viewCount": "159118",
+        "likeCount": "4898",
+        "commentCount": "183"
+    },
+    {
+        "video_id": "AGldA4MI7m4",
+        "publishedAt": "2023-05-17T15:00:06Z",
+        "title": "When to Start Optimizing Your Code | Tips & Tricks",
+        "duration": "PT48S",
+        "viewCount": "11411",
+        "likeCount": "505",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "lEVu7_v2pbk",
+        "publishedAt": "2023-05-13T15:00:29Z",
+        "title": "OOP vs  Functional Programming: Which to Choose",
+        "duration": "PT48S",
+        "viewCount": "44365",
+        "likeCount": "1120",
+        "commentCount": "27"
+    },
+    {
+        "video_id": "L7Ry-Fiij-M",
+        "publishedAt": "2023-05-12T15:00:13Z",
+        "title": "How to Document Your Code Like a Pro",
+        "duration": "PT19M3S",
+        "viewCount": "154413",
+        "likeCount": "3346",
+        "commentCount": "100"
+    },
+    {
+        "video_id": "Vg-oPZAS1g0",
+        "publishedAt": "2023-05-10T15:00:32Z",
+        "title": "Tips for Good Database Design and Concurrent Requests",
+        "duration": "PT47S",
+        "viewCount": "28450",
+        "likeCount": "719",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "8IvhP7j-oK0",
+        "publishedAt": "2023-05-06T15:00:07Z",
+        "title": "How to Switch From a QA to a Dev Role",
+        "duration": "PT34S",
+        "viewCount": "7942",
+        "likeCount": "223",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "mVX3Z46iYTQ",
+        "publishedAt": "2023-05-05T15:00:39Z",
+        "title": "How to Build an OpenAI Powered Tool Really Quickly",
+        "duration": "PT15M48S",
+        "viewCount": "73361",
+        "likeCount": "1426",
+        "commentCount": "62"
+    },
+    {
+        "video_id": "bVUIDVrSjPk",
+        "publishedAt": "2023-05-03T15:00:32Z",
+        "title": "😬 Why Javascript Is Weird for Pythonistas",
+        "duration": "PT43S",
+        "viewCount": "17313",
+        "likeCount": "517",
+        "commentCount": "22"
+    },
+    {
+        "video_id": "qD_5Q_2Pz9c",
+        "publishedAt": "2023-04-29T15:00:38Z",
+        "title": "When NOT to Use OO Design in Python",
+        "duration": "PT25S",
+        "viewCount": "17321",
+        "likeCount": "586",
+        "commentCount": "12"
+    },
+    {
+        "video_id": "txRTzljmV0Q",
+        "publishedAt": "2023-04-28T15:00:42Z",
+        "title": "Functions vs Classes: When to Use Which and Why?",
+        "duration": "PT10M49S",
+        "viewCount": "228243",
+        "likeCount": "7068",
+        "commentCount": "245"
+    },
+    {
+        "video_id": "G34e3TKuV2I",
+        "publishedAt": "2023-04-26T15:00:16Z",
+        "title": "Are Dataclasses Better Than Dictionaries in Python",
+        "duration": "PT47S",
+        "viewCount": "32426",
+        "likeCount": "927",
+        "commentCount": "19"
+    },
+    {
+        "video_id": "sZJqJ2pYkKM",
+        "publishedAt": "2023-04-22T15:00:36Z",
+        "title": "Avoid Deep Class Inheritance Trees",
+        "duration": "PT31S",
+        "viewCount": "9321",
+        "likeCount": "382",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "JR9AfwywGEc",
+        "publishedAt": "2023-04-21T15:00:12Z",
+        "title": "5 Prompt Writing Tips for OpenAI's ChatGPT",
+        "duration": "PT19M54S",
+        "viewCount": "31971",
+        "likeCount": "756",
+        "commentCount": "46"
+    },
+    {
+        "video_id": "Ntzu3EDPr3I",
+        "publishedAt": "2023-04-19T15:00:28Z",
+        "title": "Here Is What You Should Use for Data Validation",
+        "duration": "PT31S",
+        "viewCount": "10686",
+        "likeCount": "360",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "KmIvdKSF9xo",
+        "publishedAt": "2023-04-15T15:00:21Z",
+        "title": "How To Recognize When To Use A Design Pattern In Python",
+        "duration": "PT44S",
+        "viewCount": "31090",
+        "likeCount": "962",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "-tU7fuUiq7w",
+        "publishedAt": "2023-04-14T15:00:00Z",
+        "title": "How to Use Pandas With Pandera to Validate Your Data in Python",
+        "duration": "PT11M32S",
+        "viewCount": "50549",
+        "likeCount": "2330",
+        "commentCount": "78"
+    },
+    {
+        "video_id": "6b_YpAFq8uk",
+        "publishedAt": "2023-04-12T15:00:04Z",
+        "title": "How to Avoid Over Engineering Your Code",
+        "duration": "PT43S",
+        "viewCount": "11474",
+        "likeCount": "521",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "Q7IDsL6wR3M",
+        "publishedAt": "2023-04-08T15:00:13Z",
+        "title": "How to Test That Your Database Is Consistent",
+        "duration": "PT45S",
+        "viewCount": "11671",
+        "likeCount": "426",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "BMtG52U3cEY",
+        "publishedAt": "2023-04-07T15:00:06Z",
+        "title": "How To Setup Your MacBook For Maximum Developer Productivity",
+        "duration": "PT18M28S",
+        "viewCount": "234504",
+        "likeCount": "5639",
+        "commentCount": "183"
+    },
+    {
+        "video_id": "6_mPZwIoQ0Q",
+        "publishedAt": "2023-04-05T15:00:06Z",
+        "title": "Why You Should Learn Multiple Programming Languages",
+        "duration": "PT48S",
+        "viewCount": "15948",
+        "likeCount": "624",
+        "commentCount": "17"
+    },
+    {
+        "video_id": "3JpbLADb_14",
+        "publishedAt": "2023-04-04T20:38:32Z",
+        "title": "Become A Better Software Developer // ArjanLive Q&A",
+        "duration": "PT2H20M38S",
+        "viewCount": "5118",
+        "likeCount": "180",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "bf4H4ANzpQM",
+        "publishedAt": "2023-04-01T15:00:22Z",
+        "title": "Why Writing Modular Code Is Important",
+        "duration": "PT42S",
+        "viewCount": "12331",
+        "likeCount": "526",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "x1fCJ7sUXCM",
+        "publishedAt": "2023-03-31T15:00:51Z",
+        "title": "Raw SQL, SQL Query Builder, or ORM?",
+        "duration": "PT16M19S",
+        "viewCount": "126269",
+        "likeCount": "5553",
+        "commentCount": "360"
+    },
+    {
+        "video_id": "FmZj-oXiClo",
+        "publishedAt": "2023-03-29T15:00:19Z",
+        "title": "How To Avoid Coupling In Python: ABCs, Protocols, Types",
+        "duration": "PT46S",
+        "viewCount": "12188",
+        "likeCount": "499",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "y2qJ51t01Yw",
+        "publishedAt": "2023-03-27T15:00:48Z",
+        "title": "Tips and Tricks for Writing Reliable Python Code",
+        "duration": "PT44S",
+        "viewCount": "8809",
+        "likeCount": "378",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "0vYlf3ZMkpE",
+        "publishedAt": "2023-03-25T16:00:02Z",
+        "title": "How to Become a Senior Python Developer",
+        "duration": "PT48S",
+        "viewCount": "12167",
+        "likeCount": "491",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "0f3moPe_bhk",
+        "publishedAt": "2023-03-24T16:00:01Z",
+        "title": "Python Dependency Hell Explained (And How to Escape It)",
+        "duration": "PT14M43S",
+        "viewCount": "181116",
+        "likeCount": "4290",
+        "commentCount": "218"
+    },
+    {
+        "video_id": "nHd7aYUQMdY",
+        "publishedAt": "2023-03-22T16:00:29Z",
+        "title": "Clean Architecture vs Django’s Pragmatic Design",
+        "duration": "PT41S",
+        "viewCount": "21799",
+        "likeCount": "555",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "ZphUNikAOd0",
+        "publishedAt": "2023-03-20T16:00:18Z",
+        "title": "3 Tips For Managing A Large Python Codebase",
+        "duration": "PT43S",
+        "viewCount": "22933",
+        "likeCount": "908",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "RnhKDDvKBNs",
+        "publishedAt": "2023-03-18T16:00:14Z",
+        "title": "What's the Difference? Str vs Repr String",
+        "duration": "PT27S",
+        "viewCount": "8675",
+        "likeCount": "326",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "uVy23GEehpc",
+        "publishedAt": "2023-03-17T16:00:37Z",
+        "title": "Working with Large Data Sets Made Easy: Understanding Pandas Data Types",
+        "duration": "PT16M58S",
+        "viewCount": "39105",
+        "likeCount": "1148",
+        "commentCount": "67"
+    },
+    {
+        "video_id": "DZVIYNW3Y7g",
+        "publishedAt": "2023-03-15T16:00:07Z",
+        "title": "4 Tips To Help You Nail Your Next Software Developer Interview",
+        "duration": "PT41S",
+        "viewCount": "10932",
+        "likeCount": "370",
+        "commentCount": "12"
+    },
+    {
+        "video_id": "6PWQOhIiKhU",
+        "publishedAt": "2023-03-13T16:00:07Z",
+        "title": "5 Ways OpenAI’s ChatGPT Saves You Time as a Developer",
+        "duration": "PT37S",
+        "viewCount": "10061",
+        "likeCount": "471",
+        "commentCount": "16"
+    },
+    {
+        "video_id": "8uwe1OflWX4",
+        "publishedAt": "2023-03-11T16:00:04Z",
+        "title": "3 Tips To Make Software Releases Less Stressful",
+        "duration": "PT36S",
+        "viewCount": "8927",
+        "likeCount": "332",
+        "commentCount": "12"
+    },
+    {
+        "video_id": "fGNF6wuD-fg",
+        "publishedAt": "2023-03-10T16:00:18Z",
+        "title": "Apply the GRASP Design Principles to Improve Your Python Code",
+        "duration": "PT32M2S",
+        "viewCount": "73566",
+        "likeCount": "2293",
+        "commentCount": "79"
+    },
+    {
+        "video_id": "D9fKxWCiX6I",
+        "publishedAt": "2023-03-08T16:00:12Z",
+        "title": "Why You Should Avoid Mixins in Python",
+        "duration": "PT43S",
+        "viewCount": "17795",
+        "likeCount": "467",
+        "commentCount": "26"
+    },
+    {
+        "video_id": "RB7YusfKS9Y",
+        "publishedAt": "2023-03-06T16:00:23Z",
+        "title": "3 Tips to Become Great at Coding",
+        "duration": "PT35S",
+        "viewCount": "15603",
+        "likeCount": "689",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "XJGe6fP7Bco",
+        "publishedAt": "2023-03-04T16:00:16Z",
+        "title": "What is Coupling and How Can You Avoid It?",
+        "duration": "PT47S",
+        "viewCount": "8399",
+        "likeCount": "409",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "5KEObONUkik",
+        "publishedAt": "2023-03-03T16:00:03Z",
+        "title": "How to Package and Publish Python Code the Right Way",
+        "duration": "PT20M28S",
+        "viewCount": "291692",
+        "likeCount": "7663",
+        "commentCount": "159"
+    },
+    {
+        "video_id": "jLCWm89doFA",
+        "publishedAt": "2023-03-01T16:00:22Z",
+        "title": "From Software Developer to Manager",
+        "duration": "PT38S",
+        "viewCount": "7838",
+        "likeCount": "210",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "g4wdTRm3aoA",
+        "publishedAt": "2023-02-27T16:00:24Z",
+        "title": "Dealing With Stubborn Senior Developers",
+        "duration": "PT53S",
+        "viewCount": "14226",
+        "likeCount": "468",
+        "commentCount": "21"
+    },
+    {
+        "video_id": "eXfl8FkgK_8",
+        "publishedAt": "2023-02-25T16:00:31Z",
+        "title": "How Coupling and Cohesion Play a Role in Unit Test Writing",
+        "duration": "PT53S",
+        "viewCount": "6217",
+        "likeCount": "258",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "54XyRw9y8oE",
+        "publishedAt": "2023-02-24T16:00:05Z",
+        "title": "14 Ideas for Fun Python Free Time Projects",
+        "duration": "PT27M27S",
+        "viewCount": "43028",
+        "likeCount": "1309",
+        "commentCount": "89"
+    },
+    {
+        "video_id": "95awHXMSoo8",
+        "publishedAt": "2023-02-22T16:00:10Z",
+        "title": "Should You Use OO Design Patterns in Python?",
+        "duration": "PT51S",
+        "viewCount": "15741",
+        "likeCount": "729",
+        "commentCount": "29"
+    },
+    {
+        "video_id": "PPC8idFlqTo",
+        "publishedAt": "2023-02-20T16:00:14Z",
+        "title": "You're Never Too Old To Start Coding in Python",
+        "duration": "PT41S",
+        "viewCount": "4850",
+        "likeCount": "222",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "1H1-q7_CwH4",
+        "publishedAt": "2023-02-18T16:00:01Z",
+        "title": "Time Organisation: How To Balance Learning With Working",
+        "duration": "PT48S",
+        "viewCount": "9414",
+        "likeCount": "488",
+        "commentCount": "14"
+    },
+    {
+        "video_id": "zN4VCb0LbQI",
+        "publishedAt": "2023-02-17T16:00:42Z",
+        "title": "Attrs, Pydantic, or Python Data Classes?",
+        "duration": "PT17M10S",
+        "viewCount": "107024",
+        "likeCount": "4457",
+        "commentCount": "131"
+    },
+    {
+        "video_id": "9S2uaH59EHI",
+        "publishedAt": "2023-02-15T16:00:05Z",
+        "title": "Why Design Patterns are Rarely Used in Python",
+        "duration": "PT52S",
+        "viewCount": "85430",
+        "likeCount": "2345",
+        "commentCount": "49"
+    },
+    {
+        "video_id": "OjSKcOS-GgA",
+        "publishedAt": "2023-02-14T21:31:49Z",
+        "title": "Become A Better Software Developer // ArjanLive Q&A",
+        "duration": "PT2H22M6S",
+        "viewCount": "6547",
+        "likeCount": "229",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "urS0eFH3OPc",
+        "publishedAt": "2023-02-13T16:00:29Z",
+        "title": "Do Design Principles Affect Code Performance?",
+        "duration": "PT54S",
+        "viewCount": "5052",
+        "likeCount": "198",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "NhsEaeBGWmk",
+        "publishedAt": "2023-02-11T16:00:23Z",
+        "title": "Should Developers Know the Basics of Docker?",
+        "duration": "PT56S",
+        "viewCount": "12059",
+        "likeCount": "503",
+        "commentCount": "11"
+    },
+    {
+        "video_id": "SORiTsvnU28",
+        "publishedAt": "2023-02-10T16:00:18Z",
+        "title": "How to Use FastAPI: A Detailed Python Tutorial",
+        "duration": "PT20M38S",
+        "viewCount": "372453",
+        "likeCount": "13210",
+        "commentCount": "301"
+    },
+    {
+        "video_id": "yhQoDDAuCWw",
+        "publishedAt": "2023-02-08T16:00:36Z",
+        "title": "Here Is Why OpenAI’s ChatGPT Can’t Replace You",
+        "duration": "PT54S",
+        "viewCount": "9577",
+        "likeCount": "309",
+        "commentCount": "18"
+    },
+    {
+        "video_id": "6bpWNRV_PFY",
+        "publishedAt": "2023-02-06T16:00:02Z",
+        "title": "What’s a Protocol Class in Python?",
+        "duration": "PT59S",
+        "viewCount": "20269",
+        "likeCount": "637",
+        "commentCount": "11"
+    },
+    {
+        "video_id": "MbX4_7uFFfY",
+        "publishedAt": "2023-02-04T16:00:08Z",
+        "title": "Which Python Virtual Environment Should You Use?",
+        "duration": "PT40S",
+        "viewCount": "31057",
+        "likeCount": "642",
+        "commentCount": "33"
+    },
+    {
+        "video_id": "pxuXaaT1u3k",
+        "publishedAt": "2023-02-03T16:00:26Z",
+        "title": "Why Most Python Logging Setups Fail in Production",
+        "duration": "PT11M2S",
+        "viewCount": "239363",
+        "likeCount": "9930",
+        "commentCount": "180"
+    },
+    {
+        "video_id": "gfCJS70ESwM",
+        "publishedAt": "2023-02-01T16:00:24Z",
+        "title": "How To Escape The Not Enough Job Experience Trap",
+        "duration": "PT33S",
+        "viewCount": "6458",
+        "likeCount": "292",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "OTzcYUmlBNU",
+        "publishedAt": "2023-01-30T16:00:11Z",
+        "title": "The Key to Finishing Python Free Time Projects",
+        "duration": "PT51S",
+        "viewCount": "6723",
+        "likeCount": "222",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "QH5fw9kxDQA",
+        "publishedAt": "2023-01-27T16:00:13Z",
+        "title": "Python Decorators: The Complete Guide",
+        "duration": "PT27M59S",
+        "viewCount": "196473",
+        "likeCount": "8004",
+        "commentCount": "267"
+    },
+    {
+        "video_id": "RyyPtdMgpRg",
+        "publishedAt": "2023-01-25T16:00:22Z",
+        "title": "How to Start a New Python Project the Right Way",
+        "duration": "PT46S",
+        "viewCount": "19492",
+        "likeCount": "597",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "TePq5USXSKU",
+        "publishedAt": "2023-01-23T16:00:17Z",
+        "title": "Protocols vs ABCs, Which One Should You Use?",
+        "duration": "PT58S",
+        "viewCount": "9671",
+        "likeCount": "292",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "-S3BFkNn0rQ",
+        "publishedAt": "2023-01-20T16:00:00Z",
+        "title": "How to Use Hypothesis for Model-based Testing (Step by Step)",
+        "duration": "PT22M35S",
+        "viewCount": "22731",
+        "likeCount": "1023",
+        "commentCount": "46"
+    },
+    {
+        "video_id": "hx6msE-H-6M",
+        "publishedAt": "2023-01-18T16:00:31Z",
+        "title": "When to Use Data Classes in Python",
+        "duration": "PT34S",
+        "viewCount": "13118",
+        "likeCount": "408",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "GlHuBYGfKyA",
+        "publishedAt": "2023-01-16T16:00:12Z",
+        "title": "SQL vs ORM - Which One To Choose For Database Interaction",
+        "duration": "PT39S",
+        "viewCount": "31297",
+        "likeCount": "650",
+        "commentCount": "31"
+    },
+    {
+        "video_id": "aumxFs2DO5o",
+        "publishedAt": "2023-01-13T16:00:01Z",
+        "title": "A Deep Dive Into Iterators and Itertools in Python",
+        "duration": "PT21M1S",
+        "viewCount": "69852",
+        "likeCount": "3383",
+        "commentCount": "140"
+    },
+    {
+        "video_id": "wIBdX85pWVY",
+        "publishedAt": "2023-01-11T16:00:33Z",
+        "title": "How to Get a First Job Offer as a Python Developer",
+        "duration": "PT30S",
+        "viewCount": "31514",
+        "likeCount": "890",
+        "commentCount": "14"
+    },
+    {
+        "video_id": "iJtP5mpRl-U",
+        "publishedAt": "2023-01-10T21:12:43Z",
+        "title": "Become A Better Software Developer // ArjanLive Q&A",
+        "duration": "PT1H54M7S",
+        "viewCount": "5203",
+        "likeCount": "198",
+        "commentCount": "15"
+    },
+    {
+        "video_id": "zFxLtQzTmVY",
+        "publishedAt": "2023-01-09T16:00:36Z",
+        "title": "Best Practices For Organizing Your Python Project",
+        "duration": "PT41S",
+        "viewCount": "34603",
+        "likeCount": "773",
+        "commentCount": "18"
+    },
+    {
+        "video_id": "Dknn8v2oNHc",
+        "publishedAt": "2023-01-06T16:00:05Z",
+        "title": "21 Ways to NOT Grow as a Software Developer",
+        "duration": "PT12M26S",
+        "viewCount": "38521",
+        "likeCount": "2447",
+        "commentCount": "156"
+    },
+    {
+        "video_id": "hCFUYg4NHX4",
+        "publishedAt": "2023-01-04T16:00:17Z",
+        "title": "My Favourite Python Tools for Code Style",
+        "duration": "PT19S",
+        "viewCount": "12022",
+        "likeCount": "294",
+        "commentCount": "26"
+    },
+    {
+        "video_id": "_4LgG8iKkJM",
+        "publishedAt": "2023-01-02T16:00:16Z",
+        "title": "Why OOP Might Not Map Well to Your Database Schema",
+        "duration": "PT43S",
+        "viewCount": "7247",
+        "likeCount": "239",
+        "commentCount": "19"
+    },
+    {
+        "video_id": "eHhXoCNCI1c",
+        "publishedAt": "2022-12-30T16:00:30Z",
+        "title": "Which Software Architecture Should You Use: MVC, MVP, or MVVM?",
+        "duration": "PT24M27S",
+        "viewCount": "143733",
+        "likeCount": "5225",
+        "commentCount": "161"
+    },
+    {
+        "video_id": "gNd3YW--e5Y",
+        "publishedAt": "2022-12-28T16:00:28Z",
+        "title": "The Real ”Scary” World of Software Development",
+        "duration": "PT31S",
+        "viewCount": "5786",
+        "likeCount": "158",
+        "commentCount": "1"
+    },
+    {
+        "video_id": "PG7DVBAuNC0",
+        "publishedAt": "2022-12-26T16:00:16Z",
+        "title": "Tips for Testing GUI Applications",
+        "duration": "PT42S",
+        "viewCount": "5236",
+        "likeCount": "140",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "dI34jrEtmB0",
+        "publishedAt": "2022-12-23T16:00:25Z",
+        "title": "30 VSCode Keyboard Shortcuts You NEED to Know",
+        "duration": "PT17M15S",
+        "viewCount": "82297",
+        "likeCount": "2466",
+        "commentCount": "168"
+    },
+    {
+        "video_id": "HANEARC7nGA",
+        "publishedAt": "2022-12-21T16:00:08Z",
+        "title": "How to Get To Know a New Code Base",
+        "duration": "PT44S",
+        "viewCount": "10699",
+        "likeCount": "360",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "eXNGRNBNkHE",
+        "publishedAt": "2022-12-19T16:00:31Z",
+        "title": "Which One Should You Choose? | Django vs FastAPI",
+        "duration": "PT41S",
+        "viewCount": "27642",
+        "likeCount": "714",
+        "commentCount": "46"
+    },
+    {
+        "video_id": "9flcoQ1R0Y4",
+        "publishedAt": "2022-12-16T16:00:06Z",
+        "title": "How To Setup Github Actions For CI/CD",
+        "duration": "PT20M27S",
+        "viewCount": "37099",
+        "likeCount": "1467",
+        "commentCount": "15"
+    },
+    {
+        "video_id": "lEyRGCX3Oxk",
+        "publishedAt": "2022-12-14T16:00:18Z",
+        "title": "Should You Always Write Clean Code in Python?",
+        "duration": "PT46S",
+        "viewCount": "11733",
+        "likeCount": "377",
+        "commentCount": "11"
+    },
+    {
+        "video_id": "asdqjqLqxE0",
+        "publishedAt": "2022-12-12T16:00:01Z",
+        "title": "Should You Use Dunder Methods Everywhere?",
+        "duration": "PT32S",
+        "viewCount": "6548",
+        "likeCount": "188",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "6NWhYgMK9Hc",
+        "publishedAt": "2022-12-09T16:00:05Z",
+        "title": "Meet the AI That Understands Code – OpenAI ChatGPT",
+        "duration": "PT12M30S",
+        "viewCount": "48568",
+        "likeCount": "1248",
+        "commentCount": "130"
+    },
+    {
+        "video_id": "BF8cB1PCz1c",
+        "publishedAt": "2022-12-07T16:00:09Z",
+        "title": "How to Think About Type Hints",
+        "duration": "PT37S",
+        "viewCount": "8014",
+        "likeCount": "300",
+        "commentCount": "15"
+    },
+    {
+        "video_id": "iA9JvMrEajI",
+        "publishedAt": "2022-12-06T20:56:36Z",
+        "title": "Become A Better Software Developer // ArjanLive Q&A",
+        "duration": "PT1H50M14S",
+        "viewCount": "5174",
+        "likeCount": "190",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "9zxsgxKbglw",
+        "publishedAt": "2022-12-05T16:00:04Z",
+        "title": "GOOD Python Packages for Software Development",
+        "duration": "PT37S",
+        "viewCount": "11904",
+        "likeCount": "394",
+        "commentCount": "16"
+    },
+    {
+        "video_id": "yatgY4NpZXE",
+        "publishedAt": "2022-12-02T16:00:32Z",
+        "title": "The Ultimate Guide to Writing Functions",
+        "duration": "PT24M31S",
+        "viewCount": "205093",
+        "likeCount": "10270",
+        "commentCount": "320"
+    },
+    {
+        "video_id": "WbQbN4_2qzs",
+        "publishedAt": "2022-11-30T16:00:26Z",
+        "title": "Tip for Productive Test-Driven Development",
+        "duration": "PT19S",
+        "viewCount": "5828",
+        "likeCount": "138",
+        "commentCount": "3"
+    },
+    {
+        "video_id": "H4yqjCy0_Z8",
+        "publishedAt": "2022-11-28T16:00:07Z",
+        "title": "How to Stay Motivated to Learn Programming?",
+        "duration": "PT26S",
+        "viewCount": "4804",
+        "likeCount": "167",
+        "commentCount": "12"
+    },
+    {
+        "video_id": "W0Q1lArJhc8",
+        "publishedAt": "2022-11-25T16:00:19Z",
+        "title": "How to Prepare for a Python Senior Developer Interview",
+        "duration": "PT13M38S",
+        "viewCount": "41161",
+        "likeCount": "1578",
+        "commentCount": "58"
+    },
+    {
+        "video_id": "-zi9vahFl_c",
+        "publishedAt": "2022-11-23T16:00:00Z",
+        "title": "How to Make Money With Python Programming in 2022",
+        "duration": "PT45S",
+        "viewCount": "31534",
+        "likeCount": "928",
+        "commentCount": "17"
+    },
+    {
+        "video_id": "LyBot0gxC94",
+        "publishedAt": "2022-11-21T16:00:10Z",
+        "title": "Do SOLID Principles Apply to Functional Programming?",
+        "duration": "PT40S",
+        "viewCount": "22118",
+        "likeCount": "649",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "jjoLejA4iAE",
+        "publishedAt": "2022-11-18T16:00:34Z",
+        "title": "How To Reduce Coupling With Facade | Design Pattern Tutorial",
+        "duration": "PT28M29S",
+        "viewCount": "47847",
+        "likeCount": "1849",
+        "commentCount": "60"
+    },
+    {
+        "video_id": "0yO49GUiqYM",
+        "publishedAt": "2022-11-16T16:00:02Z",
+        "title": "100% Coverage in Test-Driven Development",
+        "duration": "PT41S",
+        "viewCount": "6262",
+        "likeCount": "180",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "3ImL7KU8Nrk",
+        "publishedAt": "2022-11-14T16:00:02Z",
+        "title": "Test-Driven Development and Design Patterns in Python",
+        "duration": "PT42S",
+        "viewCount": "16575",
+        "likeCount": "462",
+        "commentCount": "15"
+    },
+    {
+        "video_id": "07ZBSxfsWuI",
+        "publishedAt": "2022-11-11T16:00:01Z",
+        "title": "How to Give Good Feedback to Junior Developers",
+        "duration": "PT11M29S",
+        "viewCount": "15491",
+        "likeCount": "960",
+        "commentCount": "51"
+    },
+    {
+        "video_id": "ASZXzU4bCPo",
+        "publishedAt": "2022-11-09T16:00:11Z",
+        "title": "Transitioning to a New Role as a Developer",
+        "duration": "PT46S",
+        "viewCount": "5219",
+        "likeCount": "152",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "7lpRFypf9Y4",
+        "publishedAt": "2022-11-08T21:25:04Z",
+        "title": "Become A Better Software Developer // ArjanLive Q&A",
+        "duration": "PT2H15M",
+        "viewCount": "6105",
+        "likeCount": "221",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "Er87Vv9zPa8",
+        "publishedAt": "2022-11-07T16:00:06Z",
+        "title": "How to Deal With Concurrency in Python",
+        "duration": "PT41S",
+        "viewCount": "42050",
+        "likeCount": "1021",
+        "commentCount": "18"
+    },
+    {
+        "video_id": "115SeMub-P0",
+        "publishedAt": "2022-11-04T16:00:01Z",
+        "title": "How to Support A/B Testing in Your Python Code",
+        "duration": "PT26M21S",
+        "viewCount": "27240",
+        "likeCount": "943",
+        "commentCount": "36"
+    },
+    {
+        "video_id": "PXlqgKdUvN0",
+        "publishedAt": "2022-11-02T16:00:12Z",
+        "title": "Should You Minimize Imports in the Main File?",
+        "duration": "PT35S",
+        "viewCount": "9172",
+        "likeCount": "262",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "tiGDCTSVt9M",
+        "publishedAt": "2022-10-31T16:00:41Z",
+        "title": "Is Using a Data Class a Sign of Bad Design?",
+        "duration": "PT39S",
+        "viewCount": "13836",
+        "likeCount": "437",
+        "commentCount": "11"
+    },
+    {
+        "video_id": "d1RIVbRi5zY",
+        "publishedAt": "2022-10-28T15:00:34Z",
+        "title": "ArjanCodes New Studio Tour 2022",
+        "duration": "PT11M42S",
+        "viewCount": "7126",
+        "likeCount": "492",
+        "commentCount": "49"
+    },
+    {
+        "video_id": "mpqcr8y3MDg",
+        "publishedAt": "2022-10-26T15:00:39Z",
+        "title": "Should You Store Environment Variables as Class or Instance Variables?",
+        "duration": "PT33S",
+        "viewCount": "11558",
+        "likeCount": "293",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "aY71bo8kPFg",
+        "publishedAt": "2022-10-24T15:00:01Z",
+        "title": "Best Practices For Integration Testing And Unit Testing",
+        "duration": "PT46S",
+        "viewCount": "39186",
+        "likeCount": "725",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "b3_THpKM4EU",
+        "publishedAt": "2022-10-21T15:00:20Z",
+        "title": "You Are Going To Like These New Features In Python 3.11",
+        "duration": "PT10M58S",
+        "viewCount": "161881",
+        "likeCount": "7035",
+        "commentCount": "207"
+    },
+    {
+        "video_id": "VSix8cOs3ys",
+        "publishedAt": "2022-10-19T15:00:16Z",
+        "title": "Comparing Object Composition Vs. Class Inheritance",
+        "duration": "PT42S",
+        "viewCount": "15726",
+        "likeCount": "485",
+        "commentCount": "14"
+    },
+    {
+        "video_id": "RV75paVh9oI",
+        "publishedAt": "2022-10-17T15:00:30Z",
+        "title": "Organizing And Tackling Test Fixture Data",
+        "duration": "PT39S",
+        "viewCount": "4259",
+        "likeCount": "106",
+        "commentCount": "2"
+    },
+    {
+        "video_id": "TFa38ONq5PY",
+        "publishedAt": "2022-10-14T15:00:18Z",
+        "title": "A Deep Dive Into Date And Time In Python",
+        "duration": "PT19M39S",
+        "viewCount": "43359",
+        "likeCount": "2472",
+        "commentCount": "108"
+    },
+    {
+        "video_id": "VUKtB1_G4cc",
+        "publishedAt": "2022-10-12T15:00:30Z",
+        "title": "Dealing With Mission-Critical Systems",
+        "duration": "PT48S",
+        "viewCount": "7904",
+        "likeCount": "317",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "pT2wKD22Bcg",
+        "publishedAt": "2022-10-10T15:00:39Z",
+        "title": "Dealing With Imposter Syndrome As A Developer",
+        "duration": "PT33S",
+        "viewCount": "4071",
+        "likeCount": "203",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "n0i4SqjQdis",
+        "publishedAt": "2022-10-07T15:00:37Z",
+        "title": "Step-By-Step Chess Game Refactoring | Code Roast",
+        "duration": "PT32M55S",
+        "viewCount": "50244",
+        "likeCount": "2285",
+        "commentCount": "137"
+    },
+    {
+        "video_id": "HrO9GLsZUiA",
+        "publishedAt": "2022-10-05T15:00:09Z",
+        "title": "How To Deal With Old Legacy Code",
+        "duration": "PT36S",
+        "viewCount": "4337",
+        "likeCount": "121",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "tBA-DLgCRO4",
+        "publishedAt": "2022-10-04T19:42:13Z",
+        "title": "Become A Better Software Developer // ArjanLive Q&A",
+        "duration": "PT1H57M48S",
+        "viewCount": "9560",
+        "likeCount": "280",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "A0bfRFu9rGo",
+        "publishedAt": "2022-10-03T15:00:04Z",
+        "title": "How To Become A Senior Software Developer",
+        "duration": "PT29S",
+        "viewCount": "53419",
+        "likeCount": "1614",
+        "commentCount": "17"
+    },
+    {
+        "video_id": "1nQPkUbHvsI",
+        "publishedAt": "2022-09-30T15:00:02Z",
+        "title": "Is A Mac Good For Software Development?",
+        "duration": "PT12M30S",
+        "viewCount": "68990",
+        "likeCount": "2333",
+        "commentCount": "183"
+    },
+    {
+        "video_id": "qLAWPxupWg8",
+        "publishedAt": "2022-09-28T15:00:37Z",
+        "title": "Watch Out When Using A Framework Like Django",
+        "duration": "PT31S",
+        "viewCount": "128946",
+        "likeCount": "2832",
+        "commentCount": "73"
+    },
+    {
+        "video_id": "7d3pIR90Bwo",
+        "publishedAt": "2022-09-26T15:00:05Z",
+        "title": "Tips For Productive Coding Time",
+        "duration": "PT24S",
+        "viewCount": "7503",
+        "likeCount": "344",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "UcKkmwaRbsQ",
+        "publishedAt": "2022-09-23T15:00:27Z",
+        "title": "A Deep Dive Into Pathlib And The Magic Behind It",
+        "duration": "PT16M56S",
+        "viewCount": "52487",
+        "likeCount": "2391",
+        "commentCount": "139"
+    },
+    {
+        "video_id": "G1ZFOkrelxc",
+        "publishedAt": "2022-09-21T15:00:06Z",
+        "title": "Functional Vs. Object-Oriented Programming",
+        "duration": "PT46S",
+        "viewCount": "75958",
+        "likeCount": "2644",
+        "commentCount": "40"
+    },
+    {
+        "video_id": "biqbcy2w5ls",
+        "publishedAt": "2022-09-19T15:15:01Z",
+        "title": "How To Become A Pro In Python",
+        "duration": "PT30S",
+        "viewCount": "52869",
+        "likeCount": "2827",
+        "commentCount": "31"
+    },
+    {
+        "video_id": "YGcd0lAQCl8",
+        "publishedAt": "2022-09-16T15:00:20Z",
+        "title": "Infrastructure-as-Code: Easy Cloud Deployment In Python",
+        "duration": "PT22M28S",
+        "viewCount": "35862",
+        "likeCount": "760",
+        "commentCount": "56"
+    },
+    {
+        "video_id": "OgrThhKXd1w",
+        "publishedAt": "2022-09-13T14:34:15Z",
+        "title": "Data-Oriented Classes Vs. Behavior-Oriented Classes",
+        "duration": "PT27S",
+        "viewCount": "10818",
+        "likeCount": "324",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "Mfmr_Puhtew",
+        "publishedAt": "2022-09-09T15:00:13Z",
+        "title": "F-strings In Python: Everything You Need To Know",
+        "duration": "PT23M29S",
+        "viewCount": "53127",
+        "likeCount": "2284",
+        "commentCount": "235"
+    },
+    {
+        "video_id": "6npF9mC12VY",
+        "publishedAt": "2022-09-06T20:09:27Z",
+        "title": "Become A Better Software Developer // ArjanLive Q&A",
+        "duration": "PT1H59M11S",
+        "viewCount": "12287",
+        "likeCount": "343",
+        "commentCount": "20"
+    },
+    {
+        "video_id": "qR4-PBLUZNw",
+        "publishedAt": "2022-09-02T15:00:35Z",
+        "title": "5 Tips To Achieve Low Coupling In Your Python Code",
+        "duration": "PT18M30S",
+        "viewCount": "107187",
+        "likeCount": "3350",
+        "commentCount": "136"
+    },
+    {
+        "video_id": "20c34BscL-w",
+        "publishedAt": "2022-08-30T15:00:02Z",
+        "title": "A Little Known Fact About The Silver Play Button",
+        "duration": "PT3M47S",
+        "viewCount": "9283",
+        "likeCount": "992",
+        "commentCount": "225"
+    },
+    {
+        "video_id": "L_KlPZ5qBOU",
+        "publishedAt": "2022-08-26T15:00:25Z",
+        "title": "Improving The Software Design Of The Financial Dashboard - Part 3/3",
+        "duration": "PT27M49S",
+        "viewCount": "28058",
+        "likeCount": "764",
+        "commentCount": "51"
+    },
+    {
+        "video_id": "aqTynXNdxy8",
+        "publishedAt": "2022-08-23T15:00:02Z",
+        "title": "Make Sure To Define Types Precisely // Python Tips",
+        "duration": "PT59S",
+        "viewCount": "11955",
+        "likeCount": "623",
+        "commentCount": "23"
+    },
+    {
+        "video_id": "GlRauKqI08Y",
+        "publishedAt": "2022-08-19T15:00:10Z",
+        "title": "Building A Financial Dashboard In Python With Dash - Part 2/3",
+        "duration": "PT22M6S",
+        "viewCount": "53095",
+        "likeCount": "1104",
+        "commentCount": "52"
+    },
+    {
+        "video_id": "LyNpT4BFPJw",
+        "publishedAt": "2022-08-16T15:00:11Z",
+        "title": "How To Simplify Boolean Expressions // Python Tips",
+        "duration": "PT53S",
+        "viewCount": "10178",
+        "likeCount": "379",
+        "commentCount": "22"
+    },
+    {
+        "video_id": "XOFrvzWFM7Y",
+        "publishedAt": "2022-08-05T15:00:31Z",
+        "title": "Getting Started With Dash: Easy Data Visualization In Python - Part 1/3",
+        "duration": "PT27M57S",
+        "viewCount": "117492",
+        "likeCount": "3537",
+        "commentCount": "158"
+    },
+    {
+        "video_id": "QXE6A-Pj6ds",
+        "publishedAt": "2022-08-02T15:00:31Z",
+        "title": "How To Keep Error Handling Code Focused // Python Tips",
+        "duration": "PT1M",
+        "viewCount": "12157",
+        "likeCount": "479",
+        "commentCount": "25"
+    },
+    {
+        "video_id": "JguY36Hlq8A",
+        "publishedAt": "2022-07-29T19:41:22Z",
+        "title": "100K Subs Party And Live Q&A Session // ArjanLive",
+        "duration": "PT1H34M4S",
+        "viewCount": "10108",
+        "likeCount": "538",
+        "commentCount": "49"
+    },
+    {
+        "video_id": "LRwFXazTaFc",
+        "publishedAt": "2022-07-26T15:00:24Z",
+        "title": "Should We Still Use Hungarian Notation? // Python Tips",
+        "duration": "PT1M",
+        "viewCount": "18126",
+        "likeCount": "661",
+        "commentCount": "61"
+    },
+    {
+        "video_id": "EAlaJN2oilY",
+        "publishedAt": "2022-07-22T15:00:13Z",
+        "title": "7 Books You Should Read That Are NOT About Software Development",
+        "duration": "PT18M16S",
+        "viewCount": "27188",
+        "likeCount": "1221",
+        "commentCount": "104"
+    },
+    {
+        "video_id": "HIdGoFHHKuw",
+        "publishedAt": "2022-07-19T15:00:10Z",
+        "title": "Function Composition For The Win // Python Tips",
+        "duration": "PT59S",
+        "viewCount": "16268",
+        "likeCount": "768",
+        "commentCount": "48"
+    },
+    {
+        "video_id": "4B24vYj_vaI",
+        "publishedAt": "2022-07-15T15:00:02Z",
+        "title": "Write AWESOME Code With These 3 Functional Programming Concepts",
+        "duration": "PT22M49S",
+        "viewCount": "110818",
+        "likeCount": "3433",
+        "commentCount": "161"
+    },
+    {
+        "video_id": "FPp42_WwENQ",
+        "publishedAt": "2022-07-12T15:00:07Z",
+        "title": "Interface Segregation In One Minute // Python Tips",
+        "duration": "PT58S",
+        "viewCount": "13883",
+        "likeCount": "382",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "zkMRWDQV4Tg",
+        "publishedAt": "2022-07-08T15:00:40Z",
+        "title": "How To Use Docker To Make Local Development A Breeze",
+        "duration": "PT21M53S",
+        "viewCount": "372657",
+        "likeCount": "10940",
+        "commentCount": "358"
+    },
+    {
+        "video_id": "8T9vJ3U1VEI",
+        "publishedAt": "2022-07-05T15:00:10Z",
+        "title": "Dependency Inversion In One Minute // Python Tips",
+        "duration": "PT1M",
+        "viewCount": "25183",
+        "likeCount": "980",
+        "commentCount": "38"
+    },
+    {
+        "video_id": "dgBCEB2jVU0",
+        "publishedAt": "2022-07-01T15:00:19Z",
+        "title": "5 Reasons Why You Should Use Type Hints In Python",
+        "duration": "PT13M54S",
+        "viewCount": "116337",
+        "likeCount": "5781",
+        "commentCount": "249"
+    },
+    {
+        "video_id": "psu7LYIyQAo",
+        "publishedAt": "2022-06-28T15:00:26Z",
+        "title": "Use A Dictionary Instead Of If-Else Statements // Python Tips",
+        "duration": "PT59S",
+        "viewCount": "54704",
+        "likeCount": "2652",
+        "commentCount": "144"
+    },
+    {
+        "video_id": "mkgd9iOiICc",
+        "publishedAt": "2022-06-24T15:00:36Z",
+        "title": "Property-Based Testing In Python: Hypothesis is AWESOME",
+        "duration": "PT21M23S",
+        "viewCount": "55467",
+        "likeCount": "3075",
+        "commentCount": "95"
+    },
+    {
+        "video_id": "3uQQApd59qQ",
+        "publishedAt": "2022-06-21T15:00:03Z",
+        "title": "Comprehensions Not Only Work With Lists // Python Tips",
+        "duration": "PT48S",
+        "viewCount": "12204",
+        "likeCount": "559",
+        "commentCount": "26"
+    },
+    {
+        "video_id": "GpqAQxH1Afc",
+        "publishedAt": "2022-06-17T15:00:08Z",
+        "title": "Next-Level Concurrent Programming In Python With Asyncio",
+        "duration": "PT19M19S",
+        "viewCount": "218360",
+        "likeCount": "8834",
+        "commentCount": "288"
+    },
+    {
+        "video_id": "GSWrOQBTvLQ",
+        "publishedAt": "2022-06-14T15:00:07Z",
+        "title": "Use Tuples To Write Shorter Code // Python Tips",
+        "duration": "PT58S",
+        "viewCount": "18691",
+        "likeCount": "746",
+        "commentCount": "38"
+    },
+    {
+        "video_id": "tPh9_Cx4yZY",
+        "publishedAt": "2022-06-10T15:00:23Z",
+        "title": "Mermaid vs PlantUML vs HackerDraw: Which One Is Best For You?",
+        "duration": "PT13M37S",
+        "viewCount": "74141",
+        "likeCount": "1863",
+        "commentCount": "65"
+    },
+    {
+        "video_id": "e_qiJek6U2o",
+        "publishedAt": "2022-06-07T15:00:22Z",
+        "title": "Here's A Smarter Way To Use Exception Objects // Python Tips",
+        "duration": "PT59S",
+        "viewCount": "17024",
+        "likeCount": "739",
+        "commentCount": "38"
+    },
+    {
+        "video_id": "-ghD-XjjO2g",
+        "publishedAt": "2022-06-03T15:00:01Z",
+        "title": "5 Tips For Object-Oriented Programming Done Well - In Python",
+        "duration": "PT16M8S",
+        "viewCount": "232110",
+        "likeCount": "10805",
+        "commentCount": "252"
+    },
+    {
+        "video_id": "dvqFNOhNIjM",
+        "publishedAt": "2022-06-01T15:00:19Z",
+        "title": "You Can Do More With F-strings Than You Think",
+        "duration": "PT58S",
+        "viewCount": "21814",
+        "likeCount": "1336",
+        "commentCount": "42"
+    },
+    {
+        "video_id": "VLBERpAEzew",
+        "publishedAt": "2022-05-30T15:00:11Z",
+        "title": "Make Sure You Choose The Right Data Structure // Python Tips",
+        "duration": "PT1M",
+        "viewCount": "11556",
+        "likeCount": "553",
+        "commentCount": "39"
+    },
+    {
+        "video_id": "NI5IGAim8XU",
+        "publishedAt": "2022-05-27T15:00:13Z",
+        "title": "How To Write Unit Tests For Existing Python Code // Part 2 of 2",
+        "duration": "PT17M18S",
+        "viewCount": "58732",
+        "likeCount": "2888",
+        "commentCount": "123"
+    },
+    {
+        "video_id": "Dv_HAhgPe7k",
+        "publishedAt": "2022-05-25T15:00:06Z",
+        "title": "Should You Use A List Or A Set? // Python Tips",
+        "duration": "PT59S",
+        "viewCount": "12386",
+        "likeCount": "635",
+        "commentCount": "33"
+    },
+    {
+        "video_id": "Yj5bNOKMNbg",
+        "publishedAt": "2022-05-23T15:00:13Z",
+        "title": "Do You Really Need That Instance Variable? // Python Tips",
+        "duration": "PT52S",
+        "viewCount": "13729",
+        "likeCount": "463",
+        "commentCount": "15"
+    },
+    {
+        "video_id": "ULxMQ57engo",
+        "publishedAt": "2022-05-20T15:00:17Z",
+        "title": "How To Write Unit Tests For Existing Python Code // Part 1 of 2",
+        "duration": "PT25M7S",
+        "viewCount": "232713",
+        "likeCount": "9917",
+        "commentCount": "209"
+    },
+    {
+        "video_id": "26LfZUwqBes",
+        "publishedAt": "2022-05-18T15:00:01Z",
+        "title": "How To Represent Monetary Amounts In Code // Python Tips",
+        "duration": "PT1M",
+        "viewCount": "14797",
+        "likeCount": "570",
+        "commentCount": "44"
+    },
+    {
+        "video_id": "On6dDqSi02Q",
+        "publishedAt": "2022-05-16T15:00:11Z",
+        "title": "Data Classes In Less Than A Minute // Python Tips",
+        "duration": "PT59S",
+        "viewCount": "11876",
+        "likeCount": "464",
+        "commentCount": "14"
+    },
+    {
+        "video_id": "fsB8_79zI_A",
+        "publishedAt": "2022-05-13T15:00:19Z",
+        "title": "Let's Take The Adapter Design Pattern To The Next Level",
+        "duration": "PT22M45S",
+        "viewCount": "56426",
+        "likeCount": "1534",
+        "commentCount": "93"
+    },
+    {
+        "video_id": "NAWoq5036EA",
+        "publishedAt": "2022-05-11T15:00:18Z",
+        "title": "Should You Represent Enums By Numbers Or By Strings? // Python Tips",
+        "duration": "PT47S",
+        "viewCount": "16313",
+        "likeCount": "482",
+        "commentCount": "36"
+    },
+    {
+        "video_id": "kIsTFApllIQ",
+        "publishedAt": "2022-05-09T15:00:24Z",
+        "title": "Different Ways To Define Enums // Python Tips",
+        "duration": "PT48S",
+        "viewCount": "22408",
+        "likeCount": "705",
+        "commentCount": "45"
+    },
+    {
+        "video_id": "Fot3_9eDmOs",
+        "publishedAt": "2022-05-06T15:00:16Z",
+        "title": "A Simple & Effective Way To Improve Python Class Performance",
+        "duration": "PT12M40S",
+        "viewCount": "108074",
+        "likeCount": "5966",
+        "commentCount": "202"
+    },
+    {
+        "video_id": "umTVzYQcvSY",
+        "publishedAt": "2022-05-04T15:00:28Z",
+        "title": "Regular Method Vs. Static Method Vs. Function // Python Tips",
+        "duration": "PT59S",
+        "viewCount": "18118",
+        "likeCount": "590",
+        "commentCount": "27"
+    },
+    {
+        "video_id": "CBkwhzf8-bI",
+        "publishedAt": "2022-05-02T15:00:05Z",
+        "title": "Integer Values That Are Actually Readable // Python Tips",
+        "duration": "PT55S",
+        "viewCount": "13984",
+        "likeCount": "599",
+        "commentCount": "30"
+    },
+    {
+        "video_id": "5eSaJGSGLs0",
+        "publishedAt": "2022-04-29T15:00:03Z",
+        "title": "How To Setup A MacBook Pro M1 For Software Development",
+        "duration": "PT21M23S",
+        "viewCount": "369280",
+        "likeCount": "8776",
+        "commentCount": "227"
+    },
+    {
+        "video_id": "-rf_wzK6vPU",
+        "publishedAt": "2022-04-27T15:00:00Z",
+        "title": "Dependency Injection Explained In One Minute // Python Tips",
+        "duration": "PT59S",
+        "viewCount": "41829",
+        "likeCount": "1026",
+        "commentCount": "36"
+    },
+    {
+        "video_id": "TZ5DEugWLp8",
+        "publishedAt": "2022-04-25T15:00:14Z",
+        "title": "Don't Use Inheritance To Configure Objects // Python Tips",
+        "duration": "PT59S",
+        "viewCount": "14071",
+        "likeCount": "530",
+        "commentCount": "31"
+    },
+    {
+        "video_id": "GTiKn1JwXrI",
+        "publishedAt": "2022-04-22T15:00:08Z",
+        "title": "Things Are Going To Change Around Here",
+        "duration": "PT14M10S",
+        "viewCount": "17369",
+        "likeCount": "1253",
+        "commentCount": "118"
+    },
+    {
+        "video_id": "EmywjH0wY60",
+        "publishedAt": "2022-04-20T15:00:07Z",
+        "title": "Don't Run Code Directly, Use A Main Function // Python Tips",
+        "duration": "PT59S",
+        "viewCount": "16765",
+        "likeCount": "694",
+        "commentCount": "24"
+    },
+    {
+        "video_id": "3IsC7cA163I",
+        "publishedAt": "2022-04-15T15:00:01Z",
+        "title": "Refactoring a Rock Paper Scissors Lizard Spock Game // Part 2",
+        "duration": "PT25M15S",
+        "viewCount": "22027",
+        "likeCount": "678",
+        "commentCount": "72"
+    },
+    {
+        "video_id": "A9AhKxSBZ0Q",
+        "publishedAt": "2022-04-13T15:00:13Z",
+        "title": "Why You Should Avoid Wildcard Imports // Python Tips",
+        "duration": "PT1M",
+        "viewCount": "9563",
+        "likeCount": "305",
+        "commentCount": "22"
+    },
+    {
+        "video_id": "-olA2AT4vjY",
+        "publishedAt": "2022-04-11T15:00:00Z",
+        "title": "This Is When Keyword Arguments Are Really Useful // Python Tips",
+        "duration": "PT53S",
+        "viewCount": "10784",
+        "likeCount": "399",
+        "commentCount": "22"
+    },
+    {
+        "video_id": "Cs9aDesDORc",
+        "publishedAt": "2022-04-08T15:00:12Z",
+        "title": "Refactoring a Rock Paper Scissors Lizard Spock Game // Code Roast Part 1",
+        "duration": "PT28M30S",
+        "viewCount": "29703",
+        "likeCount": "1111",
+        "commentCount": "89"
+    },
+    {
+        "video_id": "rNOkOvwSJPg",
+        "publishedAt": "2022-04-06T15:00:27Z",
+        "title": "Why You Should Use Type Aliases In Python // Python Tips",
+        "duration": "PT58S",
+        "viewCount": "19858",
+        "likeCount": "827",
+        "commentCount": "34"
+    },
+    {
+        "video_id": "evo5Zk_blyI",
+        "publishedAt": "2022-04-04T15:00:20Z",
+        "title": "A Few Neat Tricks For Customizing Dataclasses // Python Tips",
+        "duration": "PT58S",
+        "viewCount": "13656",
+        "likeCount": "617",
+        "commentCount": "16"
+    },
+    {
+        "video_id": "zGDerGjNd8U",
+        "publishedAt": "2022-04-01T15:00:28Z",
+        "title": "7 DevOps Best Practices For Launching A SaaS Platform",
+        "duration": "PT19M",
+        "viewCount": "47694",
+        "likeCount": "2397",
+        "commentCount": "90"
+    },
+    {
+        "video_id": "UU7cb1qiS64",
+        "publishedAt": "2022-03-30T15:12:41Z",
+        "title": "How To Properly Deal With Config Settings // Python Tips",
+        "duration": "PT58S",
+        "viewCount": "41762",
+        "likeCount": "1237",
+        "commentCount": "90"
+    },
+    {
+        "video_id": "JNbt5m3lIdk",
+        "publishedAt": "2022-03-28T15:00:08Z",
+        "title": "Announcing The Black VS Code Theme (Launching April 1st)",
+        "duration": "PT49S",
+        "viewCount": "12743",
+        "likeCount": "901",
+        "commentCount": "64"
+    },
+    {
+        "video_id": "CvQ7e6yUtnw",
+        "publishedAt": "2022-03-25T16:00:16Z",
+        "title": "This Is Why Python Data Classes Are Awesome",
+        "duration": "PT22M19S",
+        "viewCount": "869743",
+        "likeCount": "21753",
+        "commentCount": "529"
+    },
+    {
+        "video_id": "AZWk9W0XEbs",
+        "publishedAt": "2022-03-23T16:00:05Z",
+        "title": "A Quick Code Simplification Trick // Python Tips",
+        "duration": "PT41S",
+        "viewCount": "27904",
+        "likeCount": "1192",
+        "commentCount": "40"
+    },
+    {
+        "video_id": "GIDy0oCfZHg",
+        "publishedAt": "2022-03-21T16:00:08Z",
+        "title": "Catching All Exceptions Will Break Your Code // Python Tips",
+        "duration": "PT50S",
+        "viewCount": "57926",
+        "likeCount": "1859",
+        "commentCount": "31"
+    },
+    {
+        "video_id": "ph2HjBQuI8Y",
+        "publishedAt": "2022-03-18T16:00:24Z",
+        "title": "You Can Do Really Cool Things With Functions In Python",
+        "duration": "PT19M47S",
+        "viewCount": "239656",
+        "likeCount": "7275",
+        "commentCount": "376"
+    },
+    {
+        "video_id": "yVfYYblr5hQ",
+        "publishedAt": "2022-03-16T16:00:36Z",
+        "title": "Don't Obfuscate Your Function Names // Python Tips",
+        "duration": "PT54S",
+        "viewCount": "40386",
+        "likeCount": "1595",
+        "commentCount": "42"
+    },
+    {
+        "video_id": "Brw9p4syhIg",
+        "publishedAt": "2022-03-14T16:00:05Z",
+        "title": "Handle The Special Cases First // Python Tips",
+        "duration": "PT57S",
+        "viewCount": "78529",
+        "likeCount": "4009",
+        "commentCount": "60"
+    },
+    {
+        "video_id": "JiQmpA474BY",
+        "publishedAt": "2022-03-11T16:00:08Z",
+        "title": "Mermaid JS: Finally There's A Great UML & Diagram Drawing Tool",
+        "duration": "PT28M35S",
+        "viewCount": "97830",
+        "likeCount": "3097",
+        "commentCount": "118"
+    },
+    {
+        "video_id": "n0ngeLBJBNU",
+        "publishedAt": "2022-03-04T16:00:19Z",
+        "title": "Refactoring a Battleship Game in Python // Code Roast Part 2 of 2",
+        "duration": "PT23M42S",
+        "viewCount": "18931",
+        "likeCount": "710",
+        "commentCount": "64"
+    },
+    {
+        "video_id": "u3yo-TjeIDg",
+        "publishedAt": "2022-02-25T16:00:33Z",
+        "title": "Refactoring a Battleship Game in Python // Code Roast Part 1 of 2",
+        "duration": "PT24M38S",
+        "viewCount": "29689",
+        "likeCount": "1031",
+        "commentCount": "81"
+    },
+    {
+        "video_id": "mM2-FPm1EhI",
+        "publishedAt": "2022-02-18T16:00:32Z",
+        "title": "Let's Take The Bridge Pattern To The Next Level",
+        "duration": "PT17M13S",
+        "viewCount": "42364",
+        "likeCount": "1194",
+        "commentCount": "65"
+    },
+    {
+        "video_id": "7ccdWqGgHaM",
+        "publishedAt": "2022-02-11T16:00:06Z",
+        "title": "GraphQL vs REST: What's The Difference And When To Use Which?",
+        "duration": "PT26M57S",
+        "viewCount": "201480",
+        "likeCount": "5858",
+        "commentCount": "186"
+    },
+    {
+        "video_id": "14z_Tf3p2Mw",
+        "publishedAt": "2022-02-04T16:00:01Z",
+        "title": "Building A Custom Context Manager In Python: A Closer Look",
+        "duration": "PT14M39S",
+        "viewCount": "52302",
+        "likeCount": "1986",
+        "commentCount": "97"
+    },
+    {
+        "video_id": "apA-O6Qh6hs",
+        "publishedAt": "2022-01-28T16:00:03Z",
+        "title": "8 Tips For Becoming A Senior Developer",
+        "duration": "PT13M38S",
+        "viewCount": "61232",
+        "likeCount": "2818",
+        "commentCount": "100"
+    },
+    {
+        "video_id": "29NMlHHLUsI",
+        "publishedAt": "2022-01-14T16:00:03Z",
+        "title": "What Is Encapsulation And Information Hiding?",
+        "duration": "PT11M58S",
+        "viewCount": "31593",
+        "likeCount": "1170",
+        "commentCount": "51"
+    },
+    {
+        "video_id": "woIkysZytSs",
+        "publishedAt": "2022-01-07T16:00:32Z",
+        "title": "8 Python Coding Tips - From The Google Python Style Guide",
+        "duration": "PT17M12S",
+        "viewCount": "169629",
+        "likeCount": "5360",
+        "commentCount": "172"
+    },
+    {
+        "video_id": "fj2tuTIcUys",
+        "publishedAt": "2021-12-31T16:00:22Z",
+        "title": "Powerful VSCode Tips And Tricks For Python Development And Design",
+        "duration": "PT15M50S",
+        "viewCount": "372940",
+        "likeCount": "8465",
+        "commentCount": "220"
+    },
+    {
+        "video_id": "tEsPyYnzt8s",
+        "publishedAt": "2021-12-24T16:00:26Z",
+        "title": "NEVER Worry About Data Science Projects Configs Again",
+        "duration": "PT28M13S",
+        "viewCount": "110002",
+        "likeCount": "2416",
+        "commentCount": "125"
+    },
+    {
+        "video_id": "zrobgP1EfQs",
+        "publishedAt": "2021-12-20T16:00:30Z",
+        "title": "The Software Designer Mindset",
+        "duration": "PT54S",
+        "viewCount": "14364",
+        "likeCount": "578",
+        "commentCount": "25"
+    },
+    {
+        "video_id": "2IW-ZEui4h4",
+        "publishedAt": "2021-12-17T16:02:45Z",
+        "title": "How To Easily Do Asynchronous Programming With Asyncio In Python",
+        "duration": "PT23M9S",
+        "viewCount": "137192",
+        "likeCount": "5804",
+        "commentCount": "323"
+    },
+    {
+        "video_id": "6ac4Um2Vicg",
+        "publishedAt": "2021-12-10T16:00:04Z",
+        "title": "Refactoring A PDF And Web Scraper Part 2 // CODE ROAST",
+        "duration": "PT33M41S",
+        "viewCount": "19829",
+        "likeCount": "715",
+        "commentCount": "46"
+    },
+    {
+        "video_id": "MXM6VEtf8SE",
+        "publishedAt": "2021-12-03T16:00:18Z",
+        "title": "Refactoring A PDF And Web Scraper Part 1 // CODE ROAST",
+        "duration": "PT37M44S",
+        "viewCount": "45508",
+        "likeCount": "1538",
+        "commentCount": "103"
+    },
+    {
+        "video_id": "WBnVwO_1qsw",
+        "publishedAt": "2021-11-26T16:00:11Z",
+        "title": "Running A Software Development YouTube Channel",
+        "duration": "PT16M19S",
+        "viewCount": "8616",
+        "likeCount": "543",
+        "commentCount": "40"
+    },
+    {
+        "video_id": "rGu33Tk0tCM",
+        "publishedAt": "2021-11-19T16:00:31Z",
+        "title": "How To Make The Command Pattern More Flexible With One Simple Change",
+        "duration": "PT17M43S",
+        "viewCount": "20519",
+        "likeCount": "728",
+        "commentCount": "64"
+    },
+    {
+        "video_id": "FM71_a3txTo",
+        "publishedAt": "2021-11-12T16:00:13Z",
+        "title": "Real-Life Case of the Command Design Pattern",
+        "duration": "PT32M25S",
+        "viewCount": "46980",
+        "likeCount": "1447",
+        "commentCount": "95"
+    },
+    {
+        "video_id": "Kl3_Gmn4Ujg",
+        "publishedAt": "2021-11-05T16:00:09Z",
+        "title": "Purge These 7 Code Smells From Your Python Code",
+        "duration": "PT29M43S",
+        "viewCount": "71841",
+        "likeCount": "2496",
+        "commentCount": "174"
+    },
+    {
+        "video_id": "xvb5hGLoK0A",
+        "publishedAt": "2021-10-29T15:00:27Z",
+        "title": "Protocol Or ABC In Python - When to Use Which One?",
+        "duration": "PT23M45S",
+        "viewCount": "215838",
+        "likeCount": "6954",
+        "commentCount": "292"
+    },
+    {
+        "video_id": "8fFqakxhW84",
+        "publishedAt": "2021-10-22T15:00:04Z",
+        "title": "Refactoring A Data Science Project Part 3 - Configuration Cleanup",
+        "duration": "PT16M27S",
+        "viewCount": "19446",
+        "likeCount": "956",
+        "commentCount": "100"
+    },
+    {
+        "video_id": "Tx4AxbQNv3U",
+        "publishedAt": "2021-10-15T15:00:30Z",
+        "title": "Refactoring A Data Science Project Part 2 - The Information Expert",
+        "duration": "PT29M5S",
+        "viewCount": "29197",
+        "likeCount": "1119",
+        "commentCount": "82"
+    },
+    {
+        "video_id": "ka70COItN40",
+        "publishedAt": "2021-10-08T15:00:20Z",
+        "title": "Refactoring A Data Science Project Part 1 - Abstraction and Composition",
+        "duration": "PT29M31S",
+        "viewCount": "81049",
+        "likeCount": "2875",
+        "commentCount": "217"
+    },
+    {
+        "video_id": "n2b_Cxh20Fw",
+        "publishedAt": "2021-10-01T15:00:23Z",
+        "title": "How to Implement the Strategy Design Pattern in Python",
+        "duration": "PT27M20S",
+        "viewCount": "58800",
+        "likeCount": "1912",
+        "commentCount": "108"
+    },
+    {
+        "video_id": "K47pr6lPxsA",
+        "publishedAt": "2021-09-24T15:00:09Z",
+        "title": "Software Testing Theory + A Few Less Obvious Testing Techniques",
+        "duration": "PT20M33S",
+        "viewCount": "48429",
+        "likeCount": "1420",
+        "commentCount": "125"
+    },
+    {
+        "video_id": "iCE1bDoit9Q",
+        "publishedAt": "2021-09-17T15:00:34Z",
+        "title": "Why the Plugin Architecture Gives You CRAZY Flexibility",
+        "duration": "PT24M6S",
+        "viewCount": "128348",
+        "likeCount": "3960",
+        "commentCount": "198"
+    },
+    {
+        "video_id": "zGbPd4ZP39Y",
+        "publishedAt": "2021-09-10T15:00:28Z",
+        "title": "The Factory Design Pattern is Obsolete in Python",
+        "duration": "PT23M18S",
+        "viewCount": "115484",
+        "likeCount": "2851",
+        "commentCount": "171"
+    },
+    {
+        "video_id": "8eWYxNpMjSU",
+        "publishedAt": "2021-09-03T15:00:04Z",
+        "title": "Refactoring A Tower Defense Game In Python // CODE ROAST",
+        "duration": "PT36M49S",
+        "viewCount": "260175",
+        "likeCount": "6242",
+        "commentCount": "401"
+    },
+    {
+        "video_id": "spp7gE5hQqM",
+        "publishedAt": "2021-08-27T15:00:21Z",
+        "title": "5 Tips To Keep Technical Debt Under Control",
+        "duration": "PT10M51S",
+        "viewCount": "32814",
+        "likeCount": "1365",
+        "commentCount": "88"
+    },
+    {
+        "video_id": "B1j6k2j2eJg",
+        "publishedAt": "2021-08-13T15:00:11Z",
+        "title": "Test-Driven Development In Python // The Power of Red-Green-Refactor",
+        "duration": "PT15M10S",
+        "viewCount": "131999",
+        "likeCount": "3839",
+        "commentCount": "147"
+    },
+    {
+        "video_id": "UPBOOIRrl40",
+        "publishedAt": "2021-08-06T15:00:28Z",
+        "title": "Solving A Common Issue With The Strategy Pattern // In Python",
+        "duration": "PT14M43S",
+        "viewCount": "51862",
+        "likeCount": "1997",
+        "commentCount": "123"
+    },
+    {
+        "video_id": "zmWf_cHyo8s",
+        "publishedAt": "2021-07-30T15:00:27Z",
+        "title": "More Python Code Smells: Avoid These 7 Smelly Snags",
+        "duration": "PT20M29S",
+        "viewCount": "90339",
+        "likeCount": "3301",
+        "commentCount": "217"
+    },
+    {
+        "video_id": "FS_jj7Joj1w",
+        "publishedAt": "2021-07-23T15:00:15Z",
+        "title": "GitHub Copilot 🤖 The Future of Software Development?",
+        "duration": "PT13M59S",
+        "viewCount": "32075",
+        "likeCount": "1189",
+        "commentCount": "119"
+    },
+    {
+        "video_id": "s_4ZrtQs8Do",
+        "publishedAt": "2021-07-16T15:00:34Z",
+        "title": "The Factory Pattern in Python // Separate Creation From Use",
+        "duration": "PT14M58S",
+        "viewCount": "203168",
+        "likeCount": "6357",
+        "commentCount": "265"
+    },
+    {
+        "video_id": "scNNi4860kk",
+        "publishedAt": "2021-07-09T15:00:34Z",
+        "title": "A Closer Look At Structural Pattern Matching // New In Python 3.10!",
+        "duration": "PT17M12S",
+        "viewCount": "107412",
+        "likeCount": "4266",
+        "commentCount": "180"
+    },
+    {
+        "video_id": "LQdZNjhzE9o",
+        "publishedAt": "2021-07-02T14:00:21Z",
+        "title": "Answering Your Most Frequently Asked Python Questions // Q&A 07-2021",
+        "duration": "PT17M46S",
+        "viewCount": "17292",
+        "likeCount": "699",
+        "commentCount": "51"
+    },
+    {
+        "video_id": "LrtnLEkOwFE",
+        "publishedAt": "2021-06-25T14:00:05Z",
+        "title": "7 Python Mistakes That Instantly Expose Junior Developers",
+        "duration": "PT22M10S",
+        "viewCount": "394557",
+        "likeCount": "13799",
+        "commentCount": "619"
+    },
+    {
+        "video_id": "Vj-iU-8_xLs",
+        "publishedAt": "2021-06-18T14:00:24Z",
+        "title": "Do We Still Need Dataclasses? // PYDANTIC Tutorial",
+        "duration": "PT16M33S",
+        "viewCount": "212384",
+        "likeCount": "7038",
+        "commentCount": "239"
+    },
+    {
+        "video_id": "0mcP8ZpUR38",
+        "publishedAt": "2021-06-11T12:00:00Z",
+        "title": "Composition Is Better Than Inheritance in Python",
+        "duration": "PT23M29S",
+        "viewCount": "286885",
+        "likeCount": "9380",
+        "commentCount": "432"
+    },
+    {
+        "video_id": "yrH0lWPGXsc",
+        "publishedAt": "2021-06-08T12:00:32Z",
+        "title": "🎙 Interview with Sybren Stüvel, Developer @ Blender 3D",
+        "duration": "PT29M25S",
+        "viewCount": "6576",
+        "likeCount": "271",
+        "commentCount": "32"
+    },
+    {
+        "video_id": "F_Yn7nLaldw",
+        "publishedAt": "2021-06-04T12:00:14Z",
+        "title": "Going All-in on Software Design in Python + an ANNOUNCEMENT 🎙",
+        "duration": "PT5M24S",
+        "viewCount": "8403",
+        "likeCount": "702",
+        "commentCount": "107"
+    },
+    {
+        "video_id": "uAQAgPSwZf0",
+        "publishedAt": "2021-05-28T12:00:25Z",
+        "title": "7 UX Design Tips for Developers",
+        "duration": "PT21M12S",
+        "viewCount": "18213",
+        "likeCount": "937",
+        "commentCount": "32"
+    },
+    {
+        "video_id": "l7E3y4te7sA",
+        "publishedAt": "2021-05-21T12:00:31Z",
+        "title": "CODE ROAST: Yahtzee - New Python Code Refactoring Series!",
+        "duration": "PT45M58S",
+        "viewCount": "71920",
+        "likeCount": "2173",
+        "commentCount": "161"
+    },
+    {
+        "video_id": "2ejbLVkCndI",
+        "publishedAt": "2021-05-14T12:00:01Z",
+        "title": "Dependency INVERSION vs Dependency INJECTION in Python",
+        "duration": "PT17M51S",
+        "viewCount": "178801",
+        "likeCount": "5592",
+        "commentCount": "235"
+    },
+    {
+        "video_id": "vRVVyl9uaZc",
+        "publishedAt": "2021-05-07T12:00:25Z",
+        "title": "If You’re Not Using Python DATA CLASSES Yet, You Should 🚀",
+        "duration": "PT10M55S",
+        "viewCount": "326810",
+        "likeCount": "16448",
+        "commentCount": "417"
+    },
+    {
+        "video_id": "Rm4JP7JfsKY",
+        "publishedAt": "2021-04-30T12:00:28Z",
+        "title": "QUESTIONABLE Object Creation Patterns in Python 🤔",
+        "duration": "PT15M10S",
+        "viewCount": "77709",
+        "likeCount": "2474",
+        "commentCount": "129"
+    },
+    {
+        "video_id": "pTB30aXS77U",
+        "publishedAt": "2021-04-23T12:00:19Z",
+        "title": "Uncle Bob’s SOLID Principles Made Easy 🍀 - In Python!",
+        "duration": "PT19M9S",
+        "viewCount": "354190",
+        "likeCount": "18073",
+        "commentCount": "537"
+    },
+    {
+        "video_id": "ihtIcGkTFBU",
+        "publishedAt": "2021-04-16T12:00:14Z",
+        "title": "Why You Should Think About SOFTWARE ARCHITECTURE in Python 💡",
+        "duration": "PT17M10S",
+        "viewCount": "76515",
+        "likeCount": "2649",
+        "commentCount": "130"
+    },
+    {
+        "video_id": "HBeo3tGwLmY",
+        "publishedAt": "2021-04-09T12:00:07Z",
+        "title": "GW BASIC Games I Wrote When I Was a Kid 🎮 Running 30 Year Old Code",
+        "duration": "PT15M37S",
+        "viewCount": "16076",
+        "likeCount": "598",
+        "commentCount": "50"
+    },
+    {
+        "video_id": "J-HWmoTKhC8",
+        "publishedAt": "2021-04-02T12:00:08Z",
+        "title": "Monadic Error Handling in Python ⚠ Write Better Python Code Part 7B",
+        "duration": "PT13M16S",
+        "viewCount": "51688",
+        "likeCount": "2046",
+        "commentCount": "119"
+    },
+    {
+        "video_id": "ZsvftkbbrR0",
+        "publishedAt": "2021-03-26T13:00:24Z",
+        "title": "Exception Handling Tips in Python ⚠ Write Better Python Code Part 7",
+        "duration": "PT21M46S",
+        "viewCount": "143288",
+        "likeCount": "4710",
+        "commentCount": "201"
+    },
+    {
+        "video_id": "OLDednK-zwA",
+        "publishedAt": "2021-03-22T09:51:57Z",
+        "title": "Channel Trailer ArjanCodes - March 2021",
+        "duration": "PT58S",
+        "viewCount": "23481",
+        "likeCount": "162",
+        "commentCount": "24"
+    },
+    {
+        "video_id": "PP808csBLyc",
+        "publishedAt": "2021-03-19T13:00:16Z",
+        "title": "1000 Subscribers! 🚀 WHY I Started this Channel and WHAT'S NEXT",
+        "duration": "PT8M28S",
+        "viewCount": "4637",
+        "likeCount": "476",
+        "commentCount": "108"
+    },
+    {
+        "video_id": "t0mCrXHsLbI",
+        "publishedAt": "2021-03-12T13:07:16Z",
+        "title": "Two UNDERRATED Design Patterns 💡 Write BETTER PYTHON CODE Part 6",
+        "duration": "PT17M26S",
+        "viewCount": "74392",
+        "likeCount": "2771",
+        "commentCount": "142"
+    },
+    {
+        "video_id": "jmP3fp_BhmE",
+        "publishedAt": "2021-02-26T06:00:10Z",
+        "title": "100% CODE COVERAGE - Think You're Done? Think AGAIN.☝",
+        "duration": "PT18M50S",
+        "viewCount": "42663",
+        "likeCount": "2000",
+        "commentCount": "96"
+    },
+    {
+        "video_id": "oNalXg67XEE",
+        "publishedAt": "2021-02-19T06:00:08Z",
+        "title": "Observer Pattern Tutorial: I NEVER Knew Events Were THIS Powerful 🚀",
+        "duration": "PT15M17S",
+        "viewCount": "219362",
+        "likeCount": "7347",
+        "commentCount": "365"
+    },
+    {
+        "video_id": "IHHK46a9wM4",
+        "publishedAt": "2021-02-12T06:00:03Z",
+        "title": "Build a GLASSMORPHISM React Component - Typescript & Material-UI",
+        "duration": "PT19M3S",
+        "viewCount": "9164",
+        "likeCount": "343",
+        "commentCount": "20"
+    },
+    {
+        "video_id": "WQ8bNdxREHU",
+        "publishedAt": "2021-02-05T10:37:45Z",
+        "title": "The Strategy Pattern: Write BETTER PYTHON CODE Part 3",
+        "duration": "PT15M31S",
+        "viewCount": "132413",
+        "likeCount": "5350",
+        "commentCount": "214"
+    },
+    {
+        "video_id": "Kv5jhbSkqLE",
+        "publishedAt": "2021-01-29T06:00:08Z",
+        "title": "Dependency Inversion: Write BETTER PYTHON CODE Part 2",
+        "duration": "PT9M3S",
+        "viewCount": "90901",
+        "likeCount": "6337",
+        "commentCount": "185"
+    },
+    {
+        "video_id": "eiDyK_ofPPM",
+        "publishedAt": "2021-01-22T09:46:40Z",
+        "title": "Cohesion and Coupling: Write BETTER PYTHON CODE Part 1",
+        "duration": "PT26M14S",
+        "viewCount": "230644",
+        "likeCount": "8874",
+        "commentCount": "390"
+    },
+    {
+        "video_id": "G2F0evNym5s",
+        "publishedAt": "2021-01-08T11:59:57Z",
+        "title": "FROM PRODUCT IDEA TO SOFTWARE - turn your idea into reality in a few steps",
+        "duration": "PT15M19S",
+        "viewCount": "8389",
+        "likeCount": "486",
+        "commentCount": "16"
+    },
+    {
+        "video_id": "rDbGlE42MOc",
+        "publishedAt": "2020-12-18T06:00:07Z",
+        "title": "Full stack WEB DEVELOPMENT in 2021 - the ULTIMATE tech stack for FAST web app development",
+        "duration": "PT13M17S",
+        "viewCount": "27578",
+        "likeCount": "717",
+        "commentCount": "31"
+    }
+]

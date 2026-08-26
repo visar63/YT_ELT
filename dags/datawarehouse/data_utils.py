@@ -4,7 +4,7 @@ from psycopg2.extras import RealDictCursor
 
 table_name = "yt_api"  # Define the table name for storing video statistics
 
-def get_conn_cursor():
+def get_conn_cursor() -> tuple:
     """
     Establishes a connection to the PostgreSQL database using Airflow's PostgresHook.
 
@@ -29,7 +29,7 @@ def close_conn_cursor(conn, cur):
     conn.close()  # Close the connection to avoid resource leaks
 
 
-def create_schema(schema_name):
+def create_schema(schema_name: str):
     """
     Creates a schema in the PostgreSQL database if it does not already exist.
 
@@ -42,7 +42,7 @@ def create_schema(schema_name):
     close_conn_cursor(conn, cur)  # Close the connection and cursor
 
 
-def create_table(schema_name, table_name):
+def create_table(schema_name: str, table_name: str):
     """
     Creates a table in the specified schema of the PostgreSQL database if it does not already exist.
 
@@ -89,7 +89,7 @@ def create_table(schema_name, table_name):
     close_conn_cursor(conn, cur)  # Close the connection and cursor
 
 
-def get_video_ids(cur, schema_name, table_name):
+def get_video_ids(cur, schema_name: str, table_name: str) -> list:
     """
     Retrieves all video IDs from the specified table in the PostgreSQL database.
 
