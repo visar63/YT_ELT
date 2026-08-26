@@ -24,7 +24,7 @@ def staging_table():
     try:
         conn, cur = get_conn_cursor()  # Get database connection and cursor
 
-        YT_data = load_data(1)  # Load data from the JSON file
+        YT_data = load_data(0)  # Load data from the JSON file
         if YT_data is None:
             logger.error("No data loaded. Exiting the staging_table task.")
             return  # Exit the function if no data is loaded
@@ -36,14 +36,14 @@ def staging_table():
 
         for row in YT_data:
             if len(table_ids) == 0 or row['video_id'] not in table_ids:
-                insert_rows(cur, schema_name, table, row)  # Insert new rows into the staging table
+                insert_rows(cur, conn, schema_name, row)  # Insert new rows into the staging schema_name
             else:
-                update_rows(cur, schema_name, table, row)  # Update existing rows in the staging table
+                update_rows(cur, conn, schema_name, row)  # Update existing rows in the staging table
 
         ids_in_json = {row['video_id'] for row in YT_data}  # Get video IDs from the loaded JSON data
         ids_to_delete = set(table_ids) - ids_in_json  # Determine which IDs need to be deleted from the database
         for video_id in ids_to_delete:
-            delete_rows(cur, schema_name, table, video_id)  # Delete rows from the staging table that are not in the JSON data
+            delete_rows(cur, conn, schema_name, video_id)  # Delete rows from the staging table that are not in the JSON data
 
         logger.info("Staging table updated successfully.")  # Log a success message
             
@@ -51,6 +51,7 @@ def staging_table():
 
     except Exception as e:
         logger.error(f"Error occurred while creating staging table: {e}")
+        raise  # Re-raise the exception to propagate it up the call stack
     finally:
         close_conn_cursor(conn, cur)  # Close the database connection and cursor
 
@@ -74,24 +75,25 @@ def core_table():
         staging_rows = cur.fetchall()  # Fetch all rows from the staging table
 
         for row in staging_rows:
-            video_id = row[0]  # Assuming the first column is video_id
+            video_id = row["Video_ID"]
             current_video_ids.add(video_id)  # Add the video ID to the current set
 
             if len(table_ids) == 0 or video_id not in table_ids:
                 transformed_row = transform_data(row)  # Transform the data before inserting into the core table
-                insert_rows(cur, schema_name, table, transformed_row)  # Insert new rows into the core table
+                insert_rows(cur, conn, schema_name, transformed_row)  # Insert new rows into the core table
             else:
                 transformed_row = transform_data(row)
-                update_rows(cur, schema_name, table, transformed_row)  # Update existing rows in the core table
+                update_rows(cur, conn, schema_name, transformed_row)  # Update existing rows in the core table
 
         ids_to_delete = set(table_ids) - current_video_ids  # Determine which IDs need to be deleted from the core table
         for video_id in ids_to_delete:
-            delete_rows(cur, schema_name, table, video_id)  # Delete rows from the core table that are not in the current set
+            delete_rows(cur, conn, schema_name, video_id)  # Delete rows from the core table that are not in the current set
 
 
         logger.info("Core table updated successfully.")  # Log a success message
 
     except Exception as e:
         logger.error(f"Error occurred while updating core table: {e}")
+        raise  # Re-raise the exception to propagate it up the call stack
     finally:
         close_conn_cursor(conn, cur)  # Close the database connection and cursor

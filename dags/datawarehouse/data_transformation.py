@@ -35,11 +35,18 @@ def transform_data(row: dict) -> dict:
     Returns:
         dict: A transformed dictionary with the duration converted to a timedelta object.
     """
-    transformed_row = row.copy()
-    duration_td = parse_duration(row['duration'])  # Parse the duration string and convert it to a timedelta object
+    duration = row.get('duration') or row.get('Duration')
+    duration_td = parse_duration(duration)  # Parse the duration string and convert it to a timedelta object
 
-    # Parse the duration string and convert it to a timedelta object
-    transformed_row['Duration'] = (datetime.min + duration_td).time()  # Convert the timedelta to a time object
-    transformed_row['Video_Type'] = "Shorts" if duration_td.total_seconds() < timedelta(minutes=1).total_seconds() else "Normal"  # Determine the video type based on duration
+    transformed_row = {
+        'Video_ID': row.get('video_id') or row.get('Video_ID'),
+        'Video_Title': row.get('title') or row.get('Video_Title'),
+        'Upload_Date': row.get('publishedAt') or row.get('Upload_Date'),
+        'Duration': (datetime.min + duration_td).time(),
+        'Video_Type': "Shorts" if duration_td.total_seconds() < timedelta(minutes=1).total_seconds() else "Normal",
+        'Video_Views': row.get('viewCount') or row.get('Video_Views'),
+        'Likes_Count': row.get('likeCount') or row.get('Likes_Count'),
+        'Comment_Count': row.get('commentCount') or row.get('Comment_Count'),
+    }
 
     return transformed_row  # Return the transformed row

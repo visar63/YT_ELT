@@ -48,6 +48,7 @@ def insert_rows(cur, conn, schema, row):
 
     except Exception as e:
         logger.error(f"Error inserting row into {schema}.{table}: {e}")  # Log any errors that occur during insertion
+        raise
 
 def update_rows(cur, conn, schema, row):
     """
@@ -66,39 +67,41 @@ def update_rows(cur, conn, schema, row):
             raise TypeError("Schema name must be a string.")
 
         elif schema == "staging":
-
-            video_id = 'video_id'  # Define the column name for video ID
-            upload_date = 'publishedAt'  # Define the column name for upload date
-            video_title = 'title'  # Define the column name for video title
-            video_views = 'viewCount'  # Define the column name for video views
-            likes_count = 'likeCount'  # Define the column name for likes count
-            comment_count = 'commentCount'  # Define the column name for comment count
-
-        else:
-            video_id = 'Video_ID'  # Define the column name for video ID
-            upload_date = 'Upload_Date'  # Define the column name for upload date
-            video_title = 'Video_Title'  # Define the column name for video title
-            video_views = 'Video_Views'  # Define the column name for video views
-            likes_count = 'Likes_Count'  # Define the column name for likes count
-            comment_count = 'Comment_Count'  # Define the column name for comment count
-
-
-            # Prepare the SQL query for updating data in the specified schema and table
             update_query = f"""
             UPDATE {schema}.{table}
-            SET "Video_Title" = %(video_title)s,
-                "Video_Views" = %(video_views)s,
-                "Likes_Count" = %(likes_count)s,
-                "Comment_Count" = %(comment_count)s
-            WHERE "Video_ID" = %(video_id)s AND "Upload_Date" = %(upload_date)s;
+            SET "Video_Title" = %(title)s,
+                "Upload_Date" = %(publishedAt)s,
+                "Duration" = %(duration)s,
+                "Video_Views" = %(viewCount)s,
+                "Likes_Count" = %(likeCount)s,
+                "Comment_Count" = %(commentCount)s
+            WHERE "Video_ID" = %(video_id)s;
             """
 
             cur.execute(update_query, row)  # Execute the SQL query with the provided row data
-            conn.commit()  # Commit the transaction to save changes to the database
-            logger.info(f"Row updated in {schema}.{table}: {row}")  # Log the successful update of the row
+
+        else:
+            # Prepare the SQL query for updating data in the specified schema and table
+            update_query = f"""
+            UPDATE {schema}.{table}
+            SET "Video_Title" = %(Video_Title)s,
+                "Upload_Date" = %(Upload_Date)s,
+                "Duration" = %(Duration)s,
+                "Video_Type" = %(Video_Type)s,
+                "Video_Views" = %(Video_Views)s,
+                "Likes_Count" = %(Likes_Count)s,
+                "Comment_Count" = %(Comment_Count)s
+            WHERE "Video_ID" = %(Video_ID)s;
+            """
+
+            cur.execute(update_query, row)  # Execute the SQL query with the provided row data
+
+        conn.commit()  # Commit the transaction to save changes to the database
+        logger.info(f"Row updated in {schema}.{table}: {row}")  # Log the successful update of the row
 
     except Exception as e:
         logger.error(f"Error updating row in {schema}.{table}: {e}")  # Log any errors that occur during update
+        raise
 
 
 def delete_rows(cur, conn, schema, ids_to_delete):
@@ -113,8 +116,10 @@ def delete_rows(cur, conn, schema, ids_to_delete):
     """
     try:
 
-        # ids_to_delete = [str(id) for id in ids_to_delete]  # Convert all IDs to strings for SQL compatibility
-        ids_to_delete = f"""({', '.join(f"'{id}'" for id in ids_to_delete)})"""  # Format the list of IDs for SQL IN clause
+        if isinstance(ids_to_delete, str):
+            ids_to_delete = [ids_to_delete]
+        else:
+            ids_to_delete = list(ids_to_delete)
 
         if schema is None:
             raise ValueError("Schema name must be provided.")
@@ -124,12 +129,13 @@ def delete_rows(cur, conn, schema, ids_to_delete):
         # Prepare the SQL query for deleting data in the specified schema and table
         delete_query = f"""
         DELETE FROM {schema}.{table}
-        WHERE "Video_ID" IN {ids_to_delete};
+        WHERE "Video_ID" = ANY(%s);
         """
 
-        cur.execute(delete_query)  # Execute the SQL query with the provided list of IDs
+        cur.execute(delete_query, (ids_to_delete,))  # Execute the SQL query with the provided list of IDs
         conn.commit()  # Commit the transaction to save changes to the database
         logger.info(f"Rows deleted from {schema}.{table}: {ids_to_delete}")  # Log the successful deletion of rows
 
     except Exception as e:
         logger.error(f"Error deleting rows from {schema}.{table}: {e}")  # Log any errors that occur during deletion
+        raise
