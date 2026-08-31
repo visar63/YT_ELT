@@ -1,5 +1,6 @@
 from airflow import DAG
 from datawarehouse.dwh import staging_table, core_table
+from dataquality.soda import run_soda_checks
 import pendulum
 from datetime import timedelta, datetime
 from api.video_stats import get_channel_playlist_id, get_video_Ids, get_video_details, save_to_json
@@ -57,3 +58,20 @@ with DAG(
 
     # Define dependencies between tasks
     update_staging >> update_core #type: ignore
+
+
+# Define the DAG
+with DAG(
+    'data_quality_checks',
+    default_args=default_args,
+    description='DAG to run data quality checks using Soda.',
+    schedule='0 16 * * *',  # Run daily at noon
+    catchup=False,
+) as dag:
+
+    # Define the tasks in the DAG
+    soda_validate_staging = run_soda_checks('staging')
+    soda_validate_core = run_soda_checks('core')
+
+    # Define dependencies between tasks
+    soda_validate_staging >> soda_validate_core #type: ignore
