@@ -34,8 +34,8 @@ def test_dags_integrity(dag_bag):
 
     # 4. Check if dag has number of tasks we expect
     expected_task_count = {
-        "youtube_video_stats": 4,
-        "update_db": 2,
+        "youtube_video_stats": 5,
+        "update_db": 3,
         "data_quality_checks": 2,
     }
     for dag_id in expected_dag_ids:
