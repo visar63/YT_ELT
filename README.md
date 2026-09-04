@@ -2,14 +2,13 @@
 
 YouTube ELT pipeline built with Apache Airflow, Docker, PostgreSQL, and Soda data quality checks.
 
-The project extracts video metadata and statistics from the YouTube Data API, saves the raw response as a dated JSON file, loads it into a PostgreSQL staging table, transforms the records, writes the final data into a core table, and validates both warehouse layers with Soda.
+The project extracts video metadata and statistics from the YouTube Data API, saves the raw response as a dated JSON file, loads it into a PostgreSQL staging table, transforms the records, writes the final data into a core table, and validates both warehouse layers with Soda. The extraction DAG now triggers the database update DAG, which then triggers the data quality DAG.
 
 ## Stack
 
 - Apache Airflow 2.9.2
 - Python 3.10
 - PostgreSQL 13
-- Redis
 - Docker Compose
 - YouTube Data API v3
 - Soda Core for PostgreSQL
@@ -34,6 +33,10 @@ The project extracts video metadata and statistics from the YouTube Data API, sa
 |-- include/soda/
 |   |-- configuration.yml               # Soda PostgreSQL datasource config
 |   `-- checks.yml                      # Soda checks for yt_api tables
+|-- tests/
+|   |-- conftest.py                     # Pytest fixtures for Airflow, API, and Postgres checks
+|   |-- integration_test.py             # YouTube API and real Postgres connection tests
+|   `-- unit_test.py                    # Variable, connection, and DAG integrity tests
 |-- docker/postgres/
 |   `-- init-multiple-databases.sh      # Creates Airflow and ELT databases
 |-- docker-compose.yaml                 # Local Airflow stack
@@ -43,7 +46,7 @@ The project extracts video metadata and statistics from the YouTube Data API, sa
 
 ## Pipeline
 
-The Airflow project defines three DAGs.
+The Airflow project defines three DAGs. All DAGs use the `Europe/Belgrade` timezone, start from `2026-07-31`, disable catchup, and allow one active run at a time.
 
 ### `youtube_video_stats`
 
@@ -51,8 +54,11 @@ Runs the extraction flow:
 
 1. Gets the channel upload playlist ID.
 2. Gets video IDs from the playlist.
-3. Fetches video details from the YouTube Data API.
+3. Fetches video details from the YouTube Data API in batches of up to 50 video IDs.
 4. Saves the extracted records to `data/video_details_<YYYY-MM-DD>.json`.
+5. Triggers the `update_db` DAG.
+
+Schedule: daily at `14:00` in the configured DAG timezone.
 
 ### `update_db`
 
@@ -64,6 +70,9 @@ Runs the database load and transformation flow:
 4. Creates the `core` schema/table if needed.
 5. Reads staging rows, transforms them, and inserts or updates `core.yt_api`.
 6. Deletes rows that no longer exist in the latest source file.
+7. Triggers the `data_quality_checks` DAG.
+
+Schedule: manual or triggered by `youtube_video_stats`.
 
 ### `data_quality_checks`
 
@@ -72,7 +81,17 @@ Runs Soda scans against both warehouse schemas:
 1. Validates `staging.yt_api`.
 2. Validates `core.yt_api`.
 
-The DAG runs after the database update flow and uses the shared Soda files in `include/soda/`.
+Schedule: manual or triggered by `update_db`. The DAG uses the shared Soda files in `include/soda/`.
+
+## Data Snapshots
+
+The `data/` directory contains extracted JSON snapshots named with the extraction date. The latest checked-in snapshot is:
+
+```text
+data/video_details_2026-09-03.json
+```
+
+The loader reads the file for the current date when `update_db` runs, so trigger `youtube_video_stats` first if today's JSON file does not exist yet.
 
 ## Database Tables
 
@@ -118,6 +137,24 @@ Checks are defined in `include/soda/checks.yml` for the `yt_api` table in the se
 - `Comment_Count` must not be greater than `Video_Views`.
 
 The Airflow task passes the schema dynamically with `SCHEMA=staging` or `SCHEMA=core`, so the same checks file can validate both layers.
+
+## Tests
+
+The project includes Pytest coverage for configuration, Airflow DAG integrity, the YouTube API connection, and the PostgreSQL connection.
+
+Run tests inside an Airflow container:
+
+```powershell
+docker exec -it airflow-scheduler pytest /opt/airflow/tests
+```
+
+Or run them locally from the project root after installing dependencies and setting the required environment variables:
+
+```powershell
+pytest tests
+```
+
+The integration tests require valid YouTube API variables and a reachable PostgreSQL database.
 
 ## Environment Variables
 
@@ -165,6 +202,8 @@ CHANNEL_HANDLE=ArjanCodes
 
 ## Build and Run
 
+Install or rebuild dependencies from `requirements.txt` by rebuilding the custom Airflow image whenever dependencies change.
+
 Build the custom Airflow image:
 
 ```powershell
@@ -203,11 +242,17 @@ In the Airflow UI:
 
 1. Open `http://localhost:8080`.
 2. Enable `youtube_video_stats`.
-3. Trigger `youtube_video_stats` to create a new JSON file.
-4. Enable `update_db`.
-5. Trigger `update_db` to load and transform the data into PostgreSQL.
-6. Enable `data_quality_checks`.
-7. Trigger `data_quality_checks` to validate `staging.yt_api` and `core.yt_api`.
+3. Enable `update_db`.
+4. Enable `data_quality_checks`.
+5. Trigger `youtube_video_stats`.
+
+The normal chained run is:
+
+```text
+youtube_video_stats -> update_db -> data_quality_checks
+```
+
+You can still trigger `update_db` or `data_quality_checks` manually for testing or backfills.
 
 The database update DAG expects a file named like:
 
@@ -216,6 +261,16 @@ data/video_details_<YYYY-MM-DD>.json
 ```
 
 The data quality DAG expects the `staging.yt_api` and `core.yt_api` tables to already exist, so run `update_db` before running `data_quality_checks`.
+
+## Airflow Connections and Variables
+
+Docker Compose injects the Airflow connection and variables from `.env`:
+
+- `AIRFLOW_CONN_POSTGRES_DB_YT_ELT` points to the ELT PostgreSQL database.
+- `AIRFLOW_VAR_API_KEY` stores the YouTube Data API key.
+- `AIRFLOW_VAR_CHANNEL_HANDLE` stores the target YouTube channel handle.
+
+The DAG code reads these through Airflow's `PostgresHook` and `Variable.get()`.
 
 ## Inspecting Data in PostgreSQL
 
