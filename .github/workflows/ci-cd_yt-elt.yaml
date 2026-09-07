@@ -96,7 +96,7 @@ jobs:
             docker-compose.yaml
       - name: Set up Docker Compose
         if: steps.changed-files-tests.outputs.any_changed == 'true'
-        run: docker-compose up -d
+        run: docker compose up -d
       - name: Run unit and integration tests
         if: steps.changed-files-tests.outputs.any_changed == 'true'
         run: docker exec -t airflow-worker sh -c "pytest tests/ -v"
@@ -111,4 +111,4 @@ jobs:
           done
       - name: Tear down Docker Compose
         if: steps.changed-files-tests.outputs.any_changed == 'true'
-        run: docker-compose down
+        run: docker compose down
