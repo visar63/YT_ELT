@@ -83,10 +83,10 @@ jobs:
       DOCKERHUB_REPOSITORY: ${{ vars.DOCKERHUB_REPOSITORY }}
 
     steps:
-      - name: Checkout repository
+      - name: Checkout code
         uses: actions/checkout@v7
 
-      - name: Get changed files
+      - name: Get Changed files
         id: changed-files-tests
         uses: tj-actions/changed-files@v47
         with:
@@ -97,10 +97,10 @@ jobs:
       - name: Set up Docker Compose
         if: steps.changed-files-tests.outputs.any_changed == 'true'
         run: docker compose up -d
-      - name: Run unit and integration tests
+      - name: Run Unit and Integration Tests
         if: steps.changed-files-tests.outputs.any_changed == 'true'
         run: docker exec -t airflow-worker sh -c "pytest tests/ -v"
-      - name: Run end-to-end tests
+      - name: Run End-to-End tests
         if: steps.changed-files-tests.outputs.any_changed == 'true'
         run: |
           DAG_NAMES = (
@@ -109,6 +109,6 @@ jobs:
           for DAG in "${DAG_NAMES[@]}"; do
             docker exec -t airflow-worker sh -c "airflow dags test $DAG"
           done
-      - name: Tear down Docker Compose
+      - name: Tear Down Docker Compose
         if: steps.changed-files-tests.outputs.any_changed == 'true'
         run: docker compose down

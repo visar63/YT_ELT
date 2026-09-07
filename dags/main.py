@@ -65,6 +65,7 @@ with DAG(
     # Define the tasks in the DAG
     update_staging = staging_table()
     update_core = core_table()
+    
 
     trigger_data_quality_checks = TriggerDagRunOperator(
         task_id='trigger_data_quality_checks',
