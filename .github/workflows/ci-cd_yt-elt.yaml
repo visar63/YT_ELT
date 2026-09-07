@@ -103,9 +103,7 @@ jobs:
       - name: Run End-to-End tests
         if: steps.changed-files-tests.outputs.any_changed == 'true'
         run: |
-          DAG_NAMES = (
-            "youtube_video_stats", "update_dbt", "data_quality_checks"
-          )
+          DAG_NAMES=("youtube_video_stats" "update_dbt" "data_quality_checks")
           for DAG in "${DAG_NAMES[@]}"; do
             docker exec -t airflow-worker sh -c "airflow dags test $DAG"
           done
